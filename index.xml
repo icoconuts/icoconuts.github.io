@@ -1,57 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>elion&#39;s blog</title>
-    <link>https://icoconuts.github.io/</link>
-    <description>Recent content on elion&#39;s blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 13 Mar 2021 12:29:15 +0800</lastBuildDate><atom:link href="https://icoconuts.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>好久没去善之味面店啦</title>
-      <link>https://icoconuts.github.io/post/2021-03-13-1/</link>
-      <pubDate>Sat, 13 Mar 2021 12:29:15 +0800</pubDate>
-      
-      <guid>https://icoconuts.github.io/post/2021-03-13-1/</guid>
-      <description>我是tsssssssssssssss</description>
-    </item>
-    
-    <item>
-      <title>好久没去善之味面店啦</title>
-      <link>https://icoconuts.github.io/post/2021-03-04-1/</link>
-      <pubDate>Thu, 04 Mar 2021 12:29:15 +0800</pubDate>
-      
-      <guid>https://icoconuts.github.io/post/2021-03-04-1/</guid>
-      <description>我是差不多有半年没来这里吃面啦，还是这个味道。</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://icoconuts.github.io/about/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://icoconuts.github.io/about/</guid>
-      <description>Hi there My name is Radek and I&amp;rsquo;m the author of this theme. I made it to help you present your ideas easier.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>elion's blog</title><link>https://icoconuts.github.io/</link><description>Recent content on elion's blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 13 Mar 2021 12:29:15 +0800</lastBuildDate><atom:link href="https://icoconuts.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>好久没去善之味面店啦</title><link>https://icoconuts.github.io/post/2021-03-13-1/</link><pubDate>Sat, 13 Mar 2021 12:29:15 +0800</pubDate><guid>https://icoconuts.github.io/post/2021-03-13-1/</guid><description>我111是tsssssssssssssss</description></item><item><title>好久没去善之味面店啦</title><link>https://icoconuts.github.io/post/2021-03-04-1/</link><pubDate>Thu, 04 Mar 2021 12:29:15 +0800</pubDate><guid>https://icoconuts.github.io/post/2021-03-04-1/</guid><description>我是差不多有半年没来这里吃面啦，还是这个味道。</description></item><item><title>About</title><link>https://icoconuts.github.io/about/</link><pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate><guid>https://icoconuts.github.io/about/</guid><description>Hi there My nssame is Radek and I&amp;rsquo;m the author of this theme. I made it to help you present your ideas easier.
 We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
-This theme is pretty basic and covers all of the essentials. All you have to do is start typing!</description>
-    </item>
-    
-    <item>
-      <title>Showcase</title>
-      <link>https://icoconuts.github.io/showcase/</link>
-      <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://icoconuts.github.io/showcase/</guid>
-      <description>Header 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.</description>
-    </item>
-    
-    <item>
-      <title> 2016 Google I/O大会</title>
-      <link>https://icoconuts.github.io/post/2016-g-io/</link>
-      <pubDate>Thu, 19 May 2016 23:29:15 +0800</pubDate>
-      
-      <guid>https://icoconuts.github.io/post/2016-g-io/</guid>
-      <description>发表于HEXO
+This theme is pretty basic and covers all of the essentials. All you have to do is start typing!</description></item><item><title>Showcase</title><link>https://icoconuts.github.io/showcase/</link><pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate><guid>https://icoconuts.github.io/showcase/</guid><description>Header 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.</description></item><item><title> 2016 Google I/O大会</title><link>https://icoconuts.github.io/post/2016-g-io/</link><pubDate>Thu, 19 May 2016 23:29:15 +0800</pubDate><guid>https://icoconuts.github.io/post/2016-g-io/</guid><description>发表于HEXO
 又是一年Google I/O开发者大会。
 咱是门外汉，就当是看一场科幻电影吧。
 总结了一下，有几下看点。
@@ -61,7 +10,6 @@ This theme is pretty basic and covers all of the essentials. All you have to do 
 安全：加入文件加密、无缝系统更新、新媒体框架。
 通知：通知栏交互改进，可直接在通知栏回复应用信息。
 功能：分屏功能、画中画。
-
 除了Android系统以外，Android Wear也得到了升级，以下是Android Wear 2.0的主要功能更新：
 交互：改进了智能手表的操作方式，改进了上滑和下滑的手势以及功能。基于Android Wear 2.0系统的手表可依靠 Wi-Fi 或 LTE来完成数据传输。
 通知：根据信息的不同特性调整通知的背景色，提示的信息将渐渐隐去，仍然保持上滑弹出通知的操作。
@@ -72,7 +20,6 @@ VR平台Daydream Daydream是Google继纸板VR Cardboard之后在虚拟现实领�
 在最新的Android N操作系统中已经新增了Android VR模式，以此方便用户对Daydream的使用。
 VR模式也将带来一系列优化，提高应用表现。
 Daydream的主页让用户在使用头盔的时候能够连接到应用和内容。
-
 在这一环境下，其还创建了其他VR内容，如Youtube VR、街景VR，Google Play Store VR、Google Photos VR等。
 Google还与众多视频网站，如Netflix以及游戏公司EA达成合作协议。
 在大会上，谷歌演示了Daydream VR平台系统操作界面。在会上，还宣布了将要生产适配Daydream的手机厂商，包括三星、HTC、LG、小米、华为、中兴、华硕等。
@@ -80,16 +27,7 @@ Google还与众多视频网站，如Netflix以及游戏公司EA达成合作协�
 Google Home Google Home是本次大会亮相的唯一硬件。
 Google Home：可语音交互的音箱，带给你全新的智能家居体验。
 Google Home 是什么？你第一眼看上去，会觉得它就是一款音箱。外形有点像金属底托的白色台灯，内置有扬声器和麦克风，Google Home 是一款可语音交互的音箱产品。
-在连接到互联网之后，Google Home 又可以变身为你的智能助手，而这得益于 Google Assistant 服务。</description>
-    </item>
-    
-    <item>
-      <title>Hexo生成文章</title>
-      <link>https://icoconuts.github.io/post/hexo-2/</link>
-      <pubDate>Tue, 10 May 2016 21:29:15 +0800</pubDate>
-      
-      <guid>https://icoconuts.github.io/post/hexo-2/</guid>
-      <description>发表于HEXO
+在连接到互联网之后，Google Home 又可以变身为你的智能助手，而这得益于 Google Assistant 服务。</description></item><item><title>Hexo生成文章</title><link>https://icoconuts.github.io/post/hexo-2/</link><pubDate>Tue, 10 May 2016 21:29:15 +0800</pubDate><guid>https://icoconuts.github.io/post/hexo-2/</guid><description>发表于HEXO
 初阶 生成文章
 找到E:\hexo,右键菜单下的Git Bush here.命令行输入：（依次输入）
 hexo n post1 hexo g hexo d hexo s 编辑文章
@@ -106,58 +44,26 @@ hexo new [layout] &amp;quot;postName&amp;quot; #新建文章 其中layout是可�
 至于，对MD文件的编辑，有各式各样的方法，Mac端和Win端都有优秀的MD编辑软件，也有在线的MD编辑软件。
 现在，手机端也是有的。
 目前，我自己选择的是MarkdownPad。
-#Hexo</description>
-    </item>
-    
-    <item>
-      <title>初识Hexo与Hexo安装</title>
-      <link>https://icoconuts.github.io/post/hexo-1/</link>
-      <pubDate>Tue, 10 May 2016 18:29:15 +0800</pubDate>
-      
-      <guid>https://icoconuts.github.io/post/hexo-1/</guid>
-      <description>发表于HEXO
-认识Hexo  Hexo，快速、简洁且高效的博客框架。官方网站戳这里，支持中文。
+#Hexo</description></item><item><title>初识Hexo与Hexo安装</title><link>https://icoconuts.github.io/post/hexo-1/</link><pubDate>Tue, 10 May 2016 18:29:15 +0800</pubDate><guid>https://icoconuts.github.io/post/hexo-1/</guid><description>发表于HEXO
+认识Hexo Hexo，快速、简洁且高效的博客框架。官方网站戳这里，支持中文。
 特点：
 1.超快速度 Node.js 所带来的超快生成速度，让上百个页面在几秒内瞬间完成渲染。
 2.支持 Markdown Hexo 支持 GitHub Flavored Markdown 的所有功能，甚至可以整合 Octopress 的大多数插件。
 3.一键部署 只需一条指令即可部署到 GitHub Pages, Heroku 或其他网站。
 4.丰富的插件 Hexo 拥有强大的插件系统，安装插件可以让 Hexo 支持 Jade, CoffeeScript。
- 好吧，其实我感觉Hexo比WordPress复杂多了。之前折腾WP，只要找好空间，添加好数据库，再通过FTP上传本地配置好的文件，就可以了。
+好吧，其实我感觉Hexo比WordPress复杂多了。之前折腾WP，只要找好空间，添加好数据库，再通过FTP上传本地配置好的文件，就可以了。
 但折腾了几天Hexo后，感觉是陌生的一个框架。
 为什么选择Hexo，一个字“轻”！
 是的，这一点是我一直向往的，本身架设自己的博客不是为了啥，只是为了完成自己网上安家的梦而已。
 不求多少的点击量，不只求安放一个小小的站点。
 安装Hexo 环境需求 就像WP的环境需要，一个能够运行PHP语言的主机空间和一个MySQL数据库。
 Hexo是基于Node.js的静态博客框架，同时也需要Git把本地的hexo内容提交到github上去。
- Git 下载并安装 Node 下载并安装 申请GitHub  以上全部完成后就可以正式安装Hexo，以后的事情感觉都在命令行里完成了。
+Git 下载并安装 Node 下载并安装 申请GitHub 以上全部完成后就可以正式安装Hexo，以后的事情感觉都在命令行里完成了。
 安装Hexo 1.电脑上安装Hexo到全局，命令行输入：
 npm install -g hexo 如果无法安装，可以试试墙内的npm，命令行输入：
 npm install -g cnpm --registry=https://registry.npm.taobao.org 2.在电脑上完成安装后，你需要在某个文件夹下创建你的网站文件夹了。比如在E:\hexo.
 找到E:\hexo,右键菜单下的Git Bush here.
 我们需要初始化hexo文件夹，命令行输入：
 hexo init 再需要安装依赖和插件，命令行输入：
-npm install 如果使用了淘宝源，那么就是:</description>
-    </item>
-    
-    <item>
-      <title>Hello Friend</title>
-      <link>https://icoconuts.github.io/post/hello/</link>
-      <pubDate>Wed, 17 Sep 1986 00:00:00 +0000</pubDate>
-      
-      <guid>https://icoconuts.github.io/post/hello/</guid>
-      <description> &amp;ldquo;Hello, friend?&amp;rdquo; That&amp;rsquo;s lame. Maybe I should give you a name&amp;hellip; But that&amp;rsquo;s a slippery slope. You&amp;rsquo;re only in my head. We have to remember that&amp;hellip; Shit. It&amp;rsquo;s actually happened. I&amp;rsquo;m talking to an imaginary person.
-— Mr. Robot S01E01
- </description>
-    </item>
-    
-    <item>
-      <title>Archive</title>
-      <link>https://icoconuts.github.io/archive/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://icoconuts.github.io/archive/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
+npm install 如果使用了淘宝源，那么就是:</description></item><item><title>Hello Friend</title><link>https://icoconuts.github.io/post/hello/</link><pubDate>Wed, 17 Sep 1986 00:00:00 +0000</pubDate><guid>https://icoconuts.github.io/post/hello/</guid><description> &amp;ldquo;Hello, friend?&amp;rdquo; That&amp;rsquo;s lame. Maybe I should give you a name&amp;hellip; But that&amp;rsquo;s a slippery slope. You&amp;rsquo;re only in my head. We have to remember that&amp;hellip; Shit. It&amp;rsquo;s actually happened. I&amp;rsquo;m talking to an imaginary person.
+— Mr. Robot S01E01</description></item><item><title>Archive</title><link>https://icoconuts.github.io/archive/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://icoconuts.github.io/archive/</guid><description/></item></channel></rss>

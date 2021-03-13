@@ -1,19 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>google on elion&#39;s blog</title>
-    <link>https://icoconuts.github.io/tags/google/</link>
-    <description>Recent content in google on elion&#39;s blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 19 May 2016 23:29:15 +0800</lastBuildDate><atom:link href="https://icoconuts.github.io/tags/google/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title> 2016 Google I/O大会</title>
-      <link>https://icoconuts.github.io/post/2016-g-io/</link>
-      <pubDate>Thu, 19 May 2016 23:29:15 +0800</pubDate>
-      
-      <guid>https://icoconuts.github.io/post/2016-g-io/</guid>
-      <description>发表于HEXO
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>google on elion's blog</title><link>https://icoconuts.github.io/tags/google/</link><description>Recent content in google on elion's blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 19 May 2016 23:29:15 +0800</lastBuildDate><atom:link href="https://icoconuts.github.io/tags/google/index.xml" rel="self" type="application/rss+xml"/><item><title> 2016 Google I/O大会</title><link>https://icoconuts.github.io/post/2016-g-io/</link><pubDate>Thu, 19 May 2016 23:29:15 +0800</pubDate><guid>https://icoconuts.github.io/post/2016-g-io/</guid><description>发表于HEXO
 又是一年Google I/O开发者大会。
 咱是门外汉，就当是看一场科幻电影吧。
 总结了一下，有几下看点。
@@ -23,7 +8,6 @@
 安全：加入文件加密、无缝系统更新、新媒体框架。
 通知：通知栏交互改进，可直接在通知栏回复应用信息。
 功能：分屏功能、画中画。
-
 除了Android系统以外，Android Wear也得到了升级，以下是Android Wear 2.0的主要功能更新：
 交互：改进了智能手表的操作方式，改进了上滑和下滑的手势以及功能。基于Android Wear 2.0系统的手表可依靠 Wi-Fi 或 LTE来完成数据传输。
 通知：根据信息的不同特性调整通知的背景色，提示的信息将渐渐隐去，仍然保持上滑弹出通知的操作。
@@ -34,7 +18,6 @@ VR平台Daydream Daydream是Google继纸板VR Cardboard之后在虚拟现实领�
 在最新的Android N操作系统中已经新增了Android VR模式，以此方便用户对Daydream的使用。
 VR模式也将带来一系列优化，提高应用表现。
 Daydream的主页让用户在使用头盔的时候能够连接到应用和内容。
-
 在这一环境下，其还创建了其他VR内容，如Youtube VR、街景VR，Google Play Store VR、Google Photos VR等。
 Google还与众多视频网站，如Netflix以及游戏公司EA达成合作协议。
 在大会上，谷歌演示了Daydream VR平台系统操作界面。在会上，还宣布了将要生产适配Daydream的手机厂商，包括三星、HTC、LG、小米、华为、中兴、华硕等。
@@ -42,8 +25,4 @@ Google还与众多视频网站，如Netflix以及游戏公司EA达成合作协�
 Google Home Google Home是本次大会亮相的唯一硬件。
 Google Home：可语音交互的音箱，带给你全新的智能家居体验。
 Google Home 是什么？你第一眼看上去，会觉得它就是一款音箱。外形有点像金属底托的白色台灯，内置有扬声器和麦克风，Google Home 是一款可语音交互的音箱产品。
-在连接到互联网之后，Google Home 又可以变身为你的智能助手，而这得益于 Google Assistant 服务。</description>
-    </item>
-    
-  </channel>
-</rss>
+在连接到互联网之后，Google Home 又可以变身为你的智能助手，而这得益于 Google Assistant 服务。</description></item></channel></rss>

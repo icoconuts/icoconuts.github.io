@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>软件分享 on elion&#39;s blog</title>
+    <link>https://icoconuts.github.io/tags/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/</link>
+    <description>Recent content in 软件分享 on elion&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 04 Mar 2009 13:29:05 +0000</lastBuildDate><atom:link href="https://icoconuts.github.io/tags/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flashget3.0beta2发布</title>
+      <link>https://icoconuts.github.io/2009/03/04/flashget3-beta2/</link>
+      <pubDate>Wed, 04 Mar 2009 13:29:05 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/03/04/flashget3-beta2/</guid>
+      <description>&lt;p&gt;记得上次介绍&lt;a href=&#34;http://127.0.0.1/2009/01/19/flashget30beta1/&#34;&gt;Flashget3.0beta1试用&lt;/a&gt;已近2个月了，这次beta2强势出击，更新了许多功能啊。&lt;/p&gt;
+&lt;p&gt;有感兴趣的已经标出。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新增功能：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;添加车库积分随下载完成文件数量而增长的功能，每次登陆及每隔半小时自动刷新积分&lt;br&gt;
+&lt;font color=&#34;#ca359d&#34;&gt;2. 添加杀毒软件相关功能支持，目前自动检测已支持瑞星、卡巴斯基、金山毒霸、Norton Antivirus、江民等。&lt;/font&gt; （别看这是个和杀毒软件有关的功能，其实，要实现很多便捷的事，都得靠这个。）&lt;/li&gt;
+&lt;li&gt;添加选项-&amp;gt;速度设置-&amp;gt;“启用速度智能控制”功能，开启后快车将根据用户网络情况自动分配带宽资源，在下载同时不影响正常上网&lt;/li&gt;
+&lt;li&gt;添加本地查找功能&lt;br&gt;
+&lt;font color=&#34;#ca359d&#34;&gt;5. 添加一款白色皮肤，可在皮肤管理器中下载&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;添加下载BT任务时，如果单个文件大于4G并且磁盘格式是FAT，提示用户&lt;/li&gt;
+&lt;li&gt;添加下载列表中的所有分类中所有列的列宽保存，最小列宽限制为25个像素&lt;/li&gt;
+&lt;li&gt;添加车库菜单，快捷使用车库各功能&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt; &lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Flashget3.0beta1试用</title>
+      <link>https://icoconuts.github.io/2009/01/19/flashget30beta1/</link>
+      <pubDate>Mon, 19 Jan 2009 04:49:41 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/01/19/flashget30beta1/</guid>
+      <description>&lt;p&gt;不记得还是什么时候用过flashget了，还依稀记得很早以前，用flashget时，它那很有特色的下载分块显示条。&lt;/p&gt;
+&lt;p&gt;很有意思，但是当时刚出来的迅雷一下子以速度优势把flashget淹没掉了。&lt;/p&gt;
+&lt;p&gt;随着迅雷的越来越霸道，广告多得让我无法忍受了。 但似乎没有更好的选择，直到看到Flashget3.0preview版的出现，让我非常震撼。&lt;/p&gt;
+&lt;p&gt;这个感觉就像是当初Theworld2.0Beta出来一样，感觉耳目一新。&lt;/p&gt;
+&lt;p&gt;我选软件UI一直都是放在第一位的，虽然功能还没有特别完善，但是冲着UI，我已经把迅雷排到第２位了。&lt;/p&gt;
+&lt;p&gt;安装后，开始把玩起来了。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

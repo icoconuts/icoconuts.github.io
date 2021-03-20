@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>主题制作 on elion&#39;s blog</title>
+    <link>https://icoconuts.github.io/tags/%E4%B8%BB%E9%A2%98%E5%88%B6%E4%BD%9C/</link>
+    <description>Recent content in 主题制作 on elion&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 27 Feb 2009 14:27:45 +0000</lastBuildDate><atom:link href="https://icoconuts.github.io/tags/%E4%B8%BB%E9%A2%98%E5%88%B6%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>主题继续完善二</title>
+      <link>https://icoconuts.github.io/2009/02/27/newreply/</link>
+      <pubDate>Fri, 27 Feb 2009 14:27:45 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/02/27/newreply/</guid>
+      <description>继最新日志/最新评论显示改成下方显示后，打算继续完善本主题，见最近评论越来越多，急需解决的就是评论回</description>
+    </item>
+    
+    <item>
+      <title>主题完善之一</title>
+      <link>https://icoconuts.github.io/2009/02/27/redesignrs/</link>
+      <pubDate>Fri, 27 Feb 2009 14:06:18 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/02/27/redesignrs/</guid>
+      <description>&lt;p&gt;之前为“最新日志/最新评论”设置的右侧侧边栏动态显示效果，用了一段时间感觉不太舒服&lt;/p&gt;
+&lt;p&gt;想想还是转回原来的效果：在页面底部并排显示。虽然不是我自己的创意，但还是自己通过CSS慢慢调整得出了。&lt;/p&gt;
+&lt;p&gt;本效果在IE 7,chrome,Firefox,Opera下测试通过，至于IE 6不做考虑。。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img style=&#34;display: block; float: none; margin-left: auto; margin-right: auto&#34; src=&#34;http://farm4.static.flickr.com/3585/3313305807_e48bf7bb6b_o.jpg&#34; /&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

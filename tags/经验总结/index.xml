@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>经验总结 on elion&#39;s blog</title>
+    <link>https://icoconuts.github.io/tags/%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93/</link>
+    <description>Recent content in 经验总结 on elion&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 18 Mar 2021 12:59:15 +0800</lastBuildDate><atom:link href="https://icoconuts.github.io/tags/%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>通过Github Actions实现Hugo自动部署</title>
+      <link>https://icoconuts.github.io/2021/03/github-actions/</link>
+      <pubDate>Thu, 18 Mar 2021 12:59:15 +0800</pubDate>
+      
+      <guid>https://icoconuts.github.io/2021/03/github-actions/</guid>
+      <description>参考了几个帖子： Github Actions自动生成Hugo站点并部署到Github Pages JiahongWu-使用G</description>
+    </item>
+    
+    <item>
+      <title>Hugo中如何优雅地插入B站视频</title>
+      <link>https://icoconuts.github.io/2021/03/11/bv/</link>
+      <pubDate>Thu, 11 Mar 2021 11:29:15 +0800</pubDate>
+      
+      <guid>https://icoconuts.github.io/2021/03/11/bv/</guid>
+      <description>参考了几个帖子： Hexo中插入Bilibili视频 如何在Hugo/Hexo博客中插入响应式Bilib</description>
+    </item>
+    
+    <item>
+      <title>Hugo建站并部署到github</title>
+      <link>https://icoconuts.github.io/2021/03/03/hugo-bs/</link>
+      <pubDate>Wed, 03 Mar 2021 22:29:15 +0800</pubDate>
+      
+      <guid>https://icoconuts.github.io/2021/03/03/hugo-bs/</guid>
+      <description>Hugo建站 Hugo是由Go语言实现的静态网站生成器。简单、易用、高效、易扩展、快速部署。 1. 本地搭建</description>
+    </item>
+    
+    <item>
+      <title>Hugo开始运作</title>
+      <link>https://icoconuts.github.io/2021/0302/write-again/</link>
+      <pubDate>Tue, 02 Mar 2021 21:29:15 +0800</pubDate>
+      
+      <guid>https://icoconuts.github.io/2021/0302/write-again/</guid>
+      <description>I&amp;rsquo;m elion,I&amp;rsquo;m back! 一、前言 好几年前，折腾过hexo， 但一直没有静下心来写点什么。 就在前几天，又是一次偶然的机会，</description>
+    </item>
+    
+    <item>
+      <title>为Hexo添加常用页面</title>
+      <link>https://icoconuts.github.io/2016/05/13/hexo-pages/</link>
+      <pubDate>Fri, 13 May 2016 17:29:15 +0800</pubDate>
+      
+      <guid>https://icoconuts.github.io/2016/05/13/hexo-pages/</guid>
+      <description>elion发表于HEXO 在网站架设完成后，除了发布文章以外，还应该通过新增功能页面，来完善网站的功能</description>
+    </item>
+    
+    <item>
+      <title>将本地Hexo部署到Github</title>
+      <link>https://icoconuts.github.io/2016/05/11/hexo-bs/</link>
+      <pubDate>Wed, 11 May 2016 22:29:15 +0800</pubDate>
+      
+      <guid>https://icoconuts.github.io/2016/05/11/hexo-bs/</guid>
+      <description>elion发表于HEXO 其实，看了很多教程，他们都喜欢把这个步骤放到很前面讲，可能比较迎合许多人的想</description>
+    </item>
+    
+    <item>
+      <title>将本地Hexo部署到Github</title>
+      <link>https://icoconuts.github.io/2016/05/11/hexo-pages/</link>
+      <pubDate>Wed, 11 May 2016 16:29:15 +0800</pubDate>
+      
+      <guid>https://icoconuts.github.io/2016/05/11/hexo-pages/</guid>
+      <description>elion发表于HEXO 其实，看了很多教程，他们都喜欢把这个步骤放到很前面讲，可能比较迎合许多人的想</description>
+    </item>
+    
+    <item>
+      <title>Hexo生成文章</title>
+      <link>https://icoconuts.github.io/2016/05/10/hexo2/</link>
+      <pubDate>Tue, 10 May 2016 21:29:15 +0800</pubDate>
+      
+      <guid>https://icoconuts.github.io/2016/05/10/hexo2/</guid>
+      <description>elion发表于HEXO 初阶 生成文章 找到E:\hexo,右键菜单下的Git Bush here.命令行输入：（</description>
+    </item>
+    
+    <item>
+      <title>初识Hexo与Hexo安装</title>
+      <link>https://icoconuts.github.io/2016/05/10/hexo1/</link>
+      <pubDate>Tue, 10 May 2016 18:29:15 +0800</pubDate>
+      
+      <guid>https://icoconuts.github.io/2016/05/10/hexo1/</guid>
+      <description>发表于HEXO 认识Hexo Hexo，快速、简洁且高效的博客框架。官方网站戳这里，支持中文。 特点： 1.</description>
+    </item>
+    
+    <item>
+      <title>Nexus S 4.0系统刷机介绍及体验</title>
+      <link>https://icoconuts.github.io/2011/11/27/nexus-s-4-0/</link>
+      <pubDate>Sun, 27 Nov 2011 07:53:14 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2011/11/27/nexus-s-4-0/</guid>
+      <description>距离10月19日Google发布Galaxy Nexus以及Android 4.0已经一个多月了。 看着新</description>
+    </item>
+    
+    <item>
+      <title>Google Nexus S升级Android 2.3.4方法</title>
+      <link>https://icoconuts.github.io/2011/08/09/231-234/</link>
+      <pubDate>Tue, 09 Aug 2011 13:30:45 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2011/08/09/231-234/</guid>
+      <description>新入手的Nexus S版本还是2.3.1。 当然OTA通知可以升级到2.3.4。大小是98M。 但网上搜了</description>
+    </item>
+    
+    <item>
+      <title>iPod touch/iPhone越狱后的软件推荐</title>
+      <link>https://icoconuts.github.io/2010/05/09/after-jb-soft/</link>
+      <pubDate>Sun, 09 May 2010 09:23:44 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/05/09/after-jb-soft/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; alt=&#34;&#34; src=&#34;http://i44.tinypic.com/258q7g3.jpg&#34; class=&#34;alignnone&#34; width=&#34;480&#34; height=&#34;100&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;朋友，在i系列全设备越狱的时代，你的iphone/iPod Touch/iPad越狱了没？&lt;/p&gt;
+&lt;p&gt;之前的日志里，由于本人的机子是3.1.3版本的，所以一直没有提及越狱。&lt;/p&gt;
+&lt;p&gt;但是没有让我等很久，在5月3日上午&lt;strong&gt;Dev Team&lt;/strong&gt;发布了Spirit。&lt;a href=&#34;http://127.0.0.1/2010/05/03/i-jailbreak/&#34; target=&#34;_blank&#34;&gt;越狱教程点这里&lt;/a&gt;。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Spirit发布-实现完美越狱</title>
+      <link>https://icoconuts.github.io/2010/05/03/i-jailbreak/</link>
+      <pubDate>Mon, 03 May 2010 15:23:45 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/05/03/i-jailbreak/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; class=&#34;aligncenter&#34; title=&#34;spirit&#34; src=&#34;http://i44.tinypic.com/2jcu6j7.jpg&#34; alt=&#34;spirit&#34; width=&#34;594&#34; height=&#34;150&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;这次果然是真的了。&lt;/p&gt;
+&lt;p&gt;在前几天3G版iPad越狱成功后，今天早上，我6点多更新twitter的时候，就发现iH8sn0w在其twitter上重复警告大家：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is another reminder that ALL iPhone 3GS/iPod Touch 3rd Gen/iPad users MUST grab their SHSH blobs for 3.1.3/3.2!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;具体操作方法，可以参看此日志：&lt;a href=&#34;http://127.0.0.1/2010/05/01/backupshsh/&#34; target=&#34;_blank&#34;&gt;备份iPod Touch/iphone3.1.3SHSH&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;今天上午，有事在外面，但一直有预感会发布Spirit，于是不停的盯着威锋的itouch区。&lt;/p&gt;
+&lt;p&gt;激动的时刻终于到来，10点不到，就看到坛友们在讨论破解的事了。之后就是源源不断的帖子涌现了。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>备份iPod Touch/iphone3.1.3SHSH</title>
+      <link>https://icoconuts.github.io/2010/05/01/backupshsh/</link>
+      <pubDate>Sat, 01 May 2010 11:33:12 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/05/01/backupshsh/</guid>
+      <description>自从购入iPod Touch以来，一直就有关于3.1.3要出越狱软件的消息。 但结果就是一直被忽悠。 这次</description>
+    </item>
+    
+    <item>
+      <title>E63/E71同步通讯录和日历到iPod Touch/iPhone</title>
+      <link>https://icoconuts.github.io/2010/04/24/s60-web-ipod/</link>
+      <pubDate>Sat, 24 Apr 2010 15:24:08 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/04/24/s60-web-ipod/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://i44.tinypic.com/18yav8.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;话说，购入iPod Touch后，第一件做的事情就是想办法解决邮件、通讯录和日历的的同步问题。&lt;/p&gt;
+&lt;p&gt;有人说iPod Touch使用邮件、日历倒还说得过去，但通讯录有这个必要么？又不能打电话。&lt;/p&gt;
+&lt;p&gt;个人认为还是很有用的工具，毕竟现在拿iTouch的时间比E63的时间多多了。&lt;/p&gt;
+&lt;p&gt;网上查了下，虽说可以用iTunes来和电脑上的outlook（windows）或者iCal（Mac）来同步，但同步只能通过连接电脑进行。&lt;/p&gt;
+&lt;p&gt;作为移动设备，最好还是通过网络同步，这才是最方便的。&lt;/p&gt;
+&lt;p&gt;这里，我们需要通过Google 提供的Google Sync免费服务。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>个人对iTunes使用的一点认识</title>
+      <link>https://icoconuts.github.io/2010/04/19/itunes/</link>
+      <pubDate>Mon, 19 Apr 2010 10:59:31 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/04/19/itunes/</guid>
+      <description>之前， 说过了，iTunes和iTouch/iPhone是最好的伙伴了。 说实话，如果不是买了ipod t</description>
+    </item>
+    
+    <item>
+      <title>推特中文推Twitese之分享到Twitter功能</title>
+      <link>https://icoconuts.github.io/2010/03/10/share-to-twitter/</link>
+      <pubDate>Wed, 10 Mar 2010 13:56:53 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/03/10/share-to-twitter/</guid>
+      <description>当你习惯了Twitter后，就会开始想分享任何你的东西。 比如，你正在做什么，你打算做什么，你身边发生</description>
+    </item>
+    
+    <item>
+      <title>Opera Mobile 10 for S60试用</title>
+      <link>https://icoconuts.github.io/2010/02/23/opera-mobile-10/</link>
+      <pubDate>Tue, 23 Feb 2010 12:33:16 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/02/23/opera-mobile-10/</guid>
+      <description>&lt;p&gt;三三上装的浏览器已经很多啦，像UC，Go，Skyfire，还有Opera Mini。&lt;/p&gt;
+&lt;p&gt;今天看到CB上关于&lt;a href=&#34;http://www.cnbeta.com/articles/104750.htm&#34; target=&#34;_blank&#34;&gt;Opera Mobile 10 for S60 发布&lt;/a&gt;的介绍，马上下了个试试~~&lt;/p&gt;
+&lt;p&gt;于是，写个试用感受，分享给大家。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1.关于Opera&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Opera，一直是个传说。&lt;/p&gt;
+&lt;p&gt;Opera，她既大名鼎鼎，又是个小众软件。她的用户忠诚度非常高，而且用户群非常稳定。&lt;/p&gt;
+&lt;p&gt;Opera，她是浏览器技术的领军者，但把这些技术发扬光大，为世人所知的并非是她。&lt;/p&gt;
+&lt;p&gt;Opera，她一直是“千年老二”。在这么多年，大大小小的浏览器技术测评中，她一直存在着，但她一直是那些抢文的陪衬。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2.关于Opera Mini&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在早些年，手机浏览器市场竞争没这么激烈，Opera Mini绝对是当时的佼佼者。我一直用到了4.2国际版。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3.关于Opera Mobile&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Opera专门为智能手机设计的产品，以前用Nokia 6220的时候，只能用用Opera Mini。&lt;/p&gt;
+&lt;p&gt;现在用上三三了，终于可以享受Opera Mobile带来的全新体验了。&lt;/p&gt;
+&lt;p&gt;更多关于Opera Mobile的介绍，就点&lt;a href=&#34;http://www.opera.com/mobile/&#34; target=&#34;_blank&#34;&gt;官网&lt;/a&gt;吧。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>来DIY手机铃声吧</title>
+      <link>https://icoconuts.github.io/2009/12/30/diyphonerings/</link>
+      <pubDate>Wed, 30 Dec 2009 15:57:47 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/12/30/diyphonerings/</guid>
+      <description>深终于换掉那部当时很高档的手机(传说《流星花园》里仔仔用的手机)了~~ 迎接的是诺诺的第一款触屏手机–</description>
+    </item>
+    
+    <item>
+      <title>Twitter相关指令的新手教程</title>
+      <link>https://icoconuts.github.io/2009/06/12/twitter-begginer/</link>
+      <pubDate>Fri, 12 Jun 2009 05:03:04 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/06/12/twitter-begginer/</guid>
+      <description>&lt;p&gt;自从用上Twitter，感觉越来越喜欢它了。&lt;/p&gt;
+&lt;p&gt;之前&lt;a href=&#34;http://127.0.0.1/2009/03/29/twitter-intro/&#34; target=&#34;_blank&#34;&gt;介绍过twitter&lt;/a&gt;,今天从ifanr上转一个关于twitter相关指令功能的教程。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1.Twitter的基本功能，就是4个&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;自述（tweet，简称T），也叫更新状态（update），类似IM上的签名，向网络广播你的所思所想，所做所在。 &lt;span style=&#34;color: #ff0000;&#34;&gt;(是最基本的功能之一！)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;在官方web页面上显示就是：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;办公室里收单位的无线信号，非常差。时断时连的，唉。。。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/elion815/status/2124384616&#34;&gt;about 4 hours ago&lt;/a&gt; from &lt;a href=&#34;http://mobileways.de/gravity&#34;&gt;Gravity&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;此Gravity就是此条tweet的发出端。&lt;/p&gt;
+&lt;p&gt;转述（Retweet，简称RT），你可以理解为自己把别人的话重新tweet一下，所以叫Retweet。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>架好本地WP了</title>
+      <link>https://icoconuts.github.io/2007/09/04/local-wp/</link>
+      <pubDate>Tue, 04 Sep 2007 14:57:05 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/09/04/local-wp/</guid>
+      <description>在暑假里的时候，就已经开始琢磨修改个WP的主题了。 可是鉴于要架构mysql+php的环境，太麻烦了。</description>
+    </item>
+    
+    <item>
+      <title>给博客加个时钟(三)之代码添加</title>
+      <link>https://icoconuts.github.io/2007/05/20/blogclock3/</link>
+      <pubDate>Sun, 20 May 2007 09:05:19 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/05/20/blogclock3/</guid>
+      <description>第三部分，添加到自己的博客中。 1,上传第二部分中做好的flash到网上的空间。 注意，该空间一定是允许</description>
+    </item>
+    
+    <item>
+      <title>给博客加个时钟(二)之flash制作</title>
+      <link>https://icoconuts.github.io/2007/05/18/blogclock2/</link>
+      <pubDate>Fri, 18 May 2007 10:41:09 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/05/18/blogclock2/</guid>
+      <description>第二部分，制作flash。 (当然，这一步也可以省去。同样网上也有大量的免费flash时钟等着你。) 1</description>
+    </item>
+    
+    <item>
+      <title>给博客加个时钟(一)之PS制作背景</title>
+      <link>https://icoconuts.github.io/2007/05/blogclock1/</link>
+      <pubDate>Thu, 17 May 2007 13:57:20 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/05/blogclock1/</guid>
+      <description>看到天气雨的博客上有个时钟，感觉很醒目的。其实大二的时候，学过一段时间的flash，那时候as也学得</description>
+    </item>
+    
+  </channel>
+</rss>

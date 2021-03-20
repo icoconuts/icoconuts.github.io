@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hosted-on-yo2 on elion&#39;s blog</title>
+    <link>https://icoconuts.github.io/tags/hosted-on-yo2/</link>
+    <description>Recent content in hosted-on-yo2 on elion&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 07 Nov 2007 10:06:56 +0000</lastBuildDate><atom:link href="https://icoconuts.github.io/tags/hosted-on-yo2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>四天长假</title>
+      <link>https://icoconuts.github.io/2007/11/07/fourday/</link>
+      <pubDate>Wed, 07 Nov 2007 10:06:56 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/11/07/fourday/</guid>
+      <description>好久没来yo2了。 一直忙着新博客的架设和主题的制作，直到今天终于算是差不多了。 新博客地址：http:</description>
+    </item>
+    
+    <item>
+      <title>NOKIA音乐手机平面广告</title>
+      <link>https://icoconuts.github.io/2007/11/04/nokiaxpress/</link>
+      <pubDate>Sun, 04 Nov 2007 03:29:42 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/11/04/nokiaxpress/</guid>
+      <description>&lt;p&gt;音符如此震撼，可想而知，音乐会多么美秒。(3Pic)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>书：精通CSS：高级Web标准解决方案</title>
+      <link>https://icoconuts.github.io/2007/10/18/css-mastery/</link>
+      <pubDate>Thu, 18 Oct 2007 08:34:38 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/10/18/css-mastery/</guid>
+      <description>&lt;p&gt;这本是我最近在看的一本还是CSS相关的书籍。&lt;/p&gt;
+&lt;p&gt;它有什么特点？&lt;/p&gt;
+&lt;p&gt;第一，看书面介绍：&lt;/p&gt;
+&lt;p&gt;　■Amazon第一CSS畅销书&lt;br&gt;
+　■最有用的CSS技术汇总&lt;br&gt;
+　■解密业界大师绝技&lt;br&gt;
+够有吸引力吧。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>哇，主题做好了</title>
+      <link>https://icoconuts.github.io/2007/10/17/themeisdone/</link>
+      <pubDate>Wed, 17 Oct 2007 05:34:48 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/10/17/themeisdone/</guid>
+      <description>&lt;p&gt;哇，主题做好了。好辛苦啊。。。。。。&lt;/p&gt;
+&lt;p&gt;个人感觉还行。不过有些地方其在是弄不懂。哪位高手指点指点就最好了。&lt;/p&gt;
+&lt;p&gt;以下是这次的一些体会和没有解决的问题：&lt;/p&gt;
+&lt;p&gt;1.PS做个网页效果容易，通过CSS定义就很难。&lt;/p&gt;
+&lt;p&gt;加上浏览器对CSS支持的效果差别，往往会出现很大的反差。&lt;/p&gt;
+&lt;p&gt;不知道是我哪里没设计好，还是大家都是这样的。&lt;/p&gt;
+&lt;p&gt;还好之前把图书馆有关CSS的书籍差不多都看了，&lt;/p&gt;
+&lt;p&gt;遇到浏览器的效果偏差，马上加上了browse hacks.&lt;/p&gt;
+&lt;p&gt;虽然说&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>QQ被盗后急救好友名单</title>
+      <link>https://icoconuts.github.io/2007/10/16/qqlist-recover/</link>
+      <pubDate>Tue, 16 Oct 2007 08:22:02 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/10/16/qqlist-recover/</guid>
+      <description>已经不是一次两次听朋友说QQ被盗了。 QQ被盗后可以再去申请一个，但是QQ里面的好友却丢了，这给很多朋</description>
+    </item>
+    
+    <item>
+      <title>埋头于CSS学习</title>
+      <link>https://icoconuts.github.io/2007/10/10/study-css/</link>
+      <pubDate>Wed, 10 Oct 2007 12:42:47 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/10/10/study-css/</guid>
+      <description>&lt;p&gt;今天一天埋头于CSS的学习中，在图书馆研究那本&lt;a href=&#34;http://elion.yo2.cn/archives/448647&#34;&gt;无懈可击的Web设计&lt;/a&gt;，真是解决了不少的问题。&lt;/p&gt;
+&lt;p&gt;看了大师们的书，发现他们考虑的是全局的对象，包括使用不同浏览器的用户或使用屏幕阅读器的用户。&lt;/p&gt;
+&lt;p&gt;我一直以为做个自己感觉好的界面就可以了。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>书:无懈可击的Web设计</title>
+      <link>https://icoconuts.github.io/2007/10/08/bulletpro-of-web-design/</link>
+      <pubDate>Mon, 08 Oct 2007 09:05:47 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/10/08/bulletpro-of-web-design/</guid>
+      <description>&lt;p&gt;看了两个多星期的《CSS入门经典》后，对CSS有了全新的认识，把以前零散的知识都串联起来了。&lt;/p&gt;
+&lt;p&gt;感觉现在正陷入CSS的深渊了，今天又在图书馆找到一本好书(非新书)。&lt;/p&gt;
+&lt;p&gt;《无懈可击的Web设计-利用XHTML和CSS提高网站的灵活性与适应性》&lt;/p&gt;
+&lt;p&gt;(简称“无懈可击的Web设计”)&lt;/p&gt;
+&lt;p&gt;看题目感觉说的有点狂，其实写的真的很有理。&lt;/p&gt;
+&lt;p&gt;反正我看了前两个例子已经非常佩服了。&lt;/p&gt;
+&lt;p&gt;明天接着去图书馆看。&lt;/p&gt;
+&lt;p&gt;同时也介绍给对CSS有兴趣的朋友。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>9.3</title>
+      <link>https://icoconuts.github.io/2007/09/30/070930/</link>
+      <pubDate>Sun, 30 Sep 2007 02:56:08 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/09/30/070930/</guid>
+      <description>离开网络一段时间， 专心做事… 祝各位假期愉快…</description>
+    </item>
+    
+    <item>
+      <title>陪伴我三年多的手机</title>
+      <link>https://icoconuts.github.io/2007/09/29/my6220/</link>
+      <pubDate>Sat, 29 Sep 2007 12:21:00 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/09/29/my6220/</guid>
+      <description>&lt;p&gt;陪伴我三年多的手机,非常喜欢它的按键。&lt;/p&gt;
+&lt;p&gt;非常有手感，而且难磨损。&lt;/p&gt;
+&lt;p&gt;手机绘制:IL&lt;/p&gt;
+&lt;p&gt;后期及效果:PS&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>书:CSS入门经典(第2版)</title>
+      <link>https://icoconuts.github.io/2007/09/28/cssmaster/</link>
+      <pubDate>Fri, 28 Sep 2007 14:38:59 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/09/28/cssmaster/</guid>
+      <description>&lt;p&gt;昨天图书馆新到一批书，今天一早就去淘了。&lt;/p&gt;
+&lt;p&gt;淘回三本，个人感觉很不错。&lt;/p&gt;
+&lt;p&gt;介绍一下…&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Leoparn系列液晶显示器上市</title>
+      <link>https://icoconuts.github.io/2007/09/28/leoparnlcd/</link>
+      <pubDate>Fri, 28 Sep 2007 08:34:48 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/09/28/leoparnlcd/</guid>
+      <description>&lt;p&gt;Leoparn系列液晶显示器上市….*^_^*&lt;/p&gt;
+&lt;p&gt;附海报…&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>9.25</title>
+      <link>https://icoconuts.github.io/2007/09/25/070925/</link>
+      <pubDate>Mon, 24 Sep 2007 16:10:04 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/09/25/070925/</guid>
+      <description>&lt;p&gt;时间过得好快，明天是中秋节了。&lt;/p&gt;
+&lt;p&gt;“每逢佳节倍思亲”&lt;/p&gt;
+&lt;p&gt;这句话写得真好。&lt;/p&gt;
+&lt;p&gt;在一般人看来，可能感觉不到。&lt;/p&gt;
+&lt;p&gt;但对于一个身处异乡的人来说，&lt;/p&gt;
+&lt;p&gt;这就是最好的写照了。&lt;/p&gt;
+&lt;p&gt;大四了，总爱说XX是最后一次了。&lt;/p&gt;
+&lt;p&gt;同样，这回在大学也是过最后一个中秋了。&lt;/p&gt;
+&lt;p&gt;你还记得大学里这有意义的日子是怎么过的吗？&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>夜空</title>
+      <link>https://icoconuts.github.io/2007/09/24/nightsky/</link>
+      <pubDate>Mon, 24 Sep 2007 14:33:01 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/09/24/nightsky/</guid>
+      <description>&lt;p&gt;一直很喜欢看夜空。&lt;/p&gt;
+&lt;p&gt;尤其是在夏天，星星特别的亮。&lt;/p&gt;
+&lt;p&gt;初中的时候，还特别买了DISCOVERY CHANNE的《夜空》。&lt;/p&gt;
+&lt;p&gt;那时候真是迷上了天文，可是经济条件不行，又在农村。&lt;/p&gt;
+&lt;p&gt;谁去给你买先进的天文器具呢。唉~&lt;/p&gt;
+&lt;p&gt;但是靠着这本《夜空》，我认识了星座。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>女足止步了…</title>
+      <link>https://icoconuts.github.io/2007/09/23/women-stop/</link>
+      <pubDate>Sun, 23 Sep 2007 14:47:47 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/09/23/women-stop/</guid>
+      <description>&lt;p&gt;3天前,还写了篇,说道不知道女足还能走多远,只有拭目以待了。&lt;/p&gt;
+&lt;p&gt;结果,1/4决赛便止步了。&lt;/p&gt;
+&lt;p&gt;看球去晚了，只好站着了。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>One-T&#43;cool-T</title>
+      <link>https://icoconuts.github.io/2007/09/22/one-tcool-t/</link>
+      <pubDate>Sat, 22 Sep 2007 12:19:37 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/09/22/one-tcool-t/</guid>
+      <description>专辑名:Coca Cola Hits 2003 歌手名Coca Cola Hits 语种：英语 风格：Electronic/Dance/DJ 发行时</description>
+    </item>
+    
+    <item>
+      <title>Lee牛仔裤</title>
+      <link>https://icoconuts.github.io/2007/09/20/lee/</link>
+      <pubDate>Thu, 20 Sep 2007 15:38:46 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/09/20/lee/</guid>
+      <description>&lt;p&gt;花了N个小时…&lt;/p&gt;
+&lt;p&gt;绘制软件:PS&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Photoshop更新Logo</title>
+      <link>https://icoconuts.github.io/2007/09/19/photoshop-logo/</link>
+      <pubDate>Wed, 19 Sep 2007 12:19:51 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/09/19/photoshop-logo/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://news.mydrivers.com/img/20070919/02435105.gif&#34; alt=&#34;logo&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>9.16</title>
+      <link>https://icoconuts.github.io/2007/09/16/070916/</link>
+      <pubDate>Sun, 16 Sep 2007 15:42:22 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/09/16/070916/</guid>
+      <description>&lt;p&gt;在长沙玩了三天回来了。&lt;/p&gt;
+&lt;p&gt;上次去长沙，还是大一时候的十一。&lt;/p&gt;
+&lt;p&gt;那时候还是单身，也没想回家。&lt;/p&gt;
+&lt;p&gt;于是和大家一起去爬山什么的。&lt;/p&gt;
+&lt;p&gt;现在不一样了，想去买些东西，逛逛步行街。&lt;/p&gt;
+&lt;p&gt;第一天太累了，就没出去。&lt;/p&gt;
+&lt;p&gt;－－－－－－－－－－－－－－－－－－－－－－－&lt;/p&gt;
+&lt;p&gt;第二天早早的起来就出发了。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>紫色的拥抱!</title>
+      <link>https://icoconuts.github.io/2007/09/14/usb/</link>
+      <pubDate>Fri, 14 Sep 2007 03:15:50 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/09/14/usb/</guid>
+      <description>Sandisk紫色的Ｕ盘，感觉很特别。 我觉得紫色的东西，很高贵，但同时又有一丝悲凉。 它似乎充满着神秘</description>
+    </item>
+    
+    <item>
+      <title>9.14</title>
+      <link>https://icoconuts.github.io/2007/09/14/070914/</link>
+      <pubDate>Fri, 14 Sep 2007 03:08:15 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/09/14/070914/</guid>
+      <description>昨天同学过生日,又是去KTV。 本来不想去的,但想想还是去吧。 毕竟是最后一次了。 一到那里,正看到李*在</description>
+    </item>
+    
+    <item>
+      <title>9.1</title>
+      <link>https://icoconuts.github.io/2007/09/10/070910/</link>
+      <pubDate>Sun, 09 Sep 2007 16:59:03 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/09/10/070910/</guid>
+      <description>&lt;p&gt;最近的麻烦事终于告一段落了。&lt;/p&gt;
+&lt;p&gt;这可算是我“修电脑史上”最“惨痛”的一次经历了。-_-‘&lt;/p&gt;
+&lt;p&gt;为了纪念一下，就来个长篇介绍。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>iPod之进化</title>
+      <link>https://icoconuts.github.io/2007/09/09/ipod-story/</link>
+      <pubDate>Sun, 09 Sep 2007 04:26:32 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/09/09/ipod-story/</guid>
+      <description>CB上看到这么一张图片，使像我们这种不了解iPod的人来说真是一个全面直观的了解。 有兴趣的，可以看看</description>
+    </item>
+    
+    <item>
+      <title>9.09</title>
+      <link>https://icoconuts.github.io/2007/09/09/0909/</link>
+      <pubDate>Sat, 08 Sep 2007 16:04:48 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/09/09/0909/</guid>
+      <description>从来没有在这么晚写过日志。 好像深夜里容易让人心静，真的。 湘潭又开始下雨了， 看天气预报又将会是连着好几</description>
+    </item>
+    
+    <item>
+      <title>世界之窗皮肤大赛获奖作品揭晓</title>
+      <link>https://icoconuts.github.io/2007/09/08/theworldskincp/</link>
+      <pubDate>Sat, 08 Sep 2007 12:06:15 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/09/08/theworldskincp/</guid>
+      <description>为期二个月的皮肤大赛终于结束了。 作为版主，我似乎没做什么。除了之前为“皮肤制作参考”做了点材料。 之后</description>
+    </item>
+    
+    <item>
+      <title>架好本地WP了</title>
+      <link>https://icoconuts.github.io/2007/09/04/local-wp/</link>
+      <pubDate>Tue, 04 Sep 2007 14:57:05 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/09/04/local-wp/</guid>
+      <description>在暑假里的时候，就已经开始琢磨修改个WP的主题了。 可是鉴于要架构mysql+php的环境，太麻烦了。</description>
+    </item>
+    
+  </channel>
+</rss>

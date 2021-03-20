@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>折腾二三事 on elion&#39;s blog</title>
+    <link>https://icoconuts.github.io/categories/%E6%8A%98%E8%85%BE%E4%BA%8C%E4%B8%89%E4%BA%8B/</link>
+    <description>Recent content in 折腾二三事 on elion&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 18 Mar 2021 12:59:15 +0800</lastBuildDate><atom:link href="https://icoconuts.github.io/categories/%E6%8A%98%E8%85%BE%E4%BA%8C%E4%B8%89%E4%BA%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>通过Github Actions实现Hugo自动部署</title>
+      <link>https://icoconuts.github.io/2021/03/github-actions/</link>
+      <pubDate>Thu, 18 Mar 2021 12:59:15 +0800</pubDate>
+      
+      <guid>https://icoconuts.github.io/2021/03/github-actions/</guid>
+      <description>参考了几个帖子： Github Actions自动生成Hugo站点并部署到Github Pages JiahongWu-使用G</description>
+    </item>
+    
+    <item>
+      <title>Hugo中如何优雅地插入B站视频</title>
+      <link>https://icoconuts.github.io/2021/03/11/bv/</link>
+      <pubDate>Thu, 11 Mar 2021 11:29:15 +0800</pubDate>
+      
+      <guid>https://icoconuts.github.io/2021/03/11/bv/</guid>
+      <description>参考了几个帖子： Hexo中插入Bilibili视频 如何在Hugo/Hexo博客中插入响应式Bilib</description>
+    </item>
+    
+    <item>
+      <title>Theme preview</title>
+      <link>https://icoconuts.github.io/2021/03/theme-preview/</link>
+      <pubDate>Tue, 09 Mar 2021 12:00:00 +0800</pubDate>
+      
+      <guid>https://icoconuts.github.io/2021/03/theme-preview/</guid>
+      <description>Based on MarkdownPreview test.md. Markdown 1 2 3 4 5 6 7 8 # H1 ## H2 ### H3 #### H4 ##### H5 ###### H6 ### Duplicate Header ### Duplicate Header H1 H2 H3 H4 H5 H6 Duplicate Header Duplicate Header Paragraphs 1 2 3 4 This is a paragraph.</description>
+    </item>
+    
+    <item>
+      <title>Shortcodes</title>
+      <link>https://icoconuts.github.io/2021/03/shortcodes/</link>
+      <pubDate>Tue, 09 Mar 2021 07:01:23 +0800</pubDate>
+      
+      <guid>https://icoconuts.github.io/2021/03/shortcodes/</guid>
+      <description>&lt;h1 id=&#34;admonition&#34;&gt;Admonition&lt;/h1&gt;
+&lt;div class=&#34;admonition note&#34;&gt;&lt;p class=&#34;admonition-title&#34;&gt;I&amp;#39;m title!&lt;/p&gt;
+&lt;p&gt;biu biu biu.&lt;/p&gt;
+&lt;details class=&#34;admonition note&#34;&gt;&lt;summary class=&#34;admonition-title&#34;&gt;note&lt;/summary&gt;
+  &lt;p&gt;biu biu biu.&lt;/p&gt;
+&lt;/details&gt;
+&lt;div class=&#34;admonition example&#34;&gt;
+  &lt;p&gt;Without title.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;{{% admonition note &amp;#34;I&amp;#39;m title!&amp;#34; false %}}
+biu biu biu.
+
+{{% admonition type=&amp;#34;note&amp;#34; title=&amp;#34;note&amp;#34; details=&amp;#34;true&amp;#34; %}}
+biu biu biu.
+{{% /admonition %}}
+
+{{% admonition example %}}
+Without title.
+{{% /admonition %}}
+
+{{% /admonition %}}
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hugo建站并部署到github</title>
+      <link>https://icoconuts.github.io/2021/03/03/hugo-bs/</link>
+      <pubDate>Wed, 03 Mar 2021 22:29:15 +0800</pubDate>
+      
+      <guid>https://icoconuts.github.io/2021/03/03/hugo-bs/</guid>
+      <description>Hugo建站 Hugo是由Go语言实现的静态网站生成器。简单、易用、高效、易扩展、快速部署。 1. 本地搭建</description>
+    </item>
+    
+    <item>
+      <title>Hugo开始运作</title>
+      <link>https://icoconuts.github.io/2021/0302/write-again/</link>
+      <pubDate>Tue, 02 Mar 2021 21:29:15 +0800</pubDate>
+      
+      <guid>https://icoconuts.github.io/2021/0302/write-again/</guid>
+      <description>I&amp;rsquo;m elion,I&amp;rsquo;m back! 一、前言 好几年前，折腾过hexo， 但一直没有静下心来写点什么。 就在前几天，又是一次偶然的机会，</description>
+    </item>
+    
+    <item>
+      <title>为Hexo添加常用页面</title>
+      <link>https://icoconuts.github.io/2016/05/13/hexo-pages/</link>
+      <pubDate>Fri, 13 May 2016 17:29:15 +0800</pubDate>
+      
+      <guid>https://icoconuts.github.io/2016/05/13/hexo-pages/</guid>
+      <description>elion发表于HEXO 在网站架设完成后，除了发布文章以外，还应该通过新增功能页面，来完善网站的功能</description>
+    </item>
+    
+    <item>
+      <title>将本地Hexo部署到Github</title>
+      <link>https://icoconuts.github.io/2016/05/11/hexo-bs/</link>
+      <pubDate>Wed, 11 May 2016 22:29:15 +0800</pubDate>
+      
+      <guid>https://icoconuts.github.io/2016/05/11/hexo-bs/</guid>
+      <description>elion发表于HEXO 其实，看了很多教程，他们都喜欢把这个步骤放到很前面讲，可能比较迎合许多人的想</description>
+    </item>
+    
+    <item>
+      <title>将本地Hexo部署到Github</title>
+      <link>https://icoconuts.github.io/2016/05/11/hexo-pages/</link>
+      <pubDate>Wed, 11 May 2016 16:29:15 +0800</pubDate>
+      
+      <guid>https://icoconuts.github.io/2016/05/11/hexo-pages/</guid>
+      <description>elion发表于HEXO 其实，看了很多教程，他们都喜欢把这个步骤放到很前面讲，可能比较迎合许多人的想</description>
+    </item>
+    
+    <item>
+      <title>Hexo生成文章</title>
+      <link>https://icoconuts.github.io/2016/05/10/hexo2/</link>
+      <pubDate>Tue, 10 May 2016 21:29:15 +0800</pubDate>
+      
+      <guid>https://icoconuts.github.io/2016/05/10/hexo2/</guid>
+      <description>elion发表于HEXO 初阶 生成文章 找到E:\hexo,右键菜单下的Git Bush here.命令行输入：（</description>
+    </item>
+    
+    <item>
+      <title>初识Hexo与Hexo安装</title>
+      <link>https://icoconuts.github.io/2016/05/10/hexo1/</link>
+      <pubDate>Tue, 10 May 2016 18:29:15 +0800</pubDate>
+      
+      <guid>https://icoconuts.github.io/2016/05/10/hexo1/</guid>
+      <description>发表于HEXO 认识Hexo Hexo，快速、简洁且高效的博客框架。官方网站戳这里，支持中文。 特点： 1.</description>
+    </item>
+    
+    <item>
+      <title>2012年Godaddy .me域名续费便宜方法: $7.96</title>
+      <link>https://icoconuts.github.io/2012/01/23/2012-godaddy-me/</link>
+      <pubDate>Sun, 22 Jan 2012 16:34:32 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2012/01/23/2012-godaddy-me/</guid>
+      <description>hjx.me域名快到期了，于是马上搜了下近期的Godaddy的优惠码。 不查不知道，一查就直跺脚，我错</description>
+    </item>
+    
+    <item>
+      <title>Nexus S 4.0系统刷机介绍及体验</title>
+      <link>https://icoconuts.github.io/2011/11/27/nexus-s-4-0/</link>
+      <pubDate>Sun, 27 Nov 2011 07:53:14 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2011/11/27/nexus-s-4-0/</guid>
+      <description>距离10月19日Google发布Galaxy Nexus以及Android 4.0已经一个多月了。 看着新</description>
+    </item>
+    
+    <item>
+      <title>Google Nexus S升级Android 2.3.4方法</title>
+      <link>https://icoconuts.github.io/2011/08/09/231-234/</link>
+      <pubDate>Tue, 09 Aug 2011 13:30:45 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2011/08/09/231-234/</guid>
+      <description>新入手的Nexus S版本还是2.3.1。 当然OTA通知可以升级到2.3.4。大小是98M。 但网上搜了</description>
+    </item>
+    
+    <item>
+      <title>网站搬迁结束</title>
+      <link>https://icoconuts.github.io/2011/01/18/todasfree/</link>
+      <pubDate>Tue, 18 Jan 2011 14:30:49 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2011/01/18/todasfree/</guid>
+      <description>网站搬迁结束咯~~ 速度还是可以的吧？？ 召唤各位Reader!!! PS:今天开始下雪，今年的冬天特别冷</description>
+    </item>
+    
+    <item>
+      <title>iPod touch/iPhone越狱后的软件推荐</title>
+      <link>https://icoconuts.github.io/2010/05/09/after-jb-soft/</link>
+      <pubDate>Sun, 09 May 2010 09:23:44 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/05/09/after-jb-soft/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; alt=&#34;&#34; src=&#34;http://i44.tinypic.com/258q7g3.jpg&#34; class=&#34;alignnone&#34; width=&#34;480&#34; height=&#34;100&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;朋友，在i系列全设备越狱的时代，你的iphone/iPod Touch/iPad越狱了没？&lt;/p&gt;
+&lt;p&gt;之前的日志里，由于本人的机子是3.1.3版本的，所以一直没有提及越狱。&lt;/p&gt;
+&lt;p&gt;但是没有让我等很久，在5月3日上午&lt;strong&gt;Dev Team&lt;/strong&gt;发布了Spirit。&lt;a href=&#34;http://127.0.0.1/2010/05/03/i-jailbreak/&#34; target=&#34;_blank&#34;&gt;越狱教程点这里&lt;/a&gt;。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Spirit发布-实现完美越狱</title>
+      <link>https://icoconuts.github.io/2010/05/03/i-jailbreak/</link>
+      <pubDate>Mon, 03 May 2010 15:23:45 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/05/03/i-jailbreak/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; class=&#34;aligncenter&#34; title=&#34;spirit&#34; src=&#34;http://i44.tinypic.com/2jcu6j7.jpg&#34; alt=&#34;spirit&#34; width=&#34;594&#34; height=&#34;150&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;这次果然是真的了。&lt;/p&gt;
+&lt;p&gt;在前几天3G版iPad越狱成功后，今天早上，我6点多更新twitter的时候，就发现iH8sn0w在其twitter上重复警告大家：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is another reminder that ALL iPhone 3GS/iPod Touch 3rd Gen/iPad users MUST grab their SHSH blobs for 3.1.3/3.2!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;具体操作方法，可以参看此日志：&lt;a href=&#34;http://127.0.0.1/2010/05/01/backupshsh/&#34; target=&#34;_blank&#34;&gt;备份iPod Touch/iphone3.1.3SHSH&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;今天上午，有事在外面，但一直有预感会发布Spirit，于是不停的盯着威锋的itouch区。&lt;/p&gt;
+&lt;p&gt;激动的时刻终于到来，10点不到，就看到坛友们在讨论破解的事了。之后就是源源不断的帖子涌现了。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>备份iPod Touch/iphone3.1.3SHSH</title>
+      <link>https://icoconuts.github.io/2010/05/01/backupshsh/</link>
+      <pubDate>Sat, 01 May 2010 11:33:12 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/05/01/backupshsh/</guid>
+      <description>自从购入iPod Touch以来，一直就有关于3.1.3要出越狱软件的消息。 但结果就是一直被忽悠。 这次</description>
+    </item>
+    
+    <item>
+      <title>Google比百毒更喜欢我的博客</title>
+      <link>https://icoconuts.github.io/2010/04/26/goolgebetterthanbaidu/</link>
+      <pubDate>Mon, 26 Apr 2010 14:17:27 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/04/26/goolgebetterthanbaidu/</guid>
+      <description>在GR上看到CB新闻一则：报告称一季度百度市场份额上涨谷歌下滑 于是，马上打开链接，想去看看百毒被骂成</description>
+    </item>
+    
+    <item>
+      <title>E63/E71同步通讯录和日历到iPod Touch/iPhone</title>
+      <link>https://icoconuts.github.io/2010/04/24/s60-web-ipod/</link>
+      <pubDate>Sat, 24 Apr 2010 15:24:08 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/04/24/s60-web-ipod/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://i44.tinypic.com/18yav8.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;话说，购入iPod Touch后，第一件做的事情就是想办法解决邮件、通讯录和日历的的同步问题。&lt;/p&gt;
+&lt;p&gt;有人说iPod Touch使用邮件、日历倒还说得过去，但通讯录有这个必要么？又不能打电话。&lt;/p&gt;
+&lt;p&gt;个人认为还是很有用的工具，毕竟现在拿iTouch的时间比E63的时间多多了。&lt;/p&gt;
+&lt;p&gt;网上查了下，虽说可以用iTunes来和电脑上的outlook（windows）或者iCal（Mac）来同步，但同步只能通过连接电脑进行。&lt;/p&gt;
+&lt;p&gt;作为移动设备，最好还是通过网络同步，这才是最方便的。&lt;/p&gt;
+&lt;p&gt;这里，我们需要通过Google 提供的Google Sync免费服务。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>个人对iTunes使用的一点认识</title>
+      <link>https://icoconuts.github.io/2010/04/19/itunes/</link>
+      <pubDate>Mon, 19 Apr 2010 10:59:31 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/04/19/itunes/</guid>
+      <description>之前， 说过了，iTunes和iTouch/iPhone是最好的伙伴了。 说实话，如果不是买了ipod t</description>
+    </item>
+    
+    <item>
+      <title>Twitter批量Follow/Unfollow-TwerpScan</title>
+      <link>https://icoconuts.github.io/2010/04/02/twerpscan-intro/</link>
+      <pubDate>Fri, 02 Apr 2010 12:59:52 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/04/02/twerpscan-intro/</guid>
+      <description>&lt;p&gt;&lt;img style=&#34;display: block; float: none; margin-left: auto; margin-right: auto;&#34; src=&#34;http://i44.tinypic.com/30ufrlu.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Twitter用久了后，following和follower的人数自然而然就会慢慢上去了。&lt;/p&gt;
+&lt;p&gt;这是个积累的过程。&lt;/p&gt;
+&lt;p&gt;但是，人渐渐多起来，有时候谁fo了你，而你有没有fo他，自己也理不清了。&lt;/p&gt;
+&lt;p&gt;还有就是fo了一段时间下来，觉得有些推自己完全不去关注，那这类人建议也去unfo了吧。&lt;/p&gt;
+&lt;p&gt;一来屏幕上清静，二来手机流量也可以省点~.~&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>网站大搬家</title>
+      <link>https://icoconuts.github.io/2010/03/28/newhome/</link>
+      <pubDate>Sun, 28 Mar 2010 14:45:26 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/03/28/newhome/</guid>
+      <description>嗯，一次偶然的机会，问一位朋友@AndrewEus，他的空间哪买的，我也在考虑买个国外空间。 他竟非常</description>
+    </item>
+    
+    <item>
+      <title>三款Chrome上的Twitter客户端扩展</title>
+      <link>https://icoconuts.github.io/2010/03/23/3-twitter-clients-4-chrome/</link>
+      <pubDate>Tue, 23 Mar 2010 15:25:31 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/03/23/3-twitter-clients-4-chrome/</guid>
+      <description>&lt;p&gt;在不能用DestroyTwitter后，PC上上Twitter总感觉不太爽~~&lt;/p&gt;
+&lt;p&gt;虽然有网页版，但总觉得没有独立的客户端来得舒服。&lt;/p&gt;
+&lt;p&gt;FireFox不是很喜欢，也说不出什么理由。不然Tweetfox绝对是个不错的选择。&lt;/p&gt;
+&lt;p&gt;至于Chrome，开始支持插件后，一直在寻找关于Twitter扩展。&lt;/p&gt;
+&lt;p&gt;一共试用了以下三款。&lt;/p&gt;
+&lt;p&gt;1.&lt;a href=&#34;https://chrome.google.com/extensions/detail/aefaeloiencfjnaljicdoieoekoecmha?hl=en-us&#34;&gt;Metrist&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.&lt;a href=&#34;https://chrome.google.com/extensions/detail/encaiiljifbdbjlphpgpiimidegddhic?hl=en-us&#34;&gt;Chromed Bird&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.&lt;a href=&#34;https://chrome.google.com/extensions/detail/ffcbeckjmgmgigkmnhmgjplmomcpfall?hl=en-us&#34;&gt;Chrowety&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Metrist和Chromed Bird就不多做介绍了。&lt;/p&gt;
+&lt;p&gt;个人推荐使用&lt;a href=&#34;https://chrome.google.com/extensions/detail/ffcbeckjmgmgigkmnhmgjplmomcpfall?hl=en-us&#34;&gt;Chrowety&lt;/a&gt;！&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>推特中文推Twitese之分享到Twitter功能</title>
+      <link>https://icoconuts.github.io/2010/03/10/share-to-twitter/</link>
+      <pubDate>Wed, 10 Mar 2010 13:56:53 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/03/10/share-to-twitter/</guid>
+      <description>当你习惯了Twitter后，就会开始想分享任何你的东西。 比如，你正在做什么，你打算做什么，你身边发生</description>
+    </item>
+    
+    <item>
+      <title>Opera Mobile 10 for S60试用</title>
+      <link>https://icoconuts.github.io/2010/02/23/opera-mobile-10/</link>
+      <pubDate>Tue, 23 Feb 2010 12:33:16 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/02/23/opera-mobile-10/</guid>
+      <description>&lt;p&gt;三三上装的浏览器已经很多啦，像UC，Go，Skyfire，还有Opera Mini。&lt;/p&gt;
+&lt;p&gt;今天看到CB上关于&lt;a href=&#34;http://www.cnbeta.com/articles/104750.htm&#34; target=&#34;_blank&#34;&gt;Opera Mobile 10 for S60 发布&lt;/a&gt;的介绍，马上下了个试试~~&lt;/p&gt;
+&lt;p&gt;于是，写个试用感受，分享给大家。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1.关于Opera&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Opera，一直是个传说。&lt;/p&gt;
+&lt;p&gt;Opera，她既大名鼎鼎，又是个小众软件。她的用户忠诚度非常高，而且用户群非常稳定。&lt;/p&gt;
+&lt;p&gt;Opera，她是浏览器技术的领军者，但把这些技术发扬光大，为世人所知的并非是她。&lt;/p&gt;
+&lt;p&gt;Opera，她一直是“千年老二”。在这么多年，大大小小的浏览器技术测评中，她一直存在着，但她一直是那些抢文的陪衬。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2.关于Opera Mini&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在早些年，手机浏览器市场竞争没这么激烈，Opera Mini绝对是当时的佼佼者。我一直用到了4.2国际版。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3.关于Opera Mobile&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Opera专门为智能手机设计的产品，以前用Nokia 6220的时候，只能用用Opera Mini。&lt;/p&gt;
+&lt;p&gt;现在用上三三了，终于可以享受Opera Mobile带来的全新体验了。&lt;/p&gt;
+&lt;p&gt;更多关于Opera Mobile的介绍，就点&lt;a href=&#34;http://www.opera.com/mobile/&#34; target=&#34;_blank&#34;&gt;官网&lt;/a&gt;吧。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>博客更名：点滴快乐</title>
+      <link>https://icoconuts.github.io/2010/02/07/lhappy/</link>
+      <pubDate>Sun, 07 Feb 2010 11:54:44 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/02/07/lhappy/</guid>
+      <description>1月3日起，博客更名：点滴快乐，同时俺的QQ昵称也改回elion。 “点滴快乐”，是“角落的遗忘”之前</description>
+    </item>
+    
+    <item>
+      <title>来DIY手机铃声吧</title>
+      <link>https://icoconuts.github.io/2009/12/30/diyphonerings/</link>
+      <pubDate>Wed, 30 Dec 2009 15:57:47 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/12/30/diyphonerings/</guid>
+      <description>深终于换掉那部当时很高档的手机(传说《流星花园》里仔仔用的手机)了~~ 迎接的是诺诺的第一款触屏手机–</description>
+    </item>
+    
+    <item>
+      <title>WP分页插件:Paginator让分页导航更直观</title>
+      <link>https://icoconuts.github.io/2009/06/16/wp-paginator/</link>
+      <pubDate>Tue, 16 Jun 2009 13:35:32 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/06/16/wp-paginator/</guid>
+      <description>博客日志越写越多，产生的页面也慢慢多起来了。之前一直用的页面导航是:Pagenavi。 它虽然比上一页</description>
+    </item>
+    
+    <item>
+      <title>WordPress升级到2.8版本</title>
+      <link>https://icoconuts.github.io/2009/06/12/wordpress2-8/</link>
+      <pubDate>Fri, 12 Jun 2009 14:23:59 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/06/12/wordpress2-8/</guid>
+      <description>昨天在CB上看到WordPress升级到2.8版本了，但在WP的后台，却一直没看到升级提示。 还记得W</description>
+    </item>
+    
+    <item>
+      <title>Twitter相关指令的新手教程</title>
+      <link>https://icoconuts.github.io/2009/06/12/twitter-begginer/</link>
+      <pubDate>Fri, 12 Jun 2009 05:03:04 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/06/12/twitter-begginer/</guid>
+      <description>&lt;p&gt;自从用上Twitter，感觉越来越喜欢它了。&lt;/p&gt;
+&lt;p&gt;之前&lt;a href=&#34;http://127.0.0.1/2009/03/29/twitter-intro/&#34; target=&#34;_blank&#34;&gt;介绍过twitter&lt;/a&gt;,今天从ifanr上转一个关于twitter相关指令功能的教程。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1.Twitter的基本功能，就是4个&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;自述（tweet，简称T），也叫更新状态（update），类似IM上的签名，向网络广播你的所思所想，所做所在。 &lt;span style=&#34;color: #ff0000;&#34;&gt;(是最基本的功能之一！)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;在官方web页面上显示就是：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;办公室里收单位的无线信号，非常差。时断时连的，唉。。。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/elion815/status/2124384616&#34;&gt;about 4 hours ago&lt;/a&gt; from &lt;a href=&#34;http://mobileways.de/gravity&#34;&gt;Gravity&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;此Gravity就是此条tweet的发出端。&lt;/p&gt;
+&lt;p&gt;转述（Retweet，简称RT），你可以理解为自己把别人的话重新tweet一下，所以叫Retweet。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>E63之新手上路之游戏篇</title>
+      <link>https://icoconuts.github.io/2009/06/11/e63-game/</link>
+      <pubDate>Thu, 11 Jun 2009 12:00:40 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/06/11/e63-game/</guid>
+      <description>之前用nokia 6220的时候，看着别人的智能机玩的游戏都非常羡慕。 而自己却只能玩玩象棋，五子棋什么</description>
+    </item>
+    
+    <item>
+      <title>E63之新手上路六（常用软件介绍）</title>
+      <link>https://icoconuts.github.io/2009/06/05/e63-6th/</link>
+      <pubDate>Fri, 05 Jun 2009 13:42:19 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/06/05/e63-6th/</guid>
+      <description>&lt;p&gt;上期介绍了三三上系统的软件，也不是很全，以后再慢慢补。&lt;/p&gt;
+&lt;p&gt;这期主要介绍几个最常用最实用的几款软件。&lt;/p&gt;
+&lt;p&gt;一.QQ&lt;/p&gt;
+&lt;p&gt;最新版是&lt;a href=&#34;http://mobile.qq.com:8080/web_mobile/software/QQ2008_Build064_3rd.sisx?g_c=0&#34;&gt;QQ2008 Build064&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;不多介绍了，这年头，谁不装QQ？&lt;/p&gt;
+&lt;p&gt;虽然论坛上有许多美化版本，我试用了一下，主要修改了一些图标和声音，其它也没什么。&lt;/p&gt;
+&lt;p&gt;所以我不是选择了官方版本。&lt;/p&gt;
+&lt;p&gt;进入&lt;a href=&#34;http://mobile.qq.com/&#34;&gt;手机QQ&lt;/a&gt;,选择nokia的E71版本,可能由于国内市场E63没有上市，列表里没有它的身影。&lt;/p&gt;
+&lt;p&gt;不过没关系，E71的系统是一样的，（所以记得一般E71能用的软件，三三也都能用！！）&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>E63之新手上路五（系统软件介绍）</title>
+      <link>https://icoconuts.github.io/2009/05/26/e63-5th/</link>
+      <pubDate>Tue, 26 May 2009 11:23:13 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/05/26/e63-5th/</guid>
+      <description>&lt;p&gt;这期开始介绍三三上常用的软件。我是个软件狂，估计要分好几期。&lt;/p&gt;
+&lt;p&gt;一.来电通&lt;/p&gt;
+&lt;p&gt;最新版是&lt;a href=&#34;http://127.0.0.1/2009/05/26/e63-5th/#download&#34;&gt;2.61.1&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;S60软件中的一个巨作,可以根据号码,短信识别号码归属地,统计短信收发,来电大头贴等!&lt;/p&gt;
+&lt;p&gt;其具体特点：&lt;/p&gt;
+&lt;p&gt;查询来电或去电的号码归属地，号码类型；&lt;/p&gt;
+&lt;p&gt;查询通讯记录号码归属地；&lt;/p&gt;
+&lt;p&gt;查询信息号码归属地；&lt;/p&gt;
+&lt;p&gt;可以设置提示框的显示风格、字体、边距、颜色、位置、背景图片、透明度等；&lt;/p&gt;
+&lt;p&gt;对未接来电和未读短信进行提醒；&lt;/p&gt;
+&lt;p&gt;通话时间提醒；查询国际区号；查询常用热线电话；&lt;/p&gt;
+&lt;p&gt;来电/去电大头贴；&lt;/p&gt;
+&lt;p&gt;IP电话拨号；&lt;/p&gt;
+&lt;p&gt;可以自定义号码库，根据需要定义自己的来电/去电查询数据库；&lt;/p&gt;
+&lt;p&gt;信息计数功能，记录收发短信/彩信的数量；&lt;/p&gt;
+&lt;p&gt;在线更新数据库（支持WIFI）；&lt;/p&gt;
+&lt;p&gt;短信提示功能，可以直接进行回复、转发、删除、转存等操作。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>E63之新手上路四（WLAN上网）</title>
+      <link>https://icoconuts.github.io/2009/05/11/e63-4th/</link>
+      <pubDate>Mon, 11 May 2009 14:58:28 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/05/11/e63-4th/</guid>
+      <description>&lt;p&gt;为什么买水货？买水货，一个是因为便宜，更重要的是因为它有WiFi!!!&lt;/p&gt;
+&lt;p&gt;同样，水货的三三也是支持WiFi的。目前还不知道会不会在中国大陆上市。但如果上市的话，WiFi功能也是肯定被阉割掉的，所以，建议打算购机的朋友还是买水货吧。&lt;/p&gt;
+&lt;p&gt;嗯，说了这么多，先对一些名词做个解释。&lt;/p&gt;
+&lt;p&gt;1.WLAN是什么？&lt;/p&gt;
+&lt;p&gt;WLAN即Wireless Local Area Networks，无线局域网的简称。&lt;/p&gt;
+&lt;p&gt;标准解释是指应用无线通信技术将计算机设备互联起来，构成可以互相通信和实现资源共享的网络体系。&lt;/p&gt;
+&lt;p&gt;2.WiFi又是什么？&lt;/p&gt;
+&lt;p&gt;WiFi是Wireless Fidelity，又称802.11b协议。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>三款基于Adobe AIR的Twitter客户端</title>
+      <link>https://icoconuts.github.io/2009/05/09/air-twitter/</link>
+      <pubDate>Sat, 09 May 2009 10:21:27 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/05/09/air-twitter/</guid>
+      <description>&lt;p&gt;前面介绍过&lt;a href=&#34;http://127.0.0.1/2009/03/29/twitter-intro/&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt;， 但由于Twitter的&lt;a href=&#34;http://twitter.com/elion815&#34; target=&#34;_blank&#34;&gt;网页版&lt;/a&gt;功能太过简单，甚至连基本的RT都没有，非常的不方便。&lt;/p&gt;
+&lt;p&gt;在Twtitterr的第三方软件中，我试用过许多，觉得还是基于Adobe AIR的工具最方便，功能也强大。&lt;/p&gt;
+&lt;p&gt;要安装AIR程序，就必须安装&lt;a title=&#34;点击下载&#34; href=&#34;http://www.adobe.com/cn/products/air/&#34; target=&#34;_blank&#34;&gt;Adobe AIR&lt;/a&gt;。&lt;br&gt;
+AdobeR AIR™ 是跨作业系统的执行阶段, 可让开发人员使用熟悉的网页工具, 包括 HTML、Ajax、Adobe FlashR 和 Adobe FlexR 来建立可部署至桌面的多样化网际网路应用程式 (Rich Internet Applications)。有了 Adobe AIR, 开发人员就可以运用现有的技巧和工具来建立引人入胜的视觉化多样化应用程式, 兼具桌面的丰富体验与网路的广泛触及性的优点。&lt;/p&gt;
+&lt;p&gt;—————————————————————————————————————————————————————————–&lt;/p&gt;
+&lt;p&gt;1.&lt;a href=&#34;http://www.twhirl.org/&#34; target=&#34;_blank&#34;&gt;Twhirl&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Twhirl在Twitter的第三方软件里，应该算是大名鼎鼎了。关于它的介绍也是到处都是。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>E63之新手上路三（基本设置）</title>
+      <link>https://icoconuts.github.io/2009/05/07/e63-3rd/</link>
+      <pubDate>Thu, 07 May 2009 13:06:54 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/05/07/e63-3rd/</guid>
+      <description>&lt;p&gt;自从手机&lt;a href=&#34;http://127.0.0.1/2009/04/27/e63-2nd/&#34; target=&#34;_blank&#34;&gt;破解&lt;/a&gt;了后，我才正式开始把玩起三三。&lt;/p&gt;
+&lt;p&gt;由于之前用过nokia，如基本的开解锁、情景模式、铃声设置等基本的还是没问题的。&lt;/p&gt;
+&lt;p&gt;但是关于类似按键设置，主屏幕程序设置等等，还是没一下子摸索出来。&lt;/p&gt;
+&lt;p&gt;由于E63在大陆没有发行，我的新加坡版说明书全是英文，没什么兴致看。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>E63之新手上路二（签名和破解）</title>
+      <link>https://icoconuts.github.io/2009/04/27/e63-2nd/</link>
+      <pubDate>Mon, 27 Apr 2009 10:03:47 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/04/27/e63-2nd/</guid>
+      <description>&lt;p&gt;上回说到&lt;a href=&#34;http://127.0.0.1/2009/04/20/e63-1st/&#34; target=&#34;_blank&#34;&gt;购机及格机&lt;/a&gt;后,可以开始好好的玩机了。&lt;/p&gt;
+&lt;p&gt;智能机之所以有这个名称，我个人认为就是有非常强大的软件扩展性，比起非智能机，只能安装Java类的程序，它的优越性就非常明显了。&lt;/p&gt;
+&lt;p&gt;我个人对软件安装及主题制作非常感兴趣。&lt;/p&gt;
+&lt;p&gt;所以，嘿嘿~~&lt;/p&gt;
+&lt;p&gt;不过，之前已经说过，由于没有接触过智能机系统，可以说是一无所知。一时还无从下手。&lt;/p&gt;
+&lt;p&gt;幸好莫哥推荐了好多优秀的智能手机论坛。&lt;/p&gt;
+&lt;p&gt;1.&lt;a href=&#34;http://bbs.imobile.com.cn/index.php&#34; target=&#34;_blank&#34;&gt;手机之家论坛&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.&lt;a href=&#34;http://bbs.dospy.com/&#34; target=&#34;_blank&#34;&gt;塞班智能手机论坛&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.&lt;a href=&#34;http://www.opda.net.cn/index.php&#34; target=&#34;_blank&#34;&gt;OPDA智能手机网论坛&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;4.&lt;a href=&#34;http://nokia.zol.com.cn&#34; target=&#34;_blank&#34;&gt;中关村在线诺基亚手机论坛&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;…&lt;/p&gt;
+&lt;p&gt;好了，说正题，诺基亚的智能机系统就是：塞班（symbian）系统。&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;color: #ff0000;&#34;&gt;E63手机的系统版本为：Symbian OS 9.2, Series 60 v3.1&lt;/span&gt;&lt;span style=&#34;color: #ff0000;&#34;&gt;以下简称(S60v3版)。&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;而说到塞班系统，不得不提“签名”。&lt;/p&gt;
+&lt;p&gt;以下是手机之家论坛上的&lt;a href=&#34;http://bbs.imobile.com.cn/thread-tid-8145877.html&#34; target=&#34;_blank&#34;&gt;关于签名扫盲贴&lt;/a&gt;的内容，我只列了大点，有兴趣的可以了解一下。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;1、什么是证书？&lt;br&gt;
+2、证书的作用是什么？&lt;br&gt;
+3、如何获得证书？&lt;/p&gt;
+&lt;p&gt;4、证书有有效期吗？&lt;br&gt;
+5、什么是签名？如何签名？&lt;br&gt;
+6、哪些软件需要签名？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span style=&#34;color: #0000ff;&#34;&gt;简言之，几乎安装每个软件，都需要签名。所以是个比较麻烦的事。&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;我个人到现在还没弄懂，也不想去弄懂。&lt;/p&gt;
+&lt;p&gt;因为破解之后，就不需要签名了~.~&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>翻翻我的博客情结</title>
+      <link>https://icoconuts.github.io/2009/04/21/mytripofblog/</link>
+      <pubDate>Tue, 21 Apr 2009 12:18:57 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/04/21/mytripofblog/</guid>
+      <description>今天中午，朋友问我哪有博客可以申请，这倒一下子提醒我了。 以前一直想从之前的博客上把日志转过来，毕竟是</description>
+    </item>
+    
+    <item>
+      <title>E63之新手上路（一）</title>
+      <link>https://icoconuts.github.io/2009/04/20/e63-1st/</link>
+      <pubDate>Mon, 20 Apr 2009 14:20:36 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/04/20/e63-1st/</guid>
+      <description>&lt;p&gt;入手E63（以下简称三三）已经十多天了，觉得有必要写一些感受了，可以和玩机的朋友好好交流交流。&lt;/p&gt;
+&lt;p&gt;一.换手机的缘由&lt;/p&gt;
+&lt;p&gt;之前用的是Nokia 6220，S40系统的机子。&lt;/p&gt;
+&lt;p&gt;虽说对软件，智能机非常感兴趣，无奈Nokia的机子质量实在太好了，用了四年，除了电池用了2年就不行了，其它从没出过问题。&lt;/p&gt;
+&lt;p&gt;所以，一直没有接触过智能机。从这个角度讲，本人纯属菜鸟。&lt;/p&gt;
+&lt;p&gt;直到前一段时间，迷上用&lt;a href=&#34;http://127.0.0.1/2009/03/29/twitter-intro/&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt;,但手机却连Twitter的网站都上不了，一怒之下解决换手机！&lt;/p&gt;
+&lt;p&gt;一直钻研手机市场的莫哥，给我推荐了三三，我一看，嗯，&lt;a href=&#34;http://127.0.0.1/2009/04/03/mye63/&#34; target=&#34;_blank&#34;&gt;配置&lt;/a&gt;和E71相当，非常强大，系统也是S60 V3.1版，当时就口水直流啊。就决定买她了。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;二.购机准备和购机&lt;/p&gt;
+&lt;p&gt;在&lt;a href=&#34;http://nokia.zol.com.cn/comment_162405.html&#34; target=&#34;_blank&#34;&gt;Zol论坛&lt;/a&gt;看了相关帖子，大概知道，价格，和目标—E63之亚太版新加坡版。&lt;/p&gt;
+&lt;p&gt;为什么选择新加坡版？&lt;/p&gt;
+&lt;p&gt;    1.新加坡版是销往新加坡（华人很多），所以手机在出厂时，就已经是中文系统，不用刷机。&lt;/p&gt;
+&lt;p&gt;    2.键盘上笔划是原刻，可透光。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>插件Titletopng-DIY</title>
+      <link>https://icoconuts.github.io/2009/03/20/titletopng-diy/</link>
+      <pubDate>Fri, 20 Mar 2009 10:49:06 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/03/20/titletopng-diy/</guid>
+      <description>&lt;p&gt;前几天找到了一款很有意思的插件：&lt;a href=&#34;http://127.0.0.1/2009/03/17/wptitiletopn/&#34; target=&#34;_blank&#34;&gt;titletopng&lt;/a&gt;。它可以让blog更新信息显示在任何可以贴图的地方。（如论坛签名。）&lt;/p&gt;
+&lt;p&gt;今天有时间，好好把玩了一下。&lt;/p&gt;
+&lt;p&gt;效果预览：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://127.0.0.1/tool/title.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>WP插件:让你的图片签名显示日志更新</title>
+      <link>https://icoconuts.github.io/2009/03/17/wptitiletopn/</link>
+      <pubDate>Tue, 17 Mar 2009 13:12:54 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/03/17/wptitiletopn/</guid>
+      <description>&lt;p&gt;插件功能介绍：生成一个论坛签名图片，在该图片上自动显示你的Wordpress博客上的最新文章。&lt;br&gt;
+把blog文章列表生成图片的插件。&lt;/p&gt;
+&lt;p&gt;效果预览：&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;alignnone&#34; src=&#34;http://127.0.0.1/tool/title.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>&lt;转&gt;RSS feed 摘要输出轻松全文</title>
+      <link>https://icoconuts.github.io/2009/03/17/all-rss-feed/</link>
+      <pubDate>Tue, 17 Mar 2009 04:46:02 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/03/17/all-rss-feed/</guid>
+      <description>&lt;p&gt;在小众软件上刚看到的一篇文章，转一下。&lt;/p&gt;
+&lt;p&gt;最强最傻瓜化的 RSS feed 全文化利器：まるごとRSS。只需把博客的地址或者 RSS feed 输入到页面唯一的输入框里，然后点击 Go，全文化的 Feed 就生成了！看下图，页面还生成了相应的订阅按钮。赶紧点击 Googleリーダー，订阅到 Google Reader。注意，第一个按钮是 iGoogle。&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;
+  &lt;img loading=&#34;lazy&#34; class=&#34;aligncenter&#34; src=&#34;http://pic.yupoo.com/jdvip/95911721d3ef/small.jpg&#34; alt=&#34;&#34; width=&#34;191&#34; height=&#34;240&#34; /&gt;
+&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;</description>
+    </item>
+    
+    <item>
+      <title>主题继续完善二</title>
+      <link>https://icoconuts.github.io/2009/02/27/newreply/</link>
+      <pubDate>Fri, 27 Feb 2009 14:27:45 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/02/27/newreply/</guid>
+      <description>继最新日志/最新评论显示改成下方显示后，打算继续完善本主题，见最近评论越来越多，急需解决的就是评论回</description>
+    </item>
+    
+    <item>
+      <title>主题完善之一</title>
+      <link>https://icoconuts.github.io/2009/02/27/redesignrs/</link>
+      <pubDate>Fri, 27 Feb 2009 14:06:18 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/02/27/redesignrs/</guid>
+      <description>&lt;p&gt;之前为“最新日志/最新评论”设置的右侧侧边栏动态显示效果，用了一段时间感觉不太舒服&lt;/p&gt;
+&lt;p&gt;想想还是转回原来的效果：在页面底部并排显示。虽然不是我自己的创意，但还是自己通过CSS慢慢调整得出了。&lt;/p&gt;
+&lt;p&gt;本效果在IE 7,chrome,Firefox,Opera下测试通过，至于IE 6不做考虑。。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img style=&#34;display: block; float: none; margin-left: auto; margin-right: auto&#34; src=&#34;http://farm4.static.flickr.com/3585/3313305807_e48bf7bb6b_o.jpg&#34; /&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Gravatar注册教程</title>
+      <link>https://icoconuts.github.io/2009/02/17/gravatarsignup/</link>
+      <pubDate>Tue, 17 Feb 2009 14:13:51 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/02/17/gravatarsignup/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://en.gravatar.com/&#34; target=&#34;_blank&#34;&gt;Gravatar&lt;/a&gt; (Globally Recognized Avatar的缩写)，意思就是全球认证头像（全球通用头像）。它是由WordPress系列产品的母公司Automattic运营的一个面向广大博客网站提供通用头像服务的网站。在该网站注册账户并上传头像以后，在全球任意一个支持Gravatar的网站（如基于WordPress的大部分博客），在评论时只要输入您的电子邮箱，在评论旁即可显示您的个性头像。你注册一个帐号后，可以添加多个邮件地址和对应头像。&lt;/p&gt;
+&lt;p&gt;===============================================================================&lt;/p&gt;
+&lt;p&gt;自WordPress升级到 2.5版本以后，WordPress内置显示Gravatar的头像的功能。这里就简单说一下主题添加此功能的方法：&lt;/p&gt;
+&lt;p&gt;1.Gravatar参数：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;?php [echo][1] get_avatar( $comment, 32 ); ?&gt; 
+&lt;/blockquote&gt;
+&lt;p&gt;2.找到主题目录下的comments.php文件，打开后找到相关代码插入就可以了。&lt;/p&gt;
+&lt;p&gt;注意：该函数的调用须放在&lt;?php foreach ($comments as $comment) : ?&gt;语句后，否则会出错。&lt;/p&gt;
+&lt;p&gt;具体方法，可以参看这篇文章－－&lt;a href=&#34;http://www.thinkagain.cn/archives/904.html&#34; target=&#34;_blank&#34;&gt;WordPress Tips:如何使用WP2.5内置的Gravatar&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;===============================================================================&lt;/p&gt;
+&lt;p&gt;Gravatar注册很简单，不懂英文也不用觉得麻烦的。几步就可以实现注册。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>欢迎光临本博客</title>
+      <link>https://icoconuts.github.io/2009/02/15/top/</link>
+      <pubDate>Sun, 15 Feb 2009 05:42:02 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/02/15/top/</guid>
+      <description>如果还在用IE6，那真是太杯具了！！ 请选择更好的浏览器! 欢迎来到黑金侠（原点滴快乐），为实现正常浏览</description>
+    </item>
+    
+    <item>
+      <title>CSS图像热点运用</title>
+      <link>https://icoconuts.github.io/2009/01/31/cssimagehotlink/</link>
+      <pubDate>Sat, 31 Jan 2009 07:54:13 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/01/31/cssimagehotlink/</guid>
+      <description>&lt;p&gt;之前有朋友说我的主题像是女生用的，于是新的主题匆忙上马，一直没加上RSS的链接。&lt;/p&gt;
+&lt;p&gt;因为一直没有什么好的创意，直到前几天在车上想到以拼图的形式实现，回来PS动手一做，感觉瞒好。&lt;/p&gt;
+&lt;p&gt; &lt;img src=&#34;http://farm4.static.flickr.com/3459/3240091963_0bd287bf65_o.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;但问题是如何实现链接，本想用土办法，PS制切片，再通过CSS分别定义。&lt;/p&gt;
+&lt;p&gt;想想没办法解决又放了几天。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>WordPress分页、摘要研究（一）</title>
+      <link>https://icoconuts.github.io/2009/01/09/moretag/</link>
+      <pubDate>Fri, 09 Jan 2009 02:02:53 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/01/09/moretag/</guid>
+      <description>&lt;p&gt;WordPress的显示日志摘要有两种方式。&lt;/p&gt;
+&lt;p&gt;第1种是通过写文章的时候在其中加入标签。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;lt;!—more–&amp;gt;”Insert More tag”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;效果：你的post直到&amp;lt;!—more–&amp;gt;处断掉输出为止。见此行下。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>哇，主题做好了</title>
+      <link>https://icoconuts.github.io/2007/10/17/themeisdone/</link>
+      <pubDate>Wed, 17 Oct 2007 05:34:48 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/10/17/themeisdone/</guid>
+      <description>&lt;p&gt;哇，主题做好了。好辛苦啊。。。。。。&lt;/p&gt;
+&lt;p&gt;个人感觉还行。不过有些地方其在是弄不懂。哪位高手指点指点就最好了。&lt;/p&gt;
+&lt;p&gt;以下是这次的一些体会和没有解决的问题：&lt;/p&gt;
+&lt;p&gt;1.PS做个网页效果容易，通过CSS定义就很难。&lt;/p&gt;
+&lt;p&gt;加上浏览器对CSS支持的效果差别，往往会出现很大的反差。&lt;/p&gt;
+&lt;p&gt;不知道是我哪里没设计好，还是大家都是这样的。&lt;/p&gt;
+&lt;p&gt;还好之前把图书馆有关CSS的书籍差不多都看了，&lt;/p&gt;
+&lt;p&gt;遇到浏览器的效果偏差，马上加上了browse hacks.&lt;/p&gt;
+&lt;p&gt;虽然说&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>陪伴我三年多的手机</title>
+      <link>https://icoconuts.github.io/2007/09/29/my6220/</link>
+      <pubDate>Sat, 29 Sep 2007 12:21:00 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/09/29/my6220/</guid>
+      <description>&lt;p&gt;陪伴我三年多的手机,非常喜欢它的按键。&lt;/p&gt;
+&lt;p&gt;非常有手感，而且难磨损。&lt;/p&gt;
+&lt;p&gt;手机绘制:IL&lt;/p&gt;
+&lt;p&gt;后期及效果:PS&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Leoparn系列液晶显示器上市</title>
+      <link>https://icoconuts.github.io/2007/09/28/leoparnlcd/</link>
+      <pubDate>Fri, 28 Sep 2007 08:34:48 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/09/28/leoparnlcd/</guid>
+      <description>&lt;p&gt;Leoparn系列液晶显示器上市….*^_^*&lt;/p&gt;
+&lt;p&gt;附海报…&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lee牛仔裤</title>
+      <link>https://icoconuts.github.io/2007/09/20/lee/</link>
+      <pubDate>Thu, 20 Sep 2007 15:38:46 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/09/20/lee/</guid>
+      <description>&lt;p&gt;花了N个小时…&lt;/p&gt;
+&lt;p&gt;绘制软件:PS&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>架好本地WP了</title>
+      <link>https://icoconuts.github.io/2007/09/04/local-wp/</link>
+      <pubDate>Tue, 04 Sep 2007 14:57:05 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/09/04/local-wp/</guid>
+      <description>在暑假里的时候，就已经开始琢磨修改个WP的主题了。 可是鉴于要架构mysql+php的环境，太麻烦了。</description>
+    </item>
+    
+    <item>
+      <title>给博客加个时钟(三)之代码添加</title>
+      <link>https://icoconuts.github.io/2007/05/20/blogclock3/</link>
+      <pubDate>Sun, 20 May 2007 09:05:19 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/05/20/blogclock3/</guid>
+      <description>第三部分，添加到自己的博客中。 1,上传第二部分中做好的flash到网上的空间。 注意，该空间一定是允许</description>
+    </item>
+    
+    <item>
+      <title>给博客加个时钟(二)之flash制作</title>
+      <link>https://icoconuts.github.io/2007/05/18/blogclock2/</link>
+      <pubDate>Fri, 18 May 2007 10:41:09 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/05/18/blogclock2/</guid>
+      <description>第二部分，制作flash。 (当然，这一步也可以省去。同样网上也有大量的免费flash时钟等着你。) 1</description>
+    </item>
+    
+    <item>
+      <title>给博客加个时钟(一)之PS制作背景</title>
+      <link>https://icoconuts.github.io/2007/05/blogclock1/</link>
+      <pubDate>Thu, 17 May 2007 13:57:20 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/05/blogclock1/</guid>
+      <description>看到天气雨的博客上有个时钟，感觉很醒目的。其实大二的时候，学过一段时间的flash，那时候as也学得</description>
+    </item>
+    
+  </channel>
+</rss>

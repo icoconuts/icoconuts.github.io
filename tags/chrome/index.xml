@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chrome on elion&#39;s blog</title>
+    <link>https://icoconuts.github.io/tags/chrome/</link>
+    <description>Recent content in Chrome on elion&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 23 Mar 2010 15:25:31 +0000</lastBuildDate><atom:link href="https://icoconuts.github.io/tags/chrome/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>三款Chrome上的Twitter客户端扩展</title>
+      <link>https://icoconuts.github.io/2010/03/23/3-twitter-clients-4-chrome/</link>
+      <pubDate>Tue, 23 Mar 2010 15:25:31 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/03/23/3-twitter-clients-4-chrome/</guid>
+      <description>&lt;p&gt;在不能用DestroyTwitter后，PC上上Twitter总感觉不太爽~~&lt;/p&gt;
+&lt;p&gt;虽然有网页版，但总觉得没有独立的客户端来得舒服。&lt;/p&gt;
+&lt;p&gt;FireFox不是很喜欢，也说不出什么理由。不然Tweetfox绝对是个不错的选择。&lt;/p&gt;
+&lt;p&gt;至于Chrome，开始支持插件后，一直在寻找关于Twitter扩展。&lt;/p&gt;
+&lt;p&gt;一共试用了以下三款。&lt;/p&gt;
+&lt;p&gt;1.&lt;a href=&#34;https://chrome.google.com/extensions/detail/aefaeloiencfjnaljicdoieoekoecmha?hl=en-us&#34;&gt;Metrist&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.&lt;a href=&#34;https://chrome.google.com/extensions/detail/encaiiljifbdbjlphpgpiimidegddhic?hl=en-us&#34;&gt;Chromed Bird&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.&lt;a href=&#34;https://chrome.google.com/extensions/detail/ffcbeckjmgmgigkmnhmgjplmomcpfall?hl=en-us&#34;&gt;Chrowety&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Metrist和Chromed Bird就不多做介绍了。&lt;/p&gt;
+&lt;p&gt;个人推荐使用&lt;a href=&#34;https://chrome.google.com/extensions/detail/ffcbeckjmgmgigkmnhmgjplmomcpfall?hl=en-us&#34;&gt;Chrowety&lt;/a&gt;！&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

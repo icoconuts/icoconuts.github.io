@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CSS on elion&#39;s blog</title>
+    <link>https://icoconuts.github.io/tags/css/</link>
+    <description>Recent content in CSS on elion&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 31 Jan 2009 07:54:13 +0000</lastBuildDate><atom:link href="https://icoconuts.github.io/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CSS图像热点运用</title>
+      <link>https://icoconuts.github.io/2009/01/31/cssimagehotlink/</link>
+      <pubDate>Sat, 31 Jan 2009 07:54:13 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/01/31/cssimagehotlink/</guid>
+      <description>&lt;p&gt;之前有朋友说我的主题像是女生用的，于是新的主题匆忙上马，一直没加上RSS的链接。&lt;/p&gt;
+&lt;p&gt;因为一直没有什么好的创意，直到前几天在车上想到以拼图的形式实现，回来PS动手一做，感觉瞒好。&lt;/p&gt;
+&lt;p&gt; &lt;img src=&#34;http://farm4.static.flickr.com/3459/3240091963_0bd287bf65_o.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;但问题是如何实现链接，本想用土办法，PS制切片，再通过CSS分别定义。&lt;/p&gt;
+&lt;p&gt;想想没办法解决又放了几天。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>埋头于CSS学习</title>
+      <link>https://icoconuts.github.io/2007/10/10/study-css/</link>
+      <pubDate>Wed, 10 Oct 2007 12:42:47 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/10/10/study-css/</guid>
+      <description>&lt;p&gt;今天一天埋头于CSS的学习中，在图书馆研究那本&lt;a href=&#34;http://elion.yo2.cn/archives/448647&#34;&gt;无懈可击的Web设计&lt;/a&gt;，真是解决了不少的问题。&lt;/p&gt;
+&lt;p&gt;看了大师们的书，发现他们考虑的是全局的对象，包括使用不同浏览器的用户或使用屏幕阅读器的用户。&lt;/p&gt;
+&lt;p&gt;我一直以为做个自己感觉好的界面就可以了。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

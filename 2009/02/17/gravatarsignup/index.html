@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Gravatar注册教程 - elion&#39;s blog</title>
+  <meta name="renderer" content="webkit" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+<meta name="theme-color" content="#f8f5ec" />
+<meta name="msapplication-navbutton-color" content="#f8f5ec">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="#f8f5ec">
+
+
+<meta name="author" content="elion" /><meta name="description" content="Gravatar (Globally Recognized Avatar的缩写)，意思就是全球认证头像（全球通用头像）。它是由WordPress系列产品的母公司Automattic运营的一个面向广大博客网站提供通用头像服务的网站。在该网站注册账户并上传头像以后，在全球任意一个支持Gravatar的网站（如基于WordPress的大部分博客），在评论时只要输入您的电子邮箱，在评论旁即可显示您的个性头像。你注册一个帐号后，可以添加多个邮件地址和对应头像。
+===============================================================================
+自WordPress升级到 2.5版本以后，WordPress内置显示Gravatar的头像的功能。这里就简单说一下主题添加此功能的方法：
+1.Gravatar参数：
+  2.找到主题目录下的comments.php文件，打开后找到相关代码插入就可以了。
+注意：该函数的调用须放在语句后，否则会出错。
+具体方法，可以参看这篇文章－－WordPress Tips:如何使用WP2.5内置的Gravatar。
+===============================================================================
+Gravatar注册很简单，不懂英文也不用觉得麻烦的。几步就可以实现注册。
+" />
+
+
+
+
+
+
+<meta name="generator" content="Hugo 0.81.0 with theme even" />
+
+
+<link rel="canonical" href="https://icoconuts.github.io/2009/02/17/gravatarsignup/" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+
+
+
+<link href="/sass/main.min.af7fd1da18d66c2b017df5b4cae508ef44cfcac3fb4c7c7a327fe4f4f9e28b08.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.css" integrity="sha256-7TyXnr2YU040zfSP+rEcz29ggW4j56/ujTPwjMzyqFY=" crossorigin="anonymous">
+
+
+<meta property="og:title" content="Gravatar注册教程" />
+<meta property="og:description" content="Gravatar (Globally Recognized Avatar的缩写)，意思就是全球认证头像（全球通用头像）。它是由WordPress系列产品的母公司Automattic运营的一个面向广大博客网站提供通用头像服务的网站。在该网站注册账户并上传头像以后，在全球任意一个支持Gravatar的网站（如基于WordPress的大部分博客），在评论时只要输入您的电子邮箱，在评论旁即可显示您的个性头像。你注册一个帐号后，可以添加多个邮件地址和对应头像。
+===============================================================================
+自WordPress升级到 2.5版本以后，WordPress内置显示Gravatar的头像的功能。这里就简单说一下主题添加此功能的方法：
+1.Gravatar参数：
+
+&lt;?php [echo][1] get_avatar( $comment, 32 ); ?&gt; 
+
+2.找到主题目录下的comments.php文件，打开后找到相关代码插入就可以了。
+注意：该函数的调用须放在&lt;?php foreach ($comments as $comment) : ?&gt;语句后，否则会出错。
+具体方法，可以参看这篇文章－－WordPress Tips:如何使用WP2.5内置的Gravatar。
+===============================================================================
+Gravatar注册很简单，不懂英文也不用觉得麻烦的。几步就可以实现注册。" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://icoconuts.github.io/2009/02/17/gravatarsignup/" /><meta property="article:section" content="post" />
+<meta property="article:published_time" content="2009-02-17T14:13:51&#43;00:00" />
+<meta property="article:modified_time" content="2009-02-17T14:13:51&#43;00:00" />
+
+<meta itemprop="name" content="Gravatar注册教程">
+<meta itemprop="description" content="Gravatar (Globally Recognized Avatar的缩写)，意思就是全球认证头像（全球通用头像）。它是由WordPress系列产品的母公司Automattic运营的一个面向广大博客网站提供通用头像服务的网站。在该网站注册账户并上传头像以后，在全球任意一个支持Gravatar的网站（如基于WordPress的大部分博客），在评论时只要输入您的电子邮箱，在评论旁即可显示您的个性头像。你注册一个帐号后，可以添加多个邮件地址和对应头像。
+===============================================================================
+自WordPress升级到 2.5版本以后，WordPress内置显示Gravatar的头像的功能。这里就简单说一下主题添加此功能的方法：
+1.Gravatar参数：
+
+&lt;?php [echo][1] get_avatar( $comment, 32 ); ?&gt; 
+
+2.找到主题目录下的comments.php文件，打开后找到相关代码插入就可以了。
+注意：该函数的调用须放在&lt;?php foreach ($comments as $comment) : ?&gt;语句后，否则会出错。
+具体方法，可以参看这篇文章－－WordPress Tips:如何使用WP2.5内置的Gravatar。
+===============================================================================
+Gravatar注册很简单，不懂英文也不用觉得麻烦的。几步就可以实现注册。"><meta itemprop="datePublished" content="2009-02-17T14:13:51&#43;00:00" />
+<meta itemprop="dateModified" content="2009-02-17T14:13:51&#43;00:00" />
+<meta itemprop="wordCount" content="1646">
+<meta itemprop="keywords" content="Gravatar,Wordpress,hosted-on-i815.cn," /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Gravatar注册教程"/>
+<meta name="twitter:description" content="Gravatar (Globally Recognized Avatar的缩写)，意思就是全球认证头像（全球通用头像）。它是由WordPress系列产品的母公司Automattic运营的一个面向广大博客网站提供通用头像服务的网站。在该网站注册账户并上传头像以后，在全球任意一个支持Gravatar的网站（如基于WordPress的大部分博客），在评论时只要输入您的电子邮箱，在评论旁即可显示您的个性头像。你注册一个帐号后，可以添加多个邮件地址和对应头像。
+===============================================================================
+自WordPress升级到 2.5版本以后，WordPress内置显示Gravatar的头像的功能。这里就简单说一下主题添加此功能的方法：
+1.Gravatar参数：
+
+&lt;?php [echo][1] get_avatar( $comment, 32 ); ?&gt; 
+
+2.找到主题目录下的comments.php文件，打开后找到相关代码插入就可以了。
+注意：该函数的调用须放在&lt;?php foreach ($comments as $comment) : ?&gt;语句后，否则会出错。
+具体方法，可以参看这篇文章－－WordPress Tips:如何使用WP2.5内置的Gravatar。
+===============================================================================
+Gravatar注册很简单，不懂英文也不用觉得麻烦的。几步就可以实现注册。"/>
+
+<!--[if lte IE 9]>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
+<![endif]-->
+
+<!--[if lt IE 9]>
+  <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
+<![endif]-->
+
+</head>
+<body>
+  <div id="mobile-navbar" class="mobile-navbar">
+  <div class="mobile-header-logo">
+    <a href="/" class="logo">elion&#39;s blog</a>
+  </div>
+  <div class="mobile-navbar-icon">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+</div>
+<nav id="mobile-menu" class="mobile-menu slideout-menu">
+  <ul class="mobile-menu-list">
+    <a href="/">
+        <li class="mobile-menu-item">HOME</li>
+      </a><a href="/post/">
+        <li class="mobile-menu-item">ARCHIVES</li>
+      </a><a href="/tags/">
+        <li class="mobile-menu-item">TAGS </li>
+      </a><a href="/categories/">
+        <li class="mobile-menu-item">CATEGORIES</li>
+      </a><a href="/about/">
+        <li class="mobile-menu-item">ABOUT</li>
+      </a>
+  </ul>
+
+  
+
+
+</nav>
+
+  <div class="container" id="mobile-panel">
+    <header id="header" class="header">
+        <div class="logo-wrapper">
+  <a href="/" class="logo">elion&#39;s blog</a>
+</div>
+
+
+
+
+
+<nav class="site-navbar">
+  <ul id="menu" class="menu">
+    <li class="menu-item">
+        <a class="menu-item-link" href="/">HOME</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/post/">ARCHIVES</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/tags/">TAGS </a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/categories/">CATEGORIES</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/about/">ABOUT</a>
+      </li>
+  </ul>
+</nav>
+
+    </header>
+
+    <main id="main" class="main">
+      <div class="content-wrapper">
+        <div id="content" class="content">
+          <article class="post">
+    
+    <header class="post-header">
+      <h1 class="post-title">Gravatar注册教程</h1>
+
+      <div class="post-meta">
+        <span class="post-time"> 2009-02-17 , Tue </span>
+        <div class="post-category">
+            <a href="/categories/%E6%8A%98%E8%85%BE%E4%BA%8C%E4%B8%89%E4%BA%8B/"> 折腾二三事 </a>
+            </div>
+        
+      </div>
+    </header>
+
+    <div class="post-toc" id="post-toc">
+  <h2 class="post-toc-title">文章目录</h2>
+  <div class="post-toc-content always-active">
+    <nav id="TableOfContents"></nav>
+  </div>
+</div>
+  <div class="post-outdated">
+    <div class="warn">
+      <p>【注意】最后更新于 <span class="timeago" datetime="2009-02-17T14:13:51" title="February 17, 2009">February 17, 2009</span>，文中内容可能已过时，请谨慎使用。</p>
+    </div>
+  </div>
+    <div class="post-content">
+      <p><a href="http://en.gravatar.com/" target="_blank">Gravatar</a> (Globally Recognized Avatar的缩写)，意思就是全球认证头像（全球通用头像）。它是由WordPress系列产品的母公司Automattic运营的一个面向广大博客网站提供通用头像服务的网站。在该网站注册账户并上传头像以后，在全球任意一个支持Gravatar的网站（如基于WordPress的大部分博客），在评论时只要输入您的电子邮箱，在评论旁即可显示您的个性头像。你注册一个帐号后，可以添加多个邮件地址和对应头像。</p>
+<p>===============================================================================</p>
+<p>自WordPress升级到 2.5版本以后，WordPress内置显示Gravatar的头像的功能。这里就简单说一下主题添加此功能的方法：</p>
+<p>1.Gravatar参数：</p>
+<blockquote>
+<?php [echo][1] get_avatar( $comment, 32 ); ?> 
+</blockquote>
+<p>2.找到主题目录下的comments.php文件，打开后找到相关代码插入就可以了。</p>
+<p>注意：该函数的调用须放在<?php foreach ($comments as $comment) : ?>语句后，否则会出错。</p>
+<p>具体方法，可以参看这篇文章－－<a href="http://www.thinkagain.cn/archives/904.html" target="_blank">WordPress Tips:如何使用WP2.5内置的Gravatar</a>。</p>
+<p>===============================================================================</p>
+<p>Gravatar注册很简单，不懂英文也不用觉得麻烦的。几步就可以实现注册。</p>
+<p>1.登陆<a href="http://en.gravatar.com/" target="_blank">Gravatar</a>,点<a href="http://en.gravatar.com/signup" target="_blank">Sign up now!</a>,进行注册。</p>
+<p>2.然后会进入一个页面，需要你输入Email地址，输入后，会向你的邮箱里发一封确认信。</p>
+<p>3.打开收到的Gravatar的确认信，有一个确认链接，打开确认链接。</p>
+<p>4.打开后，输入用户名和密码，注意，名字不能大写，而且不能跟别人注册的名字重复，否则无法注册成功的。</p>
+<p>5.注册完毕。</p>
+<p>===============================================================================</p>
+<p>Gravatar的使用：</p>
+<p>1.登陆<a href="http://en.gravatar.com/" target="_blank">Gravatar</a>，点<a href="http://en.gravatar.com/site/login/" target="_blank">Log in</a>,登陆。</p>
+<p>2.上传头像，上面有个My Account按钮，选择Add an Image，然后会出现3个选项</p>
+<p>    a,从本地电脑中选择图片</p>
+<p>    b,从互联网上选择图片</p>
+<p>    c,使用摄像头截取图片</p>
+<p>    d,使用之前上传过的图片(这个第一次使用应该没有。)</p>
+<p>一般选择第一种。你可以先用PS简单编辑一下你想使用的图片(一般做成120X120的够了，谁会把头像尺寸设这么大？)，然后再上传。</p>
+<p>注意：如果从电脑中选择图片，图片格式只能为jpeg,gif或者png。</p>
+<p>3.图片上传后，点“在线截取”(如果之前已经PS做好，请直接全部截取)，右面有实际效果图。</p>
+<p><img style="display: block; float: none; margin-left: auto; margin-right: auto" src="http://farm4.static.flickr.com/3526/3287076377_a9ea210e56.jpg" /></p>
+<p>8.头像上传后，图片要分级的，选择你上传的图片的级数，一般的，选G级，也就是大众都可以看的。</p>
+<p>9.头像设置，直接在你的头像列表里选择就可以了。</p>
+<p><img style="display: block; float: none; margin-left: auto; margin-right: auto" src="http://farm4.static.flickr.com/3604/3287905832_16d6b328e4.jpg" /></p>
+<p> </p>
+<p>10.<font size="6">完.</font></p>
+<p>===============================================================================</p>
+<p>一些关于Gravatar的常见问题：</p>
+<ol>
+<li><strong>1.问：注册Gravatar之后，只要是WordPress博客就能看到自己的头像了么？</strong><br>
+答：不一定，这取决于博客主题是否支持了Gravatar的API，幸运的是，目前大多数WordPress博客所使用的主题是支持Gravatar的。</li>
+<li><strong>2.问：只能在WordPress博客使用Gravatar么？</strong><br>
+答：不是。这主要取决于网站管理者：只要网站能获取你的EMail信息，同时又在展现层使用Gravatar的API，就可以使用。国外一些小的Web2.0公司的产品都是支持Gravatar的。</li>
+<li><strong>3.问：用EMail去匹配，又是通过展现层（HTML代码），那会不会泄露我的EMail呢？</strong><br>
+答：不会，因为Gravatar使用的是MD5加密之后的EMail字符串，您完全不必担心您的EMail地址泄露。</li>
+<li><strong>4.问：为什么我注册之后看不到图像？</strong><br>
+答：因为Gravatar有一个比较长的缓冲周期；注册完之后，并不会立即显示相应图像</li>
+<li><strong>5.问：我如果现在注册，之前留言中的头像会显示么？</strong><br>
+答：会，只要你使用了同样的EMail地址。</li>
+<li>**6.问：如果想注册多个头像，怎么办？<br>
+** 答：可以用Gmail的一个“加号”小技巧来注册。其他邮箱暂时无法满足这种需求。</li>
+<li><strong>7.问：如果有人冒充我的邮箱呢？</strong><br>
+答：没办法，如果被人冒充，就会显示这个邮箱匹配的头像，这的确是一个问题。因此，保护好自己的邮箱是非常重要的，如果你使用Gmail的话，你可使用yourmailname+XXXATgmail.com来作为你的注册邮箱。一般人是无法猜测到你这个“+XXX”的私有后缀的，而这个邮箱又能在Gmail所正常使用。</li>
+</ol>
+    </div>
+
+    <div class="post-copyright">
+  <p class="copyright-item">
+    <span class="item-title">文章作者</span>
+    <span class="item-content">elion</span>
+  </p>
+  <p class="copyright-item">
+    <span class="item-title">上次更新</span>
+    <span class="item-content">
+        2009-02-17 , Tue
+        
+    </span>
+  </p>
+  
+  
+</div>
+<footer class="post-footer">
+      <div class="post-tags">
+          <a href="/tags/gravatar/">Gravatar</a>
+          <a href="/tags/wordpress/">Wordpress</a>
+          <a href="/tags/hosted-on-i815.cn/">hosted-on-i815.cn</a>
+          </div>
+      <nav class="post-nav">
+        <a class="prev" href="/2009/02/19/51lw/">
+            <i class="iconfont icon-left"></i>
+            <span class="prev-text nav-default">细细观察自己</span>
+            <span class="prev-text nav-mobile">上一篇</span>
+          </a>
+        <a class="next" href="/2009/02/16/nokia-e75-1/">
+            <span class="next-text nav-default">Nokia E75 抢先看(Pic5)</span>
+            <span class="next-text nav-mobile">下一篇</span>
+            <i class="iconfont icon-right"></i>
+          </a>
+      </nav>
+    </footer>
+  </article>
+        </div>
+        
+
+  
+  <div id="vcomments"></div>
+  <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+  <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+  <script type="text/javascript">
+    new Valine({
+        el: '#vcomments' ,
+        appId: 'EEkIofc17Cj7gGX6T8wh5UOG-9Nh9j0Va',
+        appKey: 'HTj1ed9W7e5zprSemQgAFEEv',
+        notify:  null ,
+        verify:  null ,
+        avatar:'',
+        placeholder: '在这写点什么...',
+        visitor:  false 
+    });
+  </script>
+
+  
+
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="social-links">
+      <a href="mailto:p070ihut@anonaddy.me" class="iconfont icon-email" title="email"></a>
+      <a href="http://weibo.com/hjxme" class="iconfont icon-weibo" title="weibo"></a>
+      <a href="https://www.douban.com/people/elion/" class="iconfont icon-douban" title="douban"></a>
+      <a href="https://space.bilibili.com/108716406" class="iconfont icon-bilibili" title="bilibili"></a>
+  <a href="https://icoconuts.github.io/index.xml" type="application/rss+xml" class="iconfont icon-rss" title="rss"></a>
+</div>
+
+<div class="copyright">
+  <span class="power-by">
+    由 <a class="hexo-link" href="https://gohugo.io">Hugo</a> 强力驱动
+  </span>
+  <span class="division">|</span>
+  <span class="theme-info">
+    主题 - 
+    <a class="theme-link" href="https://github.com/olOwOlo/hugo-theme-even">Even</a>
+  </span>
+
+  
+
+  <span class="copyright-year">
+    &copy; 
+    2007 - 
+    2021<span class="heart"><i class="iconfont icon-heart"></i></span><span>elion</span>
+  </span>
+</div>
+
+    </footer>
+
+    <div class="back-to-top" id="back-to-top">
+      <i class="iconfont icon-up"></i>
+    </div>
+  </div>
+  
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/slideout@1.0.1/dist/slideout.min.js" integrity="sha256-t+zJ/g8/KXIJMjSVQdnibt4dlaDxc9zXr/9oNPeWqdg=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.js" integrity="sha256-XVLffZaxoWfGUEbdzuLi7pwaUJv1cecsQJQqGLe7axY=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/timeago.js@3.0.2/dist/timeago.min.js" integrity="sha256-jwCP0NAdCBloaIWTWHmW4i3snUNMHUNO+jr9rYd2iOI=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/timeago.js@3.0.2/dist/timeago.locales.min.js" integrity="sha256-ZwofwC1Lf/faQCzN7nZtfijVV6hSwxjQMwXL4gn9qU8=" crossorigin="anonymous"></script>
+  <script><!-- NOTE: timeago.js uses the language code format like "zh_CN" (underscore and case sensitive) -->
+    var languageCode = "zh-cn".replace(/-/g, '_').replace(/_(.*)/, function ($0, $1) {return $0.replace($1, $1.toUpperCase());});
+    timeago().render(document.querySelectorAll('.timeago'), languageCode);
+    timeago.cancel();  
+  </script>
+
+
+
+<script type="text/javascript" src="/js/main.min.c99b103c33d1539acf3025e1913697534542c4a5aa5af0ccc20475ed2863603b.js"></script>
+
+
+
+
+
+
+
+
+</body>
+</html>

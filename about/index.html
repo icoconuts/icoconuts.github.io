@@ -83,6 +83,8 @@
         <li class="mobile-menu-item">ARCHIVES</li>
       </a><a href="/tags/">
         <li class="mobile-menu-item">TAGS </li>
+      </a><a href="/categories/">
+        <li class="mobile-menu-item">CATEGORIES</li>
       </a><a href="/about/">
         <li class="mobile-menu-item">ABOUT</li>
       </a>
@@ -111,6 +113,8 @@
         <a class="menu-item-link" href="/post/">ARCHIVES</a>
       </li><li class="menu-item">
         <a class="menu-item-link" href="/tags/">TAGS </a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/categories/">CATEGORIES</a>
       </li><li class="menu-item">
         <a class="menu-item-link" href="/about/">ABOUT</a>
       </li>
@@ -214,7 +218,7 @@
 
   <span class="copyright-year">
     &copy; 
-    2016 - 
+    2007 - 
     2021<span class="heart"><i class="iconfont icon-heart"></i></span><span>elion</span>
   </span>
 </div>
@@ -229,6 +233,13 @@
   <script src="https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/slideout@1.0.1/dist/slideout.min.js" integrity="sha256-t+zJ/g8/KXIJMjSVQdnibt4dlaDxc9zXr/9oNPeWqdg=" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.js" integrity="sha256-XVLffZaxoWfGUEbdzuLi7pwaUJv1cecsQJQqGLe7axY=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/timeago.js@3.0.2/dist/timeago.min.js" integrity="sha256-jwCP0NAdCBloaIWTWHmW4i3snUNMHUNO+jr9rYd2iOI=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/timeago.js@3.0.2/dist/timeago.locales.min.js" integrity="sha256-ZwofwC1Lf/faQCzN7nZtfijVV6hSwxjQMwXL4gn9qU8=" crossorigin="anonymous"></script>
+  <script><!-- NOTE: timeago.js uses the language code format like "zh_CN" (underscore and case sensitive) -->
+    var languageCode = "zh-cn".replace(/-/g, '_').replace(/_(.*)/, function ($0, $1) {return $0.replace($1, $1.toUpperCase());});
+    timeago().render(document.querySelectorAll('.timeago'), languageCode);
+    timeago.cancel();  
+  </script>
 
 
 

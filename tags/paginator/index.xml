@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paginator on elion&#39;s blog</title>
+    <link>https://icoconuts.github.io/tags/paginator/</link>
+    <description>Recent content in Paginator on elion&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 16 Jun 2009 13:35:32 +0000</lastBuildDate><atom:link href="https://icoconuts.github.io/tags/paginator/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WP分页插件:Paginator让分页导航更直观</title>
+      <link>https://icoconuts.github.io/2009/06/16/wp-paginator/</link>
+      <pubDate>Tue, 16 Jun 2009 13:35:32 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/06/16/wp-paginator/</guid>
+      <description>博客日志越写越多，产生的页面也慢慢多起来了。之前一直用的页面导航是:Pagenavi。 它虽然比上一页</description>
+    </item>
+    
+  </channel>
+</rss>

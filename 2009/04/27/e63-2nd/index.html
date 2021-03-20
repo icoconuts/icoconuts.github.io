@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>E63之新手上路二（签名和破解） - elion&#39;s blog</title>
+  <meta name="renderer" content="webkit" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+<meta name="theme-color" content="#f8f5ec" />
+<meta name="msapplication-navbutton-color" content="#f8f5ec">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="#f8f5ec">
+
+
+<meta name="author" content="elion" /><meta name="description" content="上回说到购机及格机后,可以开始好好的玩机了。
+智能机之所以有这个名称，我个人认为就是有非常强大的软件扩展性，比起非智能机，只能安装Java类的程序，它的优越性就非常明显了。
+我个人对软件安装及主题制作非常感兴趣。
+所以，嘿嘿~~
+不过，之前已经说过，由于没有接触过智能机系统，可以说是一无所知。一时还无从下手。
+幸好莫哥推荐了好多优秀的智能手机论坛。
+1.手机之家论坛
+2.塞班智能手机论坛
+3.OPDA智能手机网论坛
+4.中关村在线诺基亚手机论坛
+…
+好了，说正题，诺基亚的智能机系统就是：塞班（symbian）系统。
+E63手机的系统版本为：Symbian OS 9.2, Series 60 v3.1以下简称(S60v3版)。
+而说到塞班系统，不得不提“签名”。
+以下是手机之家论坛上的关于签名扫盲贴的内容，我只列了大点，有兴趣的可以了解一下。
+ 1、什么是证书？
+2、证书的作用是什么？
+3、如何获得证书？
+4、证书有有效期吗？
+5、什么是签名？如何签名？
+6、哪些软件需要签名？
+ 简言之，几乎安装每个软件，都需要签名。所以是个比较麻烦的事。
+我个人到现在还没弄懂，也不想去弄懂。
+因为破解之后，就不需要签名了~.~
+" />
+
+
+
+
+
+
+<meta name="generator" content="Hugo 0.81.0 with theme even" />
+
+
+<link rel="canonical" href="https://icoconuts.github.io/2009/04/27/e63-2nd/" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+
+
+
+<link href="/sass/main.min.af7fd1da18d66c2b017df5b4cae508ef44cfcac3fb4c7c7a327fe4f4f9e28b08.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.css" integrity="sha256-7TyXnr2YU040zfSP+rEcz29ggW4j56/ujTPwjMzyqFY=" crossorigin="anonymous">
+
+
+<meta property="og:title" content="E63之新手上路二（签名和破解）" />
+<meta property="og:description" content="上回说到购机及格机后,可以开始好好的玩机了。
+智能机之所以有这个名称，我个人认为就是有非常强大的软件扩展性，比起非智能机，只能安装Java类的程序，它的优越性就非常明显了。
+我个人对软件安装及主题制作非常感兴趣。
+所以，嘿嘿~~
+不过，之前已经说过，由于没有接触过智能机系统，可以说是一无所知。一时还无从下手。
+幸好莫哥推荐了好多优秀的智能手机论坛。
+1.手机之家论坛
+2.塞班智能手机论坛
+3.OPDA智能手机网论坛
+4.中关村在线诺基亚手机论坛
+…
+好了，说正题，诺基亚的智能机系统就是：塞班（symbian）系统。
+E63手机的系统版本为：Symbian OS 9.2, Series 60 v3.1以下简称(S60v3版)。
+而说到塞班系统，不得不提“签名”。
+以下是手机之家论坛上的关于签名扫盲贴的内容，我只列了大点，有兴趣的可以了解一下。
+
+1、什么是证书？
+2、证书的作用是什么？
+3、如何获得证书？
+4、证书有有效期吗？
+5、什么是签名？如何签名？
+6、哪些软件需要签名？
+
+简言之，几乎安装每个软件，都需要签名。所以是个比较麻烦的事。
+我个人到现在还没弄懂，也不想去弄懂。
+因为破解之后，就不需要签名了~.~" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://icoconuts.github.io/2009/04/27/e63-2nd/" /><meta property="article:section" content="post" />
+<meta property="article:published_time" content="2009-04-27T10:03:47&#43;00:00" />
+<meta property="article:modified_time" content="2009-04-27T10:03:47&#43;00:00" />
+
+<meta itemprop="name" content="E63之新手上路二（签名和破解）">
+<meta itemprop="description" content="上回说到购机及格机后,可以开始好好的玩机了。
+智能机之所以有这个名称，我个人认为就是有非常强大的软件扩展性，比起非智能机，只能安装Java类的程序，它的优越性就非常明显了。
+我个人对软件安装及主题制作非常感兴趣。
+所以，嘿嘿~~
+不过，之前已经说过，由于没有接触过智能机系统，可以说是一无所知。一时还无从下手。
+幸好莫哥推荐了好多优秀的智能手机论坛。
+1.手机之家论坛
+2.塞班智能手机论坛
+3.OPDA智能手机网论坛
+4.中关村在线诺基亚手机论坛
+…
+好了，说正题，诺基亚的智能机系统就是：塞班（symbian）系统。
+E63手机的系统版本为：Symbian OS 9.2, Series 60 v3.1以下简称(S60v3版)。
+而说到塞班系统，不得不提“签名”。
+以下是手机之家论坛上的关于签名扫盲贴的内容，我只列了大点，有兴趣的可以了解一下。
+
+1、什么是证书？
+2、证书的作用是什么？
+3、如何获得证书？
+4、证书有有效期吗？
+5、什么是签名？如何签名？
+6、哪些软件需要签名？
+
+简言之，几乎安装每个软件，都需要签名。所以是个比较麻烦的事。
+我个人到现在还没弄懂，也不想去弄懂。
+因为破解之后，就不需要签名了~.~"><meta itemprop="datePublished" content="2009-04-27T10:03:47&#43;00:00" />
+<meta itemprop="dateModified" content="2009-04-27T10:03:47&#43;00:00" />
+<meta itemprop="wordCount" content="1458">
+<meta itemprop="keywords" content="E63,hosted-on-i815.cn," /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="E63之新手上路二（签名和破解）"/>
+<meta name="twitter:description" content="上回说到购机及格机后,可以开始好好的玩机了。
+智能机之所以有这个名称，我个人认为就是有非常强大的软件扩展性，比起非智能机，只能安装Java类的程序，它的优越性就非常明显了。
+我个人对软件安装及主题制作非常感兴趣。
+所以，嘿嘿~~
+不过，之前已经说过，由于没有接触过智能机系统，可以说是一无所知。一时还无从下手。
+幸好莫哥推荐了好多优秀的智能手机论坛。
+1.手机之家论坛
+2.塞班智能手机论坛
+3.OPDA智能手机网论坛
+4.中关村在线诺基亚手机论坛
+…
+好了，说正题，诺基亚的智能机系统就是：塞班（symbian）系统。
+E63手机的系统版本为：Symbian OS 9.2, Series 60 v3.1以下简称(S60v3版)。
+而说到塞班系统，不得不提“签名”。
+以下是手机之家论坛上的关于签名扫盲贴的内容，我只列了大点，有兴趣的可以了解一下。
+
+1、什么是证书？
+2、证书的作用是什么？
+3、如何获得证书？
+4、证书有有效期吗？
+5、什么是签名？如何签名？
+6、哪些软件需要签名？
+
+简言之，几乎安装每个软件，都需要签名。所以是个比较麻烦的事。
+我个人到现在还没弄懂，也不想去弄懂。
+因为破解之后，就不需要签名了~.~"/>
+
+<!--[if lte IE 9]>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
+<![endif]-->
+
+<!--[if lt IE 9]>
+  <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
+<![endif]-->
+
+</head>
+<body>
+  <div id="mobile-navbar" class="mobile-navbar">
+  <div class="mobile-header-logo">
+    <a href="/" class="logo">elion&#39;s blog</a>
+  </div>
+  <div class="mobile-navbar-icon">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+</div>
+<nav id="mobile-menu" class="mobile-menu slideout-menu">
+  <ul class="mobile-menu-list">
+    <a href="/">
+        <li class="mobile-menu-item">HOME</li>
+      </a><a href="/post/">
+        <li class="mobile-menu-item">ARCHIVES</li>
+      </a><a href="/tags/">
+        <li class="mobile-menu-item">TAGS </li>
+      </a><a href="/categories/">
+        <li class="mobile-menu-item">CATEGORIES</li>
+      </a><a href="/about/">
+        <li class="mobile-menu-item">ABOUT</li>
+      </a>
+  </ul>
+
+  
+
+
+</nav>
+
+  <div class="container" id="mobile-panel">
+    <header id="header" class="header">
+        <div class="logo-wrapper">
+  <a href="/" class="logo">elion&#39;s blog</a>
+</div>
+
+
+
+
+
+<nav class="site-navbar">
+  <ul id="menu" class="menu">
+    <li class="menu-item">
+        <a class="menu-item-link" href="/">HOME</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/post/">ARCHIVES</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/tags/">TAGS </a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/categories/">CATEGORIES</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/about/">ABOUT</a>
+      </li>
+  </ul>
+</nav>
+
+    </header>
+
+    <main id="main" class="main">
+      <div class="content-wrapper">
+        <div id="content" class="content">
+          <article class="post">
+    
+    <header class="post-header">
+      <h1 class="post-title">E63之新手上路二（签名和破解）</h1>
+
+      <div class="post-meta">
+        <span class="post-time"> 2009-04-27 , Mon </span>
+        <div class="post-category">
+            <a href="/categories/%E6%8A%98%E8%85%BE%E4%BA%8C%E4%B8%89%E4%BA%8B/"> 折腾二三事 </a>
+            </div>
+        
+      </div>
+    </header>
+
+    <div class="post-toc" id="post-toc">
+  <h2 class="post-toc-title">文章目录</h2>
+  <div class="post-toc-content always-active">
+    <nav id="TableOfContents"></nav>
+  </div>
+</div>
+  <div class="post-outdated">
+    <div class="warn">
+      <p>【注意】最后更新于 <span class="timeago" datetime="2009-04-27T10:03:47" title="April 27, 2009">April 27, 2009</span>，文中内容可能已过时，请谨慎使用。</p>
+    </div>
+  </div>
+    <div class="post-content">
+      <p>上回说到<a href="http://127.0.0.1/2009/04/20/e63-1st/" target="_blank">购机及格机</a>后,可以开始好好的玩机了。</p>
+<p>智能机之所以有这个名称，我个人认为就是有非常强大的软件扩展性，比起非智能机，只能安装Java类的程序，它的优越性就非常明显了。</p>
+<p>我个人对软件安装及主题制作非常感兴趣。</p>
+<p>所以，嘿嘿~~</p>
+<p>不过，之前已经说过，由于没有接触过智能机系统，可以说是一无所知。一时还无从下手。</p>
+<p>幸好莫哥推荐了好多优秀的智能手机论坛。</p>
+<p>1.<a href="http://bbs.imobile.com.cn/index.php" target="_blank">手机之家论坛</a></p>
+<p>2.<a href="http://bbs.dospy.com/" target="_blank">塞班智能手机论坛</a></p>
+<p>3.<a href="http://www.opda.net.cn/index.php" target="_blank">OPDA智能手机网论坛</a></p>
+<p>4.<a href="http://nokia.zol.com.cn" target="_blank">中关村在线诺基亚手机论坛</a></p>
+<p>…</p>
+<p>好了，说正题，诺基亚的智能机系统就是：塞班（symbian）系统。</p>
+<p><span style="color: #ff0000;">E63手机的系统版本为：Symbian OS 9.2, Series 60 v3.1</span><span style="color: #ff0000;">以下简称(S60v3版)。</span></p>
+<p>而说到塞班系统，不得不提“签名”。</p>
+<p>以下是手机之家论坛上的<a href="http://bbs.imobile.com.cn/thread-tid-8145877.html" target="_blank">关于签名扫盲贴</a>的内容，我只列了大点，有兴趣的可以了解一下。</p>
+<blockquote>
+<p>1、什么是证书？<br>
+2、证书的作用是什么？<br>
+3、如何获得证书？</p>
+<p>4、证书有有效期吗？<br>
+5、什么是签名？如何签名？<br>
+6、哪些软件需要签名？</p>
+</blockquote>
+<p><span style="color: #0000ff;">简言之，几乎安装每个软件，都需要签名。所以是个比较麻烦的事。</span></p>
+<p>我个人到现在还没弄懂，也不想去弄懂。</p>
+<p>因为破解之后，就不需要签名了~.~</p>
+<p>由于之后用到的破解软件也是需要签名的，所以先介绍一下签名的获得方法。</p>
+<p><span style="color: #804040;">个人觉得手机之家的签名生成速度最快，自我申请后2个小时后生成了签名。</span></p>
+<p>1.进入<a href="http://isign.imobile.com.cn/" target="_blank">手机之家在线申请系统</a>，注册一个用户。然后，看图说话吧。</p>
+<ol start="2">
+<li></li>
+</ol>
+<p><img src="http://farm4.static.flickr.com/3348/3479145196_7fe929701d.jpg" alt=""></p>
+<p>三三肯定在的，放心，呵呵~~</p>
+<ol start="3">
+<li></li>
+</ol>
+<p><img src="http://farm4.static.flickr.com/3567/3479145424_b311605894.jpg" alt=""></p>
+<p>输入串号~~</p>
+<ol start="4">
+<li></li>
+</ol>
+<p><img src="http://farm4.static.flickr.com/3645/3479145940_af25a21aa6.jpg" alt=""></p>
+<p>等吧，估计1，2小时就生成了~~</p>
+<p>趁这时间，直接说说今天的主题吧，<span style="color: #ff0000;">E63的破解</span>。</p>
+<p>1.为什么要破解？</p>
+<p>我有了证书干嘛还要破解？既然是破解又要证书干嘛？<span style="color: #ff0000;">最重要的就是破解后每次就不用再对软件签名了再安装</span>，省事了，也可以安装高权限的软件，毕竟我们的证书99%都是17权限的，想要装更高权限的就必须破解。<br>
+2.为什么破解要证书？</p>
+<p>因为两破解程序要自签名，无需签名破解的日子暂时性一去不复返。</p>
+<p><span style="color: #0000ff;">简言之，破解之后，安装程序，主题，游戏，都不需要签名了，可以说是一劳永逸。</span></p>
+<p>再加上，E63自09年1月份的首次破解发布后，现在破解方法越来越方便，越来越傻瓜化了。</p>
+<p>无需任何技术。</p>
+<p>首先,在待机状态下，输入*#0000#,查看版本号:我的三三的版本是：100.21.110，RM-437.</p>
+<p>破解程序只有一个：HelloOX1.04。</p>
+<p><a href="http://www.uushare.com/user/elion/file/2780930">点击下载</a></p>
+<p>破解只需要2步。</p>
+<p>1.签名HelloOX1.04<br>
+2.安装运行HelloOX1.04，并选择安装在<span style="color: #ff0000;">存储卡</span>即可。</p>
+<p>动手吧：</p>
+<p>1.签名HelloOX1.04<br>
+回头看申请签名的第四步，如果还没有生成签名，那么等，等到签名生成，才能继续下一步。</p>
+<p>确定生成了？那么接着看…</p>
+<p><img src="http://farm4.static.flickr.com/3346/3478337275_179cba4580.jpg" alt=""></p>
+<p>将刚才下载的HelloOX1.04，上传上去，进行签名。</p>
+<p><img src="http://farm4.static.flickr.com/3407/3479145856_b22ab73b87.jpg" alt=""></p>
+<p>N秒之后，出现签名成功了。直接下载就可以了。</p>
+<p>2.通过数据线，将已签名的HelloOX104.sis传输至手机。</p>
+<p>在“文件管理”中，找到此安装文件，安装即可。</p>
+<p>3.在软件安装完成后，在“安装”目录下，就会生成HelloOX和ROMPatcher。</p>
+<p><span style="color: #ff0000;">注意：如果你的安装目录下没有生成ROMPatcher，请在E盘根目录新建一个文件夹E:\patches<br /> 将补丁open4all.rmp复制到E:\patches里，然后运行RomPatcher.sis，就可以手动安装了。</span></p>
+<p>这是我第一次破解失败的原因。</p>
+<p>4.运行HelloOX，一切都是自动运行，最后会显示破解成功。</p>
+<p>恭喜您，以后安装软件主题，再不会为签名而烦恼了。</p>
+<p>完成破解后，HelloOX可以卸载，而ROMPatcher建议保留。以后破解游戏有需要。</p>
+<p>下回讨论各种软件的安装。o(∩_∩)o…</p>
+    </div>
+
+    <div class="post-copyright">
+  <p class="copyright-item">
+    <span class="item-title">文章作者</span>
+    <span class="item-content">elion</span>
+  </p>
+  <p class="copyright-item">
+    <span class="item-title">上次更新</span>
+    <span class="item-content">
+        2009-04-27 , Mon
+        
+    </span>
+  </p>
+  
+  
+</div>
+<footer class="post-footer">
+      <div class="post-tags">
+          <a href="/tags/e63/">E63</a>
+          <a href="/tags/hosted-on-i815.cn/">hosted-on-i815.cn</a>
+          </div>
+      <nav class="post-nav">
+        <a class="prev" href="/2009/04/29/bone-driver/">
+            <i class="iconfont icon-left"></i>
+            <span class="prev-text nav-default">新奇可爱–台湾Bone系列U盘</span>
+            <span class="prev-text nav-mobile">上一篇</span>
+          </a>
+        <a class="next" href="/2009/04/26/onepiece-540/">
+            <span class="next-text nav-default">海贼王漫画_540集打包下载</span>
+            <span class="next-text nav-mobile">下一篇</span>
+            <i class="iconfont icon-right"></i>
+          </a>
+      </nav>
+    </footer>
+  </article>
+        </div>
+        
+
+  
+  <div id="vcomments"></div>
+  <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+  <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+  <script type="text/javascript">
+    new Valine({
+        el: '#vcomments' ,
+        appId: 'EEkIofc17Cj7gGX6T8wh5UOG-9Nh9j0Va',
+        appKey: 'HTj1ed9W7e5zprSemQgAFEEv',
+        notify:  null ,
+        verify:  null ,
+        avatar:'',
+        placeholder: '在这写点什么...',
+        visitor:  false 
+    });
+  </script>
+
+  
+
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="social-links">
+      <a href="mailto:p070ihut@anonaddy.me" class="iconfont icon-email" title="email"></a>
+      <a href="http://weibo.com/hjxme" class="iconfont icon-weibo" title="weibo"></a>
+      <a href="https://www.douban.com/people/elion/" class="iconfont icon-douban" title="douban"></a>
+      <a href="https://space.bilibili.com/108716406" class="iconfont icon-bilibili" title="bilibili"></a>
+  <a href="https://icoconuts.github.io/index.xml" type="application/rss+xml" class="iconfont icon-rss" title="rss"></a>
+</div>
+
+<div class="copyright">
+  <span class="power-by">
+    由 <a class="hexo-link" href="https://gohugo.io">Hugo</a> 强力驱动
+  </span>
+  <span class="division">|</span>
+  <span class="theme-info">
+    主题 - 
+    <a class="theme-link" href="https://github.com/olOwOlo/hugo-theme-even">Even</a>
+  </span>
+
+  
+
+  <span class="copyright-year">
+    &copy; 
+    2007 - 
+    2021<span class="heart"><i class="iconfont icon-heart"></i></span><span>elion</span>
+  </span>
+</div>
+
+    </footer>
+
+    <div class="back-to-top" id="back-to-top">
+      <i class="iconfont icon-up"></i>
+    </div>
+  </div>
+  
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/slideout@1.0.1/dist/slideout.min.js" integrity="sha256-t+zJ/g8/KXIJMjSVQdnibt4dlaDxc9zXr/9oNPeWqdg=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.js" integrity="sha256-XVLffZaxoWfGUEbdzuLi7pwaUJv1cecsQJQqGLe7axY=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/timeago.js@3.0.2/dist/timeago.min.js" integrity="sha256-jwCP0NAdCBloaIWTWHmW4i3snUNMHUNO+jr9rYd2iOI=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/timeago.js@3.0.2/dist/timeago.locales.min.js" integrity="sha256-ZwofwC1Lf/faQCzN7nZtfijVV6hSwxjQMwXL4gn9qU8=" crossorigin="anonymous"></script>
+  <script><!-- NOTE: timeago.js uses the language code format like "zh_CN" (underscore and case sensitive) -->
+    var languageCode = "zh-cn".replace(/-/g, '_').replace(/_(.*)/, function ($0, $1) {return $0.replace($1, $1.toUpperCase());});
+    timeago().render(document.querySelectorAll('.timeago'), languageCode);
+    timeago.cancel();  
+  </script>
+
+
+
+<script type="text/javascript" src="/js/main.min.c99b103c33d1539acf3025e1913697534542c4a5aa5af0ccc20475ed2863603b.js"></script>
+
+
+
+
+
+
+
+
+</body>
+</html>

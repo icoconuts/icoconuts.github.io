@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gravatar on elion&#39;s blog</title>
+    <link>https://icoconuts.github.io/tags/gravatar/</link>
+    <description>Recent content in Gravatar on elion&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 17 Feb 2009 14:13:51 +0000</lastBuildDate><atom:link href="https://icoconuts.github.io/tags/gravatar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gravatar注册教程</title>
+      <link>https://icoconuts.github.io/2009/02/17/gravatarsignup/</link>
+      <pubDate>Tue, 17 Feb 2009 14:13:51 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/02/17/gravatarsignup/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://en.gravatar.com/&#34; target=&#34;_blank&#34;&gt;Gravatar&lt;/a&gt; (Globally Recognized Avatar的缩写)，意思就是全球认证头像（全球通用头像）。它是由WordPress系列产品的母公司Automattic运营的一个面向广大博客网站提供通用头像服务的网站。在该网站注册账户并上传头像以后，在全球任意一个支持Gravatar的网站（如基于WordPress的大部分博客），在评论时只要输入您的电子邮箱，在评论旁即可显示您的个性头像。你注册一个帐号后，可以添加多个邮件地址和对应头像。&lt;/p&gt;
+&lt;p&gt;===============================================================================&lt;/p&gt;
+&lt;p&gt;自WordPress升级到 2.5版本以后，WordPress内置显示Gravatar的头像的功能。这里就简单说一下主题添加此功能的方法：&lt;/p&gt;
+&lt;p&gt;1.Gravatar参数：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;?php [echo][1] get_avatar( $comment, 32 ); ?&gt; 
+&lt;/blockquote&gt;
+&lt;p&gt;2.找到主题目录下的comments.php文件，打开后找到相关代码插入就可以了。&lt;/p&gt;
+&lt;p&gt;注意：该函数的调用须放在&lt;?php foreach ($comments as $comment) : ?&gt;语句后，否则会出错。&lt;/p&gt;
+&lt;p&gt;具体方法，可以参看这篇文章－－&lt;a href=&#34;http://www.thinkagain.cn/archives/904.html&#34; target=&#34;_blank&#34;&gt;WordPress Tips:如何使用WP2.5内置的Gravatar&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;===============================================================================&lt;/p&gt;
+&lt;p&gt;Gravatar注册很简单，不懂英文也不用觉得麻烦的。几步就可以实现注册。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Spirit发布-实现完美越狱 - elion&#39;s blog</title>
+  <meta name="renderer" content="webkit" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+<meta name="theme-color" content="#f8f5ec" />
+<meta name="msapplication-navbutton-color" content="#f8f5ec">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="#f8f5ec">
+
+
+<meta name="author" content="elion" /><meta name="description" content="这次果然是真的了。
+在前几天3G版iPad越狱成功后，今天早上，我6点多更新twitter的时候，就发现iH8sn0w在其twitter上重复警告大家：
+ This is another reminder that ALL iPhone 3GS/iPod Touch 3rd Gen/iPad users MUST grab their SHSH blobs for 3.1.3/3.2!
+ 具体操作方法，可以参看此日志：备份iPod Touch/iphone3.1.3SHSH。
+今天上午，有事在外面，但一直有预感会发布Spirit，于是不停的盯着威锋的itouch区。
+激动的时刻终于到来，10点不到，就看到坛友们在讨论破解的事了。之后就是源源不断的帖子涌现了。
+" />
+
+
+
+
+
+
+<meta name="generator" content="Hugo 0.81.0 with theme even" />
+
+
+<link rel="canonical" href="https://icoconuts.github.io/2010/05/03/i-jailbreak/" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+
+
+
+<link href="/sass/main.min.af7fd1da18d66c2b017df5b4cae508ef44cfcac3fb4c7c7a327fe4f4f9e28b08.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.css" integrity="sha256-7TyXnr2YU040zfSP+rEcz29ggW4j56/ujTPwjMzyqFY=" crossorigin="anonymous">
+
+
+<meta property="og:title" content="Spirit发布-实现完美越狱" />
+<meta property="og:description" content="
+这次果然是真的了。
+在前几天3G版iPad越狱成功后，今天早上，我6点多更新twitter的时候，就发现iH8sn0w在其twitter上重复警告大家：
+
+This is another reminder that ALL iPhone 3GS/iPod Touch 3rd Gen/iPad users MUST grab their SHSH blobs for 3.1.3/3.2!
+
+具体操作方法，可以参看此日志：备份iPod Touch/iphone3.1.3SHSH。
+今天上午，有事在外面，但一直有预感会发布Spirit，于是不停的盯着威锋的itouch区。
+激动的时刻终于到来，10点不到，就看到坛友们在讨论破解的事了。之后就是源源不断的帖子涌现了。" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://icoconuts.github.io/2010/05/03/i-jailbreak/" /><meta property="article:section" content="post" />
+<meta property="article:published_time" content="2010-05-03T15:23:45&#43;00:00" />
+<meta property="article:modified_time" content="2010-05-03T15:23:45&#43;00:00" />
+
+<meta itemprop="name" content="Spirit发布-实现完美越狱">
+<meta itemprop="description" content="
+这次果然是真的了。
+在前几天3G版iPad越狱成功后，今天早上，我6点多更新twitter的时候，就发现iH8sn0w在其twitter上重复警告大家：
+
+This is another reminder that ALL iPhone 3GS/iPod Touch 3rd Gen/iPad users MUST grab their SHSH blobs for 3.1.3/3.2!
+
+具体操作方法，可以参看此日志：备份iPod Touch/iphone3.1.3SHSH。
+今天上午，有事在外面，但一直有预感会发布Spirit，于是不停的盯着威锋的itouch区。
+激动的时刻终于到来，10点不到，就看到坛友们在讨论破解的事了。之后就是源源不断的帖子涌现了。"><meta itemprop="datePublished" content="2010-05-03T15:23:45&#43;00:00" />
+<meta itemprop="dateModified" content="2010-05-03T15:23:45&#43;00:00" />
+<meta itemprop="wordCount" content="911">
+<meta itemprop="keywords" content="iPod,经验总结,越狱,hosted-on-hjx.me," /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Spirit发布-实现完美越狱"/>
+<meta name="twitter:description" content="
+这次果然是真的了。
+在前几天3G版iPad越狱成功后，今天早上，我6点多更新twitter的时候，就发现iH8sn0w在其twitter上重复警告大家：
+
+This is another reminder that ALL iPhone 3GS/iPod Touch 3rd Gen/iPad users MUST grab their SHSH blobs for 3.1.3/3.2!
+
+具体操作方法，可以参看此日志：备份iPod Touch/iphone3.1.3SHSH。
+今天上午，有事在外面，但一直有预感会发布Spirit，于是不停的盯着威锋的itouch区。
+激动的时刻终于到来，10点不到，就看到坛友们在讨论破解的事了。之后就是源源不断的帖子涌现了。"/>
+
+<!--[if lte IE 9]>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
+<![endif]-->
+
+<!--[if lt IE 9]>
+  <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
+<![endif]-->
+
+</head>
+<body>
+  <div id="mobile-navbar" class="mobile-navbar">
+  <div class="mobile-header-logo">
+    <a href="/" class="logo">elion&#39;s blog</a>
+  </div>
+  <div class="mobile-navbar-icon">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+</div>
+<nav id="mobile-menu" class="mobile-menu slideout-menu">
+  <ul class="mobile-menu-list">
+    <a href="/">
+        <li class="mobile-menu-item">HOME</li>
+      </a><a href="/post/">
+        <li class="mobile-menu-item">ARCHIVES</li>
+      </a><a href="/tags/">
+        <li class="mobile-menu-item">TAGS </li>
+      </a><a href="/categories/">
+        <li class="mobile-menu-item">CATEGORIES</li>
+      </a><a href="/about/">
+        <li class="mobile-menu-item">ABOUT</li>
+      </a>
+  </ul>
+
+  
+
+
+</nav>
+
+  <div class="container" id="mobile-panel">
+    <header id="header" class="header">
+        <div class="logo-wrapper">
+  <a href="/" class="logo">elion&#39;s blog</a>
+</div>
+
+
+
+
+
+<nav class="site-navbar">
+  <ul id="menu" class="menu">
+    <li class="menu-item">
+        <a class="menu-item-link" href="/">HOME</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/post/">ARCHIVES</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/tags/">TAGS </a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/categories/">CATEGORIES</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/about/">ABOUT</a>
+      </li>
+  </ul>
+</nav>
+
+    </header>
+
+    <main id="main" class="main">
+      <div class="content-wrapper">
+        <div id="content" class="content">
+          <article class="post">
+    
+    <header class="post-header">
+      <h1 class="post-title">Spirit发布-实现完美越狱</h1>
+
+      <div class="post-meta">
+        <span class="post-time"> 2010-05-03 , Mon </span>
+        <div class="post-category">
+            <a href="/categories/%E6%8A%98%E8%85%BE%E4%BA%8C%E4%B8%89%E4%BA%8B/"> 折腾二三事 </a>
+            </div>
+        
+      </div>
+    </header>
+
+    <div class="post-toc" id="post-toc">
+  <h2 class="post-toc-title">文章目录</h2>
+  <div class="post-toc-content always-active">
+    <nav id="TableOfContents"></nav>
+  </div>
+</div>
+  <div class="post-outdated">
+    <div class="warn">
+      <p>【注意】最后更新于 <span class="timeago" datetime="2010-05-03T15:23:45" title="May 3, 2010">May 3, 2010</span>，文中内容可能已过时，请谨慎使用。</p>
+    </div>
+  </div>
+    <div class="post-content">
+      <p><img loading="lazy" class="aligncenter" title="spirit" src="http://i44.tinypic.com/2jcu6j7.jpg" alt="spirit" width="594" height="150" /></p>
+<p>这次果然是真的了。</p>
+<p>在前几天3G版iPad越狱成功后，今天早上，我6点多更新twitter的时候，就发现iH8sn0w在其twitter上重复警告大家：</p>
+<blockquote>
+<p>This is another reminder that ALL iPhone 3GS/iPod Touch 3rd Gen/iPad users MUST grab their SHSH blobs for 3.1.3/3.2!</p>
+</blockquote>
+<p>具体操作方法，可以参看此日志：<a href="http://127.0.0.1/2010/05/01/backupshsh/" target="_blank">备份iPod Touch/iphone3.1.3SHSH</a>。</p>
+<p>今天上午，有事在外面，但一直有预感会发布Spirit，于是不停的盯着威锋的itouch区。</p>
+<p>激动的时刻终于到来，10点不到，就看到坛友们在讨论破解的事了。之后就是源源不断的帖子涌现了。</p>
+<p>实在是正好有事在外面，真恨不得马上回家，下载Spirit，完成越狱啊。</p>
+<p>下午回到家，做了些准备就开始越狱了。</p>
+<p class="biaot">
+  一、准备工作：
+</p>
+<p>1.下载<a href="http://www.uushare.com/user/elion/file/2964254" target="_blank">Spirit</a>。</p>
+<p>a.将解压后的Spirit.exe存放于<strong>纯英文路径</strong>的目录下。（类似D:\ipt\JB\spirit.exe)</p>
+<p>b.同步下应用软件，备份下有用的信息。（比如：anote的日记，ixpenseit的帐务信息还有照片等等。）</p>
+<p>虽然实践证明，这些是多余的，但还是小心为秒。</p>
+<p>c.越狱软件可能被某些杀毒软件视为病毒，暂时先关闭杀毒软件及防火墙。</p>
+<p>2.iTunes的话，在没放出Spirit前，就听大神们说要用9.0.3版本的。于是，我就犯了个大错误。在卸载原版本的时候，把IPA文件统统删掉了。导致后面有点小杯具，但就是浪费点时间而已。</p>
+<p>实践证明，任何版本的iTunes 9 (包括9.1.1)环境下，都可以正常完成越狱。</p>
+<p>3.另外的前提：</p>
+<p>a.如果你目前使用的是不完美越狱，需要恢复使用Spirit。如果你对iPhone 3G/3GS使用了解锁，不要升级。（但如果你备份有3.1.2的SHSH blob，你可以恢复到3.1.2。）</p>
+<p>b.设备需激活：屏幕停留在Connect to iTunes或Emergency Call界面的设备，不能越狱。</p>
+<p class="biaot">
+  二、越狱步骤：
+</p>
+<p>这里只说说我自己的越狱过程。</p>
+<p>Win XP用户连接好iPhone/iPod touch/iPad(别太紧张，也别多问，就很普通的用数据线插上电脑就行了)，直接运行Spirit.exe。即可进行越狱，傻瓜的不能再傻瓜了。</p>
+<p><img style="display: block; float: none; margin-left: auto; margin-right: auto;" src="http://img1.gtimg.com/digi/pics/hv1/152/229/509/33156272.jpg" alt="" /></p>
+<p>顺便弄了张图</p>
+<p>完成越狱后，重启后看到Cydia，那就说明成功了。</p>
+<p><img style="display: block; float: none; margin-left: auto; margin-right: auto;" src="http://resource.weiphone.com/resource/h003/h00/img201005031147390.jpg" alt="" /></p>
+<p>之后，需要做的事太多了，有空再说吧。</p>
+    </div>
+
+    <div class="post-copyright">
+  <p class="copyright-item">
+    <span class="item-title">文章作者</span>
+    <span class="item-content">elion</span>
+  </p>
+  <p class="copyright-item">
+    <span class="item-title">上次更新</span>
+    <span class="item-content">
+        2010-05-03 , Mon
+        
+    </span>
+  </p>
+  
+  
+</div>
+<footer class="post-footer">
+      <div class="post-tags">
+          <a href="/tags/ipod/">iPod</a>
+          <a href="/tags/%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93/">经验总结</a>
+          <a href="/tags/%E8%B6%8A%E7%8B%B1/">越狱</a>
+          <a href="/tags/hosted-on-hjx.me/">hosted-on-hjx.me</a>
+          </div>
+      <nav class="post-nav">
+        <a class="prev" href="/2010/05/03/lt/">
+            <i class="iconfont icon-left"></i>
+            <span class="prev-text nav-default">骆驼</span>
+            <span class="prev-text nav-mobile">上一篇</span>
+          </a>
+        <a class="next" href="/2010/05/02/xgrs/">
+            <span class="next-text nav-default">习惯人生</span>
+            <span class="next-text nav-mobile">下一篇</span>
+            <i class="iconfont icon-right"></i>
+          </a>
+      </nav>
+    </footer>
+  </article>
+        </div>
+        
+
+  
+  <div id="vcomments"></div>
+  <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+  <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+  <script type="text/javascript">
+    new Valine({
+        el: '#vcomments' ,
+        appId: 'EEkIofc17Cj7gGX6T8wh5UOG-9Nh9j0Va',
+        appKey: 'HTj1ed9W7e5zprSemQgAFEEv',
+        notify:  null ,
+        verify:  null ,
+        avatar:'',
+        placeholder: '在这写点什么...',
+        visitor:  false 
+    });
+  </script>
+
+  
+
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="social-links">
+      <a href="mailto:p070ihut@anonaddy.me" class="iconfont icon-email" title="email"></a>
+      <a href="http://weibo.com/hjxme" class="iconfont icon-weibo" title="weibo"></a>
+      <a href="https://www.douban.com/people/elion/" class="iconfont icon-douban" title="douban"></a>
+      <a href="https://space.bilibili.com/108716406" class="iconfont icon-bilibili" title="bilibili"></a>
+  <a href="https://icoconuts.github.io/index.xml" type="application/rss+xml" class="iconfont icon-rss" title="rss"></a>
+</div>
+
+<div class="copyright">
+  <span class="power-by">
+    由 <a class="hexo-link" href="https://gohugo.io">Hugo</a> 强力驱动
+  </span>
+  <span class="division">|</span>
+  <span class="theme-info">
+    主题 - 
+    <a class="theme-link" href="https://github.com/olOwOlo/hugo-theme-even">Even</a>
+  </span>
+
+  
+
+  <span class="copyright-year">
+    &copy; 
+    2007 - 
+    2021<span class="heart"><i class="iconfont icon-heart"></i></span><span>elion</span>
+  </span>
+</div>
+
+    </footer>
+
+    <div class="back-to-top" id="back-to-top">
+      <i class="iconfont icon-up"></i>
+    </div>
+  </div>
+  
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/slideout@1.0.1/dist/slideout.min.js" integrity="sha256-t+zJ/g8/KXIJMjSVQdnibt4dlaDxc9zXr/9oNPeWqdg=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.js" integrity="sha256-XVLffZaxoWfGUEbdzuLi7pwaUJv1cecsQJQqGLe7axY=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/timeago.js@3.0.2/dist/timeago.min.js" integrity="sha256-jwCP0NAdCBloaIWTWHmW4i3snUNMHUNO+jr9rYd2iOI=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/timeago.js@3.0.2/dist/timeago.locales.min.js" integrity="sha256-ZwofwC1Lf/faQCzN7nZtfijVV6hSwxjQMwXL4gn9qU8=" crossorigin="anonymous"></script>
+  <script><!-- NOTE: timeago.js uses the language code format like "zh_CN" (underscore and case sensitive) -->
+    var languageCode = "zh-cn".replace(/-/g, '_').replace(/_(.*)/, function ($0, $1) {return $0.replace($1, $1.toUpperCase());});
+    timeago().render(document.querySelectorAll('.timeago'), languageCode);
+    timeago.cancel();  
+  </script>
+
+
+
+<script type="text/javascript" src="/js/main.min.c99b103c33d1539acf3025e1913697534542c4a5aa5af0ccc20475ed2863603b.js"></script>
+
+
+
+
+
+
+
+
+</body>
+</html>

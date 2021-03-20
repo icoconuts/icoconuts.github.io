@@ -1,54 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hexo on elion&#39;s blog</title>
+    <title>Hexo on elion&#39;s blog</title>
     <link>https://icoconuts.github.io/tags/hexo/</link>
-    <description>Recent content in hexo on elion&#39;s blog</description>
+    <description>Recent content in Hexo on elion&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Fri, 13 May 2016 17:29:15 +0800</lastBuildDate><atom:link href="https://icoconuts.github.io/tags/hexo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>为Hexo添加常用页面</title>
-      <link>https://icoconuts.github.io/post/hexo-pages/</link>
+      <link>https://icoconuts.github.io/2016/05/13/hexo-pages/</link>
       <pubDate>Fri, 13 May 2016 17:29:15 +0800</pubDate>
       
-      <guid>https://icoconuts.github.io/post/hexo-pages/</guid>
-      <description>发表于HEXO 在网站架设完成后，除了发布文章以外，还应该通过新增功能页面，来完善网站的功能。 现在许多</description>
+      <guid>https://icoconuts.github.io/2016/05/13/hexo-pages/</guid>
+      <description>elion发表于HEXO 在网站架设完成后，除了发布文章以外，还应该通过新增功能页面，来完善网站的功能</description>
     </item>
     
     <item>
       <title>将本地Hexo部署到Github</title>
-      <link>https://icoconuts.github.io/post/hexo-bs/</link>
+      <link>https://icoconuts.github.io/2016/05/11/hexo-bs/</link>
       <pubDate>Wed, 11 May 2016 22:29:15 +0800</pubDate>
       
-      <guid>https://icoconuts.github.io/post/hexo-bs/</guid>
-      <description>发表于HEXO 其实，看了很多教程，他们都喜欢把这个步骤放到很前面讲，可能比较迎合许多人的想法。 但我觉</description>
+      <guid>https://icoconuts.github.io/2016/05/11/hexo-bs/</guid>
+      <description>elion发表于HEXO 其实，看了很多教程，他们都喜欢把这个步骤放到很前面讲，可能比较迎合许多人的想</description>
     </item>
     
     <item>
       <title>将本地Hexo部署到Github</title>
-      <link>https://icoconuts.github.io/post/hexo-theme/</link>
+      <link>https://icoconuts.github.io/2016/05/11/hexo-pages/</link>
       <pubDate>Wed, 11 May 2016 16:29:15 +0800</pubDate>
       
-      <guid>https://icoconuts.github.io/post/hexo-theme/</guid>
-      <description>发表于HEXO 其实，看了很多教程，他们都喜欢把这个步骤放到很前面讲，可能比较迎合许多人的想法。 但我觉</description>
+      <guid>https://icoconuts.github.io/2016/05/11/hexo-pages/</guid>
+      <description>elion发表于HEXO 其实，看了很多教程，他们都喜欢把这个步骤放到很前面讲，可能比较迎合许多人的想</description>
     </item>
     
     <item>
       <title>Hexo生成文章</title>
-      <link>https://icoconuts.github.io/post/hexo-2/</link>
+      <link>https://icoconuts.github.io/2016/05/10/hexo2/</link>
       <pubDate>Tue, 10 May 2016 21:29:15 +0800</pubDate>
       
-      <guid>https://icoconuts.github.io/post/hexo-2/</guid>
-      <description>发表于HEXO 初阶 生成文章 找到E:\hexo,右键菜单下的Git Bush here.命令行输入：（依次输入）</description>
+      <guid>https://icoconuts.github.io/2016/05/10/hexo2/</guid>
+      <description>elion发表于HEXO 初阶 生成文章 找到E:\hexo,右键菜单下的Git Bush here.命令行输入：（</description>
     </item>
     
     <item>
       <title>初识Hexo与Hexo安装</title>
-      <link>https://icoconuts.github.io/post/hexo-1/</link>
+      <link>https://icoconuts.github.io/2016/05/10/hexo1/</link>
       <pubDate>Tue, 10 May 2016 18:29:15 +0800</pubDate>
       
-      <guid>https://icoconuts.github.io/post/hexo-1/</guid>
+      <guid>https://icoconuts.github.io/2016/05/10/hexo1/</guid>
       <description>发表于HEXO 认识Hexo Hexo，快速、简洁且高效的博客框架。官方网站戳这里，支持中文。 特点： 1.</description>
     </item>
     

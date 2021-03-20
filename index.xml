@@ -6,76 +6,103 @@
     <description>Recent content on elion&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 12 Mar 2021 13:59:15 +0800</lastBuildDate><atom:link href="https://icoconuts.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Mar 2021 22:29:15 +0800</lastBuildDate><atom:link href="https://icoconuts.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0318跑步打卡</title>
+      <link>https://icoconuts.github.io/2021/03/0318pao/</link>
+      <pubDate>Thu, 18 Mar 2021 22:29:15 +0800</pubDate>
+      
+      <guid>https://icoconuts.github.io/2021/03/0318pao/</guid>
+      <description>今晚不跑,明早又下雨,看准时间夜跑~~</description>
+    </item>
+    
     <item>
       <title>通过Github Actions实现Hugo自动部署</title>
-      <link>https://icoconuts.github.io/post/2021-03-12-2/</link>
-      <pubDate>Fri, 12 Mar 2021 13:59:15 +0800</pubDate>
+      <link>https://icoconuts.github.io/2021/03/github-actions/</link>
+      <pubDate>Thu, 18 Mar 2021 12:59:15 +0800</pubDate>
       
-      <guid>https://icoconuts.github.io/post/2021-03-12-2/</guid>
-      <description>参考了几个帖子： Github Actions自动生成Hugo站点并部署到Github Pages 终于实现了！</description>
+      <guid>https://icoconuts.github.io/2021/03/github-actions/</guid>
+      <description>参考了几个帖子： Github Actions自动生成Hugo站点并部署到Github Pages JiahongWu-使用G</description>
+    </item>
+    
+    <item>
+      <title>0316跑步打卡</title>
+      <link>https://icoconuts.github.io/2021/0316pao/</link>
+      <pubDate>Tue, 16 Mar 2021 22:29:15 +0800</pubDate>
+      
+      <guid>https://icoconuts.github.io/2021/0316pao/</guid>
+      <description>一直下雨,看准时间夜跑~~</description>
+    </item>
+    
+    <item>
+      <title>0314跑步打卡</title>
+      <link>https://icoconuts.github.io/2021/0314pao/</link>
+      <pubDate>Sun, 14 Mar 2021 09:29:15 +0800</pubDate>
+      
+      <guid>https://icoconuts.github.io/2021/0314pao/</guid>
+      <description>早上好！</description>
     </item>
     
     <item>
       <title>0312跑步打卡</title>
-      <link>https://icoconuts.github.io/post/2021-03-12-1/</link>
+      <link>https://icoconuts.github.io/2021/0312pao/</link>
       <pubDate>Fri, 12 Mar 2021 13:29:15 +0800</pubDate>
       
-      <guid>https://icoconuts.github.io/post/2021-03-12-1/</guid>
+      <guid>https://icoconuts.github.io/2021/0312pao/</guid>
       <description>晨跑不要停</description>
     </item>
     
     <item>
       <title>Hugo中如何优雅地插入B站视频</title>
-      <link>https://icoconuts.github.io/post/2021-03-11-1/</link>
+      <link>https://icoconuts.github.io/2021/03/11/bv/</link>
       <pubDate>Thu, 11 Mar 2021 11:29:15 +0800</pubDate>
       
-      <guid>https://icoconuts.github.io/post/2021-03-11-1/</guid>
+      <guid>https://icoconuts.github.io/2021/03/11/bv/</guid>
       <description>参考了几个帖子： Hexo中插入Bilibili视频 如何在Hugo/Hexo博客中插入响应式Bilib</description>
     </item>
     
     <item>
       <title>0310跑步打卡</title>
-      <link>https://icoconuts.github.io/post/2021-03-10-22/</link>
+      <link>https://icoconuts.github.io/2021/0310pao/</link>
       <pubDate>Wed, 10 Mar 2021 22:29:15 +0800</pubDate>
       
-      <guid>https://icoconuts.github.io/post/2021-03-10-22/</guid>
+      <guid>https://icoconuts.github.io/2021/0310pao/</guid>
       <description>明早有事，明天中午又下雨！ 选择夜跑~~</description>
     </item>
     
     <item>
       <title>星河坞</title>
-      <link>https://icoconuts.github.io/post/2021-03-10-2/</link>
+      <link>https://icoconuts.github.io/2021/0310xhw/</link>
       <pubDate>Wed, 10 Mar 2021 21:12:15 +0800</pubDate>
       
-      <guid>https://icoconuts.github.io/post/2021-03-10-2/</guid>
+      <guid>https://icoconuts.github.io/2021/0310xhw/</guid>
       <description>一个宝藏女孩 最近B站上发现一宝藏女孩，成都人 原来是城里人 然后带着奥特曼（宠物狗）去乡下种水果谋生 农民</description>
     </item>
     
     <item>
       <title>0309跑步打卡</title>
-      <link>https://icoconuts.github.io/post/2021-03-09-22/</link>
+      <link>https://icoconuts.github.io/2021/0309pao/</link>
       <pubDate>Tue, 09 Mar 2021 19:29:15 +0800</pubDate>
       
-      <guid>https://icoconuts.github.io/post/2021-03-09-22/</guid>
+      <guid>https://icoconuts.github.io/2021/0309pao/</guid>
       <description>下了几天雨，终于停了，继续有氧训练！</description>
     </item>
     
     <item>
       <title>Theme preview</title>
-      <link>https://icoconuts.github.io/post/even-preview/</link>
+      <link>https://icoconuts.github.io/2021/03/theme-preview/</link>
       <pubDate>Tue, 09 Mar 2021 12:00:00 +0800</pubDate>
       
-      <guid>https://icoconuts.github.io/post/even-preview/</guid>
+      <guid>https://icoconuts.github.io/2021/03/theme-preview/</guid>
       <description>Based on MarkdownPreview test.md. Markdown 1 2 3 4 5 6 7 8 # H1 ## H2 ### H3 #### H4 ##### H5 ###### H6 ### Duplicate Header ### Duplicate Header H1 H2 H3 H4 H5 H6 Duplicate Header Duplicate Header Paragraphs 1 2 3 4 This is a paragraph.</description>
     </item>
     
     <item>
       <title>Shortcodes</title>
-      <link>https://icoconuts.github.io/post/shortcodes/</link>
+      <link>https://icoconuts.github.io/2021/03/shortcodes/</link>
       <pubDate>Tue, 09 Mar 2021 07:01:23 +0800</pubDate>
       
-      <guid>https://icoconuts.github.io/post/shortcodes/</guid>
+      <guid>https://icoconuts.github.io/2021/03/shortcodes/</guid>
       <description>&lt;h1 id=&#34;admonition&#34;&gt;Admonition&lt;/h1&gt;
 &lt;div class=&#34;admonition note&#34;&gt;&lt;p class=&#34;admonition-title&#34;&gt;I&amp;#39;m title!&lt;/p&gt;
 &lt;p&gt;biu biu biu.&lt;/p&gt;
@@ -120,111 +147,3501 @@ Without title.
     </item>
     
     <item>
-      <title>开写</title>
-      <link>https://icoconuts.github.io/post/2021-03-04-3/</link>
-      <pubDate>Thu, 04 Mar 2021 21:29:15 +0800</pubDate>
-      
-      <guid>https://icoconuts.github.io/post/2021-03-04-3/</guid>
-      <description>I&amp;rsquo;m elion,I&amp;rsquo;m back! 一、前言 好几年前，折腾过hexo， 但一直没有静下心来写点什么。 就在前几天，又是一次偶然的机会，</description>
-    </item>
-    
-    <item>
       <title>0304跑步打卡</title>
-      <link>https://icoconuts.github.io/post/2021-03-04-2/</link>
+      <link>https://icoconuts.github.io/2021/0304pao/</link>
       <pubDate>Thu, 04 Mar 2021 13:29:15 +0800</pubDate>
       
-      <guid>https://icoconuts.github.io/post/2021-03-04-2/</guid>
+      <guid>https://icoconuts.github.io/2021/0304pao/</guid>
       <description></description>
     </item>
     
     <item>
       <title>好久没去善之味面店啦</title>
-      <link>https://icoconuts.github.io/post/2021-03-04-1/</link>
+      <link>https://icoconuts.github.io/2021/0304eat/</link>
       <pubDate>Thu, 04 Mar 2021 12:29:15 +0800</pubDate>
       
-      <guid>https://icoconuts.github.io/post/2021-03-04-1/</guid>
+      <guid>https://icoconuts.github.io/2021/0304eat/</guid>
       <description>我是差不多有半年没来这里吃面啦，还是这个味道。</description>
     </item>
     
     <item>
       <title>Hugo建站并部署到github</title>
-      <link>https://icoconuts.github.io/post/2021-03-03-2/</link>
+      <link>https://icoconuts.github.io/2021/03/03/hugo-bs/</link>
       <pubDate>Wed, 03 Mar 2021 22:29:15 +0800</pubDate>
       
-      <guid>https://icoconuts.github.io/post/2021-03-03-2/</guid>
+      <guid>https://icoconuts.github.io/2021/03/03/hugo-bs/</guid>
       <description>Hugo建站 Hugo是由Go语言实现的静态网站生成器。简单、易用、高效、易扩展、快速部署。 1. 本地搭建</description>
     </item>
     
     <item>
-      <title>第一篇</title>
-      <link>https://icoconuts.github.io/post/myfistp/</link>
-      <pubDate>Wed, 03 Mar 2021 12:29:15 +0800</pubDate>
+      <title>Hugo开始运作</title>
+      <link>https://icoconuts.github.io/2021/0302/write-again/</link>
+      <pubDate>Tue, 02 Mar 2021 21:29:15 +0800</pubDate>
       
-      <guid>https://icoconuts.github.io/post/myfistp/</guid>
-      <description>hi ,hugo!</description>
+      <guid>https://icoconuts.github.io/2021/0302/write-again/</guid>
+      <description>I&amp;rsquo;m elion,I&amp;rsquo;m back! 一、前言 好几年前，折腾过hexo， 但一直没有静下心来写点什么。 就在前几天，又是一次偶然的机会，</description>
     </item>
     
     <item>
       <title> 2016 Google I/O大会</title>
-      <link>https://icoconuts.github.io/post/2016-g-io/</link>
+      <link>https://icoconuts.github.io/2016/05/19/g-io/</link>
       <pubDate>Thu, 19 May 2016 23:29:15 +0800</pubDate>
       
-      <guid>https://icoconuts.github.io/post/2016-g-io/</guid>
+      <guid>https://icoconuts.github.io/2016/05/19/g-io/</guid>
       <description>发表于HEXO 又是一年Google I/O开发者大会。 咱是门外汉，就当是看一场科幻电影吧。 总结了一下，</description>
     </item>
     
     <item>
       <title>随手拍－Outlets</title>
-      <link>https://icoconuts.github.io/post/sh-outlets/</link>
+      <link>https://icoconuts.github.io/2021/0514SH/</link>
       <pubDate>Sat, 14 May 2016 11:29:15 +0800</pubDate>
       
-      <guid>https://icoconuts.github.io/post/sh-outlets/</guid>
+      <guid>https://icoconuts.github.io/2021/0514SH/</guid>
       <description>发表于 HEXO 好久没去Outlets，拍几张试试hexo的图片排列效果。 #随手拍</description>
     </item>
     
     <item>
       <title>为Hexo添加常用页面</title>
-      <link>https://icoconuts.github.io/post/hexo-pages/</link>
+      <link>https://icoconuts.github.io/2016/05/13/hexo-pages/</link>
       <pubDate>Fri, 13 May 2016 17:29:15 +0800</pubDate>
       
-      <guid>https://icoconuts.github.io/post/hexo-pages/</guid>
-      <description>发表于HEXO 在网站架设完成后，除了发布文章以外，还应该通过新增功能页面，来完善网站的功能。 现在许多</description>
+      <guid>https://icoconuts.github.io/2016/05/13/hexo-pages/</guid>
+      <description>elion发表于HEXO 在网站架设完成后，除了发布文章以外，还应该通过新增功能页面，来完善网站的功能</description>
     </item>
     
     <item>
       <title>将本地Hexo部署到Github</title>
-      <link>https://icoconuts.github.io/post/hexo-bs/</link>
+      <link>https://icoconuts.github.io/2016/05/11/hexo-bs/</link>
       <pubDate>Wed, 11 May 2016 22:29:15 +0800</pubDate>
       
-      <guid>https://icoconuts.github.io/post/hexo-bs/</guid>
-      <description>发表于HEXO 其实，看了很多教程，他们都喜欢把这个步骤放到很前面讲，可能比较迎合许多人的想法。 但我觉</description>
+      <guid>https://icoconuts.github.io/2016/05/11/hexo-bs/</guid>
+      <description>elion发表于HEXO 其实，看了很多教程，他们都喜欢把这个步骤放到很前面讲，可能比较迎合许多人的想</description>
     </item>
     
     <item>
       <title>将本地Hexo部署到Github</title>
-      <link>https://icoconuts.github.io/post/hexo-theme/</link>
+      <link>https://icoconuts.github.io/2016/05/11/hexo-pages/</link>
       <pubDate>Wed, 11 May 2016 16:29:15 +0800</pubDate>
       
-      <guid>https://icoconuts.github.io/post/hexo-theme/</guid>
-      <description>发表于HEXO 其实，看了很多教程，他们都喜欢把这个步骤放到很前面讲，可能比较迎合许多人的想法。 但我觉</description>
+      <guid>https://icoconuts.github.io/2016/05/11/hexo-pages/</guid>
+      <description>elion发表于HEXO 其实，看了很多教程，他们都喜欢把这个步骤放到很前面讲，可能比较迎合许多人的想</description>
     </item>
     
     <item>
       <title>Hexo生成文章</title>
-      <link>https://icoconuts.github.io/post/hexo-2/</link>
+      <link>https://icoconuts.github.io/2016/05/10/hexo2/</link>
       <pubDate>Tue, 10 May 2016 21:29:15 +0800</pubDate>
       
-      <guid>https://icoconuts.github.io/post/hexo-2/</guid>
-      <description>发表于HEXO 初阶 生成文章 找到E:\hexo,右键菜单下的Git Bush here.命令行输入：（依次输入）</description>
+      <guid>https://icoconuts.github.io/2016/05/10/hexo2/</guid>
+      <description>elion发表于HEXO 初阶 生成文章 找到E:\hexo,右键菜单下的Git Bush here.命令行输入：（</description>
     </item>
     
     <item>
       <title>初识Hexo与Hexo安装</title>
-      <link>https://icoconuts.github.io/post/hexo-1/</link>
+      <link>https://icoconuts.github.io/2016/05/10/hexo1/</link>
       <pubDate>Tue, 10 May 2016 18:29:15 +0800</pubDate>
       
-      <guid>https://icoconuts.github.io/post/hexo-1/</guid>
+      <guid>https://icoconuts.github.io/2016/05/10/hexo1/</guid>
       <description>发表于HEXO 认识Hexo Hexo，快速、简洁且高效的博客框架。官方网站戳这里，支持中文。 特点： 1.</description>
+    </item>
+    
+    <item>
+      <title>2012年1月份微博集</title>
+      <link>https://icoconuts.github.io/2012/01/31/jan-weibo/</link>
+      <pubDate>Tue, 31 Jan 2012 14:30:00 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2012/01/31/jan-weibo/</guid>
+      <description>这个要火。。。 || @engadgetChina: 装个 APK 就可以让你的 EVO 3D 跑 Windows 95，98 和 XP，甚至是 Linux 系统&amp;#8230; http:/</description>
+    </item>
+    
+    <item>
+      <title>新时代-勇敢的心</title>
+      <link>https://icoconuts.github.io/2012/01/30/opma/</link>
+      <pubDate>Mon, 30 Jan 2012 11:11:54 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2012/01/30/opma/</guid>
+      <description>感动…</description>
+    </item>
+    
+    <item>
+      <title>2012年Godaddy .me域名续费便宜方法: $7.96</title>
+      <link>https://icoconuts.github.io/2012/01/23/2012-godaddy-me/</link>
+      <pubDate>Sun, 22 Jan 2012 16:34:32 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2012/01/23/2012-godaddy-me/</guid>
+      <description>hjx.me域名快到期了，于是马上搜了下近期的Godaddy的优惠码。 不查不知道，一查就直跺脚，我错</description>
+    </item>
+    
+    <item>
+      <title>我的2011</title>
+      <link>https://icoconuts.github.io/2012/01/22/my2011/</link>
+      <pubDate>Sun, 22 Jan 2012 13:40:23 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2012/01/22/my2011/</guid>
+      <description>早就想写一篇关于2011年发生的，关于我的许多事的总结了。 但不知何时开始，已少有几年前码字写博的心情</description>
+    </item>
+    
+    <item>
+      <title>Nexus S 4.0系统刷机介绍及体验</title>
+      <link>https://icoconuts.github.io/2011/11/27/nexus-s-4-0/</link>
+      <pubDate>Sun, 27 Nov 2011 07:53:14 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2011/11/27/nexus-s-4-0/</guid>
+      <description>距离10月19日Google发布Galaxy Nexus以及Android 4.0已经一个多月了。 看着新</description>
+    </item>
+    
+    <item>
+      <title>Nexus S成功运行Android 4.0</title>
+      <link>https://icoconuts.github.io/2011/11/23/nexus-s-android-4-0/</link>
+      <pubDate>Wed, 23 Nov 2011 07:42:22 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2011/11/23/nexus-s-android-4-0/</guid>
+      <description>期待啊…</description>
+    </item>
+    
+    <item>
+      <title>New photo on my Flickr: 偶的生日蛋糕</title>
+      <link>https://icoconuts.github.io/2011/08/15/srdg/</link>
+      <pubDate>Mon, 15 Aug 2011 11:39:40 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2011/08/15/srdg/</guid>
+      <description>8.15生日蛋糕 on Flickr: http://flic.kr/p/adb3dP</description>
+    </item>
+    
+    <item>
+      <title>Google Nexus S升级Android 2.3.4方法</title>
+      <link>https://icoconuts.github.io/2011/08/09/231-234/</link>
+      <pubDate>Tue, 09 Aug 2011 13:30:45 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2011/08/09/231-234/</guid>
+      <description>新入手的Nexus S版本还是2.3.1。 当然OTA通知可以升级到2.3.4。大小是98M。 但网上搜了</description>
+    </item>
+    
+    <item>
+      <title>入手Nexus S</title>
+      <link>https://icoconuts.github.io/2011/08/07/nexuss/</link>
+      <pubDate>Sun, 07 Aug 2011 13:35:24 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2011/08/07/nexuss/</guid>
+      <description>话说，先看图说话。 对Google的产品，一直是45度仰望的态度。 同样，对于10年年底发布的Nexus</description>
+    </item>
+    
+    <item>
+      <title>网站搬迁结束</title>
+      <link>https://icoconuts.github.io/2011/01/18/todasfree/</link>
+      <pubDate>Tue, 18 Jan 2011 14:30:49 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2011/01/18/todasfree/</guid>
+      <description>网站搬迁结束咯~~ 速度还是可以的吧？？ 召唤各位Reader!!! PS:今天开始下雪，今年的冬天特别冷</description>
+    </item>
+    
+    <item>
+      <title>鹦鹉</title>
+      <link>https://icoconuts.github.io/2010/05/14/yw/</link>
+      <pubDate>Fri, 14 May 2010 14:26:43 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/05/14/yw/</guid>
+      <description>一个人去买鹦鹉，看到一只鹦鹉前标：此鹦鹉会两门语言，售价二百元。 另一只鹦鹉前则标道：此鹦鹉会四门语言</description>
+    </item>
+    
+    <item>
+      <title>机会</title>
+      <link>https://icoconuts.github.io/2010/05/13/jh/</link>
+      <pubDate>Thu, 13 May 2010 14:48:32 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/05/13/jh/</guid>
+      <description>&lt;p&gt;&lt;img class=&#34;smallimg&#34; src=&#34;http://i39.tinypic.com/6galhw.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;有个年轻人，想发财想到几乎发疯的地步。&lt;br&gt;
+每每听到哪里有财路他便不辞劳苦地去寻找。&lt;br&gt;
+有一天，他听说附近深山中有位白发老人，若有缘与他见面，则有求必应，肯定不会空手而归。&lt;br&gt;
+于是，那年轻人便连夜收拾行李，赶上山去。他在那儿苦等了5天，终于见到了传说中的老人，他向老者请求，赐珠宝给他。&lt;br&gt;
+老人便告诉他说：“每天早晨，太阳未东升时，你到村外的沙滩上寻找一粒‘心愿石’。其他石头是冷的，而那颗‘心愿石’却与众不同，握在手里，你会感觉到很温暖而且会发光。&lt;/p&gt;
+&lt;p&gt;一旦你寻到那颗‘心愿石’后，你所祈祷的东西都可以实现了。”&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>昂起头来真美</title>
+      <link>https://icoconuts.github.io/2010/05/12/aqtlzm/</link>
+      <pubDate>Wed, 12 May 2010 13:16:55 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/05/12/aqtlzm/</guid>
+      <description>别看它是一条黑母牛，牛奶一样是白的！ 珍妮是个总爱低着头的小女孩，她一直觉得自己长得不够漂亮。 有一天，</description>
+    </item>
+    
+    <item>
+      <title>坐出租车</title>
+      <link>https://icoconuts.github.io/2010/05/11/zczc/</link>
+      <pubDate>Tue, 11 May 2010 14:56:56 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/05/11/zczc/</guid>
+      <description>各位一定坐过出租车。 那么，今天你出门请再乘一次出租车，做一个试验：上车后，你不要讲话。 司机如果问你：</description>
+    </item>
+    
+    <item>
+      <title>靠自己</title>
+      <link>https://icoconuts.github.io/2010/05/10/kzj/</link>
+      <pubDate>Mon, 10 May 2010 11:20:36 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/05/10/kzj/</guid>
+      <description>小蜗牛问妈妈：“为什么我们从生下来，就要背负这个又硬又重的壳呢？” 妈妈：“因为我们的身体没有骨骼的支</description>
+    </item>
+    
+    <item>
+      <title>钓竿</title>
+      <link>https://icoconuts.github.io/2010/05/09/dg/</link>
+      <pubDate>Sun, 09 May 2010 12:25:33 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/05/09/dg/</guid>
+      <description>有个老人在河边钓鱼，一个小孩走过去看他钓鱼，老人技巧纯熟，所以没多久就钓上了满篓的鱼，老人见小孩很可</description>
+    </item>
+    
+    <item>
+      <title>iPod touch/iPhone越狱后的软件推荐</title>
+      <link>https://icoconuts.github.io/2010/05/09/after-jb-soft/</link>
+      <pubDate>Sun, 09 May 2010 09:23:44 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/05/09/after-jb-soft/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; alt=&#34;&#34; src=&#34;http://i44.tinypic.com/258q7g3.jpg&#34; class=&#34;alignnone&#34; width=&#34;480&#34; height=&#34;100&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;朋友，在i系列全设备越狱的时代，你的iphone/iPod Touch/iPad越狱了没？&lt;/p&gt;
+&lt;p&gt;之前的日志里，由于本人的机子是3.1.3版本的，所以一直没有提及越狱。&lt;/p&gt;
+&lt;p&gt;但是没有让我等很久，在5月3日上午&lt;strong&gt;Dev Team&lt;/strong&gt;发布了Spirit。&lt;a href=&#34;http://127.0.0.1/2010/05/03/i-jailbreak/&#34; target=&#34;_blank&#34;&gt;越狱教程点这里&lt;/a&gt;。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>鲨鱼与鱼</title>
+      <link>https://icoconuts.github.io/2010/05/08/syyy/</link>
+      <pubDate>Sat, 08 May 2010 12:42:39 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/05/08/syyy/</guid>
+      <description>&lt;p&gt;&lt;img class=&#34;smallimg&#34; src=&#34;http://i39.tinypic.com/6galhw.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;曾有人做过这么一个实验：&lt;/p&gt;
+&lt;p&gt;将一只最凶猛的鲨鱼和一群热带鱼放在同一个池子，然后用强化玻璃隔开。&lt;/p&gt;
+&lt;p&gt;最初，鲨鱼每天不断冲撞那块看不到的玻璃，耐何这只是徒劳，它始终不能过到对面去，而实验人员每天都有放一些鲫鱼在池子里，所以鲨鱼也没缺少猎物，只是它仍想到对面去，想尝试那美丽的滋味，每天仍是不断的冲撞那块玻璃，它试了每个角落，每次都是用尽全力，但每次也总是弄的伤痕累累，有好几次都浑身破裂出血，持续了好一些日子，每当玻璃一出现裂痕，实验人员马上加上一块更厚的玻璃。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>抉择</title>
+      <link>https://icoconuts.github.io/2010/05/07/jz/</link>
+      <pubDate>Fri, 07 May 2010 14:41:41 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/05/07/jz/</guid>
+      <description>一个农民从洪水中救起了他的妻子，他的孩子却被淹死了。 事后，人们议论纷纷。有的说他做得对，因为孩子可以</description>
+    </item>
+    
+    <item>
+      <title>出门</title>
+      <link>https://icoconuts.github.io/2010/05/06/cm/</link>
+      <pubDate>Thu, 06 May 2010 14:53:59 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/05/06/cm/</guid>
+      <description>&lt;p&gt;&lt;img class=&#34;smallimg&#34; src=&#34;http://i39.tinypic.com/6galhw.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;古时候，有两个兄弟各自带着一只行李箱出远门。&lt;/p&gt;
+&lt;p&gt;一路上，重重的行李箱将兄弟俩都压得喘不过气来。&lt;/p&gt;
+&lt;p&gt;他们只好左手累了换右手，右手累了又换左手。&lt;/p&gt;
+&lt;p&gt;忽然，大哥停了下来，在路边买了一根扁担，将两个行李箱一左一右挂在扁担上。&lt;/p&gt;
+&lt;p&gt;他挑起两个箱子上路，反倒觉得轻松了很多。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>海贼王漫画583话打包下载</title>
+      <link>https://icoconuts.github.io/2010/05/06/onepiece-583/</link>
+      <pubDate>Thu, 06 May 2010 10:43:53 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/05/06/onepiece-583/</guid>
+      <description>海贼王One Piece漫画~第583话 非确定物终点站</description>
+    </item>
+    
+    <item>
+      <title>选择</title>
+      <link>https://icoconuts.github.io/2010/05/05/xz/</link>
+      <pubDate>Wed, 05 May 2010 11:50:08 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/05/05/xz/</guid>
+      <description>有三个人要被关进监狱三年，监狱长给他们三个一人一个要求。 美国人爱抽雪茄，要了三箱雪茄。 法国人最浪漫，</description>
+    </item>
+    
+    <item>
+      <title>表演大师</title>
+      <link>https://icoconuts.github.io/2010/05/04/byds/</link>
+      <pubDate>Tue, 04 May 2010 13:53:18 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/05/04/byds/</guid>
+      <description>有一位表演大师上场前，他的徒弟告诉他鞋带松了。 大师点头致谢，蹲下来仔细系好。 等到徒弟转身后，又蹲下来</description>
+    </item>
+    
+    <item>
+      <title>骆驼</title>
+      <link>https://icoconuts.github.io/2010/05/03/lt/</link>
+      <pubDate>Mon, 03 May 2010 15:26:19 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/05/03/lt/</guid>
+      <description>在动物园里的小骆驼问妈妈：“妈妈妈妈，为什么我们的睫毛那么地长？” 骆驼妈妈说：“当风沙来的时候，长长</description>
+    </item>
+    
+    <item>
+      <title>Spirit发布-实现完美越狱</title>
+      <link>https://icoconuts.github.io/2010/05/03/i-jailbreak/</link>
+      <pubDate>Mon, 03 May 2010 15:23:45 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/05/03/i-jailbreak/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; class=&#34;aligncenter&#34; title=&#34;spirit&#34; src=&#34;http://i44.tinypic.com/2jcu6j7.jpg&#34; alt=&#34;spirit&#34; width=&#34;594&#34; height=&#34;150&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;这次果然是真的了。&lt;/p&gt;
+&lt;p&gt;在前几天3G版iPad越狱成功后，今天早上，我6点多更新twitter的时候，就发现iH8sn0w在其twitter上重复警告大家：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is another reminder that ALL iPhone 3GS/iPod Touch 3rd Gen/iPad users MUST grab their SHSH blobs for 3.1.3/3.2!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;具体操作方法，可以参看此日志：&lt;a href=&#34;http://127.0.0.1/2010/05/01/backupshsh/&#34; target=&#34;_blank&#34;&gt;备份iPod Touch/iphone3.1.3SHSH&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;今天上午，有事在外面，但一直有预感会发布Spirit，于是不停的盯着威锋的itouch区。&lt;/p&gt;
+&lt;p&gt;激动的时刻终于到来，10点不到，就看到坛友们在讨论破解的事了。之后就是源源不断的帖子涌现了。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>习惯人生</title>
+      <link>https://icoconuts.github.io/2010/05/02/xgrs/</link>
+      <pubDate>Sun, 02 May 2010 01:27:55 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/05/02/xgrs/</guid>
+      <description>&lt;p&gt;&lt;img class=&#34;smallimg&#34; src=&#34;http://i39.tinypic.com/6galhw.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;父子两住山上，每天都要赶牛车下山卖柴。老父较有经验，坐镇驾车，山路崎岖，弯道特多，儿子眼神较好，总是在要转弯时提醒道：“爹，转弯啦！”&lt;/p&gt;
+&lt;p&gt;有一次父亲因病没有下山，儿子一人驾车。&lt;/p&gt;
+&lt;p&gt;到了弯道，牛怎么也不肯转弯，儿子用尽各种方法，下车又推又拉，用青草诱之，牛一动不动。&lt;/p&gt;
+&lt;p&gt;到底是怎么回事？儿子百思不得其解。最后只有一个办法了，他左右看看无人，贴近牛的耳朵大声叫道：“爹，转弯啦！”&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>永远的坐票</title>
+      <link>https://icoconuts.github.io/2010/05/01/yydzp/</link>
+      <pubDate>Sat, 01 May 2010 12:16:34 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/05/01/yydzp/</guid>
+      <description>&lt;p&gt;&lt;img class=&#34;smallimg&#34; src=&#34;http://i39.tinypic.com/6galhw.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;生活真是有趣：如果你只接受最好的，你经常会得到最好的。&lt;/p&gt;
+&lt;p&gt;有一个人经常出差，经常买不到对号入坐的车票。可是无论长途短途，无论车上多挤，他总能找到座位。&lt;/p&gt;
+&lt;p&gt;他的办法其实很简单，就是耐心地一节车厢一节车厢找过去。&lt;/p&gt;
+&lt;p&gt;这个办法听上去似乎并不高明，但却很管用。&lt;/p&gt;
+&lt;p&gt;每次，他都做好了从第一节车厢走到最后一节车厢的准备，可是每次他都用不着走到最后就会发现空位。&lt;/p&gt;
+&lt;p&gt;他说，这是因为像他这样锲而不舍找座位的乘客实在不多。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>备份iPod Touch/iphone3.1.3SHSH</title>
+      <link>https://icoconuts.github.io/2010/05/01/backupshsh/</link>
+      <pubDate>Sat, 01 May 2010 11:33:12 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/05/01/backupshsh/</guid>
+      <description>自从购入iPod Touch以来，一直就有关于3.1.3要出越狱软件的消息。 但结果就是一直被忽悠。 这次</description>
+    </item>
+    
+    <item>
+      <title>海贼王声优配音现场</title>
+      <link>https://icoconuts.github.io/2010/04/30/onepiece-voice-actor/</link>
+      <pubDate>Fri, 30 Apr 2010 14:30:49 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/04/30/onepiece-voice-actor/</guid>
+      <description>感觉挺有意思的。 具体配音的应该是那个剧场版： “乔巴传记- 绽放在寒冬的奇迹樱花”</description>
+    </item>
+    
+    <item>
+      <title>失意</title>
+      <link>https://icoconuts.github.io/2010/04/30/sy/</link>
+      <pubDate>Fri, 30 Apr 2010 14:25:17 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/04/30/sy/</guid>
+      <description>一个女孩毫无道理地被老板炒了鱿鱼。 中午，她坐在单位喷泉旁边的一条长椅上黯然神伤，她感到她的生活失去了</description>
+    </item>
+    
+    <item>
+      <title>司机考试</title>
+      <link>https://icoconuts.github.io/2010/04/29/%E5%8F%B8%E6%9C%BA%E8%80%83%E8%AF%95/</link>
+      <pubDate>Thu, 29 Apr 2010 15:29:39 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/04/29/%E5%8F%B8%E6%9C%BA%E8%80%83%E8%AF%95/</guid>
+      <description>某大公司准备以高薪雇用一名小车司机，经过层层筛选和考试，剩下了三名技术最优秀的竞争者。 主考者问他们：</description>
+    </item>
+    
+    <item>
+      <title>告别梅丽号-感人的回顾</title>
+      <link>https://icoconuts.github.io/2010/04/27/gbmlh/</link>
+      <pubDate>Tue, 27 Apr 2010 12:49:25 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/04/27/gbmlh/</guid>
+      <description>今天突然又翻到这个视频了，每次看都会想哭，甚至哭过。 太感人了。</description>
+    </item>
+    
+    <item>
+      <title>五枚硬币</title>
+      <link>https://icoconuts.github.io/2010/04/27/wmyb/</link>
+      <pubDate>Tue, 27 Apr 2010 10:29:00 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/04/27/wmyb/</guid>
+      <description>一个叫阿巴格的人生活在内蒙古草原上。 有一次，年少的阿巴格和他父亲在草原上迷路了，阿巴格又累又怕，到最</description>
+    </item>
+    
+    <item>
+      <title>Google比百毒更喜欢我的博客</title>
+      <link>https://icoconuts.github.io/2010/04/26/goolgebetterthanbaidu/</link>
+      <pubDate>Mon, 26 Apr 2010 14:17:27 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/04/26/goolgebetterthanbaidu/</guid>
+      <description>在GR上看到CB新闻一则：报告称一季度百度市场份额上涨谷歌下滑 于是，马上打开链接，想去看看百毒被骂成</description>
+    </item>
+    
+    <item>
+      <title>放大镜与望远镜</title>
+      <link>https://icoconuts.github.io/2010/04/26/fdjywyj/</link>
+      <pubDate>Mon, 26 Apr 2010 13:39:52 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/04/26/fdjywyj/</guid>
+      <description>&lt;p&gt;&lt;img class=&#34;smallimg&#34; alt=&#34;&#34; src=&#34;http://i39.tinypic.com/6galhw.jpg&#34; /&gt;有一位公关名家谈到建立良好人际关系时，举了一个例子。&lt;/p&gt;
+&lt;p&gt;他说，无论多么漂亮的小姐，如果美容师以500倍的放大镜看她美丽的脸庞，看到的一定是坑坑洼洼，凹凸不平的脸，使人大失所望。&lt;/p&gt;
+&lt;p&gt;而当我们拿望远镜看青山时，入目的尽是如画的风景，迷人的山色，令人心旷神怡。&lt;/p&gt;
+&lt;p&gt;这说明，如果你永远拿着放大镜看别人，必令对方原形毕露，显得一无是处，也使自己无法信任他人，交到朋友。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>相信自己是一只雄鹰</title>
+      <link>https://icoconuts.github.io/2010/04/25/xxzjsyzxy/</link>
+      <pubDate>Sun, 25 Apr 2010 12:34:46 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/04/25/xxzjsyzxy/</guid>
+      <description>&lt;p&gt;&lt;img class=&#34;smallimg&#34; alt=&#34;&#34; src=&#34;http://i39.tinypic.com/6galhw.jpg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;一个人在高山之巅的鹰巢里，抓到了一只幼鹰，他把幼鹰带回家，养在鸡笼里。&lt;/p&gt;
+&lt;p&gt;这只幼鹰和鸡一起啄食、嬉闹和休息。&lt;/p&gt;
+&lt;p&gt;它以为自己是一只鸡。&lt;/p&gt;
+&lt;p&gt;这只鹰渐渐长大，羽翼丰满了，主人想把它训练成猎鹰，可是由于终日和鸡混在一起，它已经变得和鸡完全一样，根本没有飞的愿望了。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>强人，把猫当太鼓棒!!</title>
+      <link>https://icoconuts.github.io/2010/04/25/xmty2ntq/</link>
+      <pubDate>Sun, 25 Apr 2010 11:32:27 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/04/25/xmty2ntq/</guid>
+      <description>笑得我眼泪都出来了。</description>
+    </item>
+    
+    <item>
+      <title>E63/E71同步通讯录和日历到iPod Touch/iPhone</title>
+      <link>https://icoconuts.github.io/2010/04/24/s60-web-ipod/</link>
+      <pubDate>Sat, 24 Apr 2010 15:24:08 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/04/24/s60-web-ipod/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://i44.tinypic.com/18yav8.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;话说，购入iPod Touch后，第一件做的事情就是想办法解决邮件、通讯录和日历的的同步问题。&lt;/p&gt;
+&lt;p&gt;有人说iPod Touch使用邮件、日历倒还说得过去，但通讯录有这个必要么？又不能打电话。&lt;/p&gt;
+&lt;p&gt;个人认为还是很有用的工具，毕竟现在拿iTouch的时间比E63的时间多多了。&lt;/p&gt;
+&lt;p&gt;网上查了下，虽说可以用iTunes来和电脑上的outlook（windows）或者iCal（Mac）来同步，但同步只能通过连接电脑进行。&lt;/p&gt;
+&lt;p&gt;作为移动设备，最好还是通过网络同步，这才是最方便的。&lt;/p&gt;
+&lt;p&gt;这里，我们需要通过Google 提供的Google Sync免费服务。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>心灵的账单</title>
+      <link>https://icoconuts.github.io/2010/04/24/xldzd/</link>
+      <pubDate>Sat, 24 Apr 2010 13:50:59 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/04/24/xldzd/</guid>
+      <description>曾看过这样一个故事一位智者每年都记两份账单，一份记着一年当中自己所犯的错误，另一份则记着这一年中遭遇</description>
+    </item>
+    
+    <item>
+      <title>鸵鸟和雕</title>
+      <link>https://icoconuts.github.io/2010/04/23/tnhd/</link>
+      <pubDate>Fri, 23 Apr 2010 15:02:45 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/04/23/tnhd/</guid>
+      <description>鸵鸟问雕，“从外表上看，我们都长有一对巨大的翅膀，可为什么我一点儿也不会飞，而你却能乘着上升的热气流</description>
+    </item>
+    
+    <item>
+      <title>海贼王漫画582话打包下载</title>
+      <link>https://icoconuts.github.io/2010/04/23/onepiece-582/</link>
+      <pubDate>Fri, 23 Apr 2010 09:49:36 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/04/23/onepiece-582/</guid>
+      <description>海贼王One Piece漫画~第582话 路飞与艾斯</description>
+    </item>
+    
+    <item>
+      <title>我怀念的-歌词</title>
+      <link>https://icoconuts.github.io/2010/04/22/whnd/</link>
+      <pubDate>Thu, 22 Apr 2010 12:43:34 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/04/22/whnd/</guid>
+      <description>&lt;p&gt;昨天下了孙燕姿的新专辑《2010垦丁半岛音乐嘉年华》。&lt;/p&gt;
+&lt;p&gt;想起了以前比较喜欢听的《我怀念的》~~&lt;/p&gt;
+&lt;p&gt;贴个歌词，嗯，比较无聊！&lt;/p&gt;
+&lt;p&gt;嗯，顺便说一下，孙燕姿的Twitter:&lt;a href=&#34;http://elion.cz.cc/user.php?id=Stefsunyanzi&#34; target=&#34;_blank&#34;&gt;stefsunyanzi&lt;/a&gt;，传说中的十三姐。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>善意沉默</title>
+      <link>https://icoconuts.github.io/2010/04/22/sycm/</link>
+      <pubDate>Thu, 22 Apr 2010 12:15:01 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/04/22/sycm/</guid>
+      <description>&lt;p&gt;&lt;img class=&#34;smallimg&#34; src=&#34;http://i39.tinypic.com/6galhw.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;企鹅在大海里觅食后，返回陆地时，需要以一个冰窟为出口往外跳跃。&lt;/p&gt;
+&lt;p&gt;体态肥硕得海豹是企鹅的天敌之一。&lt;/p&gt;
+&lt;p&gt;聪明的海豹发现企鹅常出入的冰窟后，就会趴在冰窟旁边，采取守株待兔的方式，伺机捕食企鹅。&lt;/p&gt;
+&lt;p&gt;领头的企鹅犹如一枚炮弹从冰窟里“射”出来，由于速度很快，它越过海豹晃动得脑袋，在落到冰面的一刹那迅速站起来逃开。&lt;/p&gt;
+&lt;p&gt;此刻，这只企鹅不会发出一声惊叫，它以沉默掩盖自己的恐惧。紧接着，跟在后面的企鹅相继从冰窟里跳出来，有的从海豹的身边溜过，有的从海豹的头顶越过。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>为生命画一片树叶</title>
+      <link>https://icoconuts.github.io/2010/04/21/wsmhypsy/</link>
+      <pubDate>Wed, 21 Apr 2010 13:27:29 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/04/21/wsmhypsy/</guid>
+      <description>&lt;p&gt;&lt;img class=&#34;smallimg&#34; alt=&#34;&#34; src=&#34;http://i39.tinypic.com/6galhw.jpg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;只要心存相信，总有奇迹发生，希望虽然渺茫，但它永存人世。&lt;/p&gt;
+&lt;p&gt;美国作家欧.亨利在他的小说《最后一片叶子》里讲了个故事：&lt;/p&gt;
+&lt;p&gt;病房里，一个生命垂危的病人从房间里看见窗外的一棵树，在秋风中一片片地掉落下来。&lt;/p&gt;
+&lt;p&gt;病人望着眼前的萧萧落叶，身体也随之每况愈下，一天不如一天。&lt;/p&gt;
+&lt;p&gt;她说：“当树叶全部掉光时，我也就要死了。”&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>让思维转弯</title>
+      <link>https://icoconuts.github.io/2010/04/20/rswzw/</link>
+      <pubDate>Tue, 20 Apr 2010 12:02:03 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/04/20/rswzw/</guid>
+      <description>&lt;p&gt;&lt;img class=&#34;smallimg&#34; alt=&#34;&#34; src=&#34;http://i39.tinypic.com/6galhw.jpg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;有一位国王有洁癖，他最害怕自己的鞋底会沾上泥土，于是命大臣，要把整个国家的道路都用布覆盖上。&lt;/p&gt;
+&lt;p&gt;大臣开始组织人力丈量全国的道路，之后他做了计算，把全国所有的路都覆盖布，需要20万工匠不停地工作50年，而全国的人口也不过50万。&lt;/p&gt;
+&lt;p&gt;大臣心急如焚，向国王痛陈利弊，说弄不好会亡国。国王一怒，将大臣处死。&lt;/p&gt;
+&lt;p&gt;国王又派另一个大臣来办此事，结果这个大臣很容易就解决了此事一用布给国王做了一副鞋套。后一个大臣只不过是把自己的思维从路转到国王的脚上，天大的难题便迎刃而解了。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>新买的鼠标垫</title>
+      <link>https://icoconuts.github.io/2010/04/20/sbd/</link>
+      <pubDate>Tue, 20 Apr 2010 11:54:14 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/04/20/sbd/</guid>
+      <description>&lt;p&gt;玩电脑时间长的人大多都有一个标志，那就是右手手腕处会长茧。&lt;/p&gt;
+&lt;p&gt;记得在大学时候，严重时手腕处一碰就会疼。&lt;/p&gt;
+&lt;p&gt;现用的鼠标垫还是那块建行的，虽然手腕处也有垫子，但早已有换了它的想法了。&lt;/p&gt;
+&lt;p&gt;在lovee同学&lt;a href=&#34;http://www.loveehome.net/?p=6258&#34; target=&#34;_blank&#34;&gt;日志&lt;/a&gt;上瞄到了一款很YD的鼠标垫，据说售价要3800日元。&lt;/p&gt;
+&lt;p&gt;俺在淘宝上一搜，看到了竟然有OnePiece三位美女（娜美、罗宾、女帝）的鼠标垫。&lt;/p&gt;
+&lt;p&gt;看看278元的售价，还是望而却步了，再怎么迷OP，没钱也白搭。（上图~）&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>心灵释荷</title>
+      <link>https://icoconuts.github.io/2010/04/19/xlsh/</link>
+      <pubDate>Mon, 19 Apr 2010 11:24:05 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/04/19/xlsh/</guid>
+      <description>著名画家张大千先生是个大胡子，浓密的胡须铺垂近腹。 据说有一人见此，顿生好奇，问：张先生，睡觉时，您的</description>
+    </item>
+    
+    <item>
+      <title>个人对iTunes使用的一点认识</title>
+      <link>https://icoconuts.github.io/2010/04/19/itunes/</link>
+      <pubDate>Mon, 19 Apr 2010 10:59:31 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/04/19/itunes/</guid>
+      <description>之前， 说过了，iTunes和iTouch/iPhone是最好的伙伴了。 说实话，如果不是买了ipod t</description>
+    </item>
+    
+    <item>
+      <title>学会实话&amp;ldquo;巧&amp;rdquo;说</title>
+      <link>https://icoconuts.github.io/2010/04/18/shqs/</link>
+      <pubDate>Sun, 18 Apr 2010 10:33:54 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/04/18/shqs/</guid>
+      <description>英国著名诗人拜伦在大街上看见一位盲人身前挂一个牌子，上面写着“自幼失明、沿街乞讨”。 但驻足观看良久，</description>
+    </item>
+    
+    <item>
+      <title>感恩的心</title>
+      <link>https://icoconuts.github.io/2010/04/17/gedx/</link>
+      <pubDate>Sat, 17 Apr 2010 08:35:51 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/04/17/gedx/</guid>
+      <description>&lt;p&gt;&lt;img class=&#34;smallimg&#34; alt=&#34;&#34; src=&#34;http://i39.tinypic.com/6galhw.jpg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;一个生活贫困的男孩为了积攒学费，挨家挨户地推销商品。&lt;/p&gt;
+&lt;p&gt;他的推销进行得很不顺利，傍晚时他疲惫万分，饥饿难耐，绝望地想放弃一切。&lt;/p&gt;
+&lt;p&gt;走投无路的他敲开一扇门，希望主人能给他一杯水。&lt;/p&gt;
+&lt;p&gt;开门的是一位美丽的年轻女子，她笑着递给了他一杯浓浓的热牛奶。&lt;/p&gt;
+&lt;p&gt;男孩和着眼泪把它喝了下去，从此对人生重新鼓起了勇气。&lt;/p&gt;
+&lt;p&gt;许多年后，他成了一位著名的外科大夫。&lt;/p&gt;
+&lt;p&gt;一天，一位病情严重的妇女被转到了那位著名的外科大夫所在的医院。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>开水瓶哲理</title>
+      <link>https://icoconuts.github.io/2010/04/16/ksqzl/</link>
+      <pubDate>Fri, 16 Apr 2010 09:58:33 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/04/16/ksqzl/</guid>
+      <description>有经验的人都知道，给开水瓶灌水时，不能灌得太满，而需要留一个木塞大小的空间。 如果灌得太满，木塞会被开</description>
+    </item>
+    
+    <item>
+      <title>海贼王漫画581话打包下载</title>
+      <link>https://icoconuts.github.io/2010/04/15/onepiece-581/</link>
+      <pubDate>Thu, 15 Apr 2010 15:17:19 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/04/15/onepiece-581/</guid>
+      <description>海贼王One Piece漫画~第581话 将至的未来 两个星期的等待，的确够难受的。</description>
+    </item>
+    
+    <item>
+      <title>iPod Touch 3 代入手一周有感</title>
+      <link>https://icoconuts.github.io/2010/04/15/itouch-7days/</link>
+      <pubDate>Thu, 15 Apr 2010 14:18:17 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/04/15/itouch-7days/</guid>
+      <description>&lt;p&gt;之前&lt;a href=&#34;http://127.0.0.1/2010/04/09/my-itouch/&#34; target=&#34;_blank&#34;&gt;图文并茂&lt;/a&gt;，介绍了iTouch的购买动机和现场拆封实图。&lt;/p&gt;
+&lt;p&gt;话说入手iPod Touch 3代已快一周了，这几天一有时间都没闲着，几乎一直在研究着这宝贝呢。&lt;/p&gt;
+&lt;p&gt;今天就详细介绍入手一周后的感受。&lt;/p&gt;
+&lt;p&gt;我想任何一位入手iTouch/iPhone的朋友，真心的研究过机子，充分的发挥它的作用的话，你真的会由衷的发出这样的感慨！&lt;/p&gt;
+&lt;p&gt;It’s Amazing!!!&lt;/p&gt;
+&lt;p&gt;真是太强大了！简直不可思议那！绝对的NB！！&lt;/p&gt;
+&lt;p&gt;刚入手的时候，许多人都问我，这玩意要2000？除了听歌、视频，还能干嘛？&lt;/p&gt;
+&lt;p&gt;我不回答，我只要一个人乐着就行了，呵呵~~&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>珍惜的变数</title>
+      <link>https://icoconuts.github.io/2010/04/15/zxdbs/</link>
+      <pubDate>Thu, 15 Apr 2010 10:57:03 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/04/15/zxdbs/</guid>
+      <description>据说日本的一家动物园里，一个常年喂养猴子的人，不是将食物好好地摆在那儿，而是费尽心思，将食物放在一个</description>
+    </item>
+    
+    <item>
+      <title>生命的价值</title>
+      <link>https://icoconuts.github.io/2010/04/14/smdjz/</link>
+      <pubDate>Wed, 14 Apr 2010 12:18:07 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/04/14/smdjz/</guid>
+      <description>&lt;p&gt;&lt;img class=&#34;smallimg&#34; alt=&#34;&#34; src=&#34;http://i39.tinypic.com/6galhw.jpg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;不要让昨日的沮丧令明天的梦想黯然失色！&lt;/p&gt;
+&lt;p&gt;在一次讨论会上，一位著名的演说家没讲一句开场白，手里却高举着一张20美元的钞票。&lt;/p&gt;
+&lt;p&gt;面对会议室里的200个人，他问：“谁要这20美元？”&lt;/p&gt;
+&lt;p&gt;一只只手举了起来。&lt;/p&gt;
+&lt;p&gt;他接着说：“我打算把这20美元送给你们中的一位，但在这之前，请准许我做一件事。”&lt;/p&gt;
+&lt;p&gt;他说着将钞票揉成一团，然后问：“谁还要？”&lt;/p&gt;
+&lt;p&gt;仍有人举起手来。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>把自己放在劣势</title>
+      <link>https://icoconuts.github.io/2010/04/13/bzjfzls/</link>
+      <pubDate>Tue, 13 Apr 2010 12:52:56 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/04/13/bzjfzls/</guid>
+      <description>一名剑客去拜访一位武林泰斗，请教他是如何练就非凡武艺的。 武林泰斗拿出一把只有一尺长的剑，说：“多亏了</description>
+    </item>
+    
+    <item>
+      <title>心存敬畏</title>
+      <link>https://icoconuts.github.io/2010/04/12/xcjw/</link>
+      <pubDate>Mon, 12 Apr 2010 13:46:52 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/04/12/xcjw/</guid>
+      <description>几年前，丰田跟吉利打官司，说吉利的美日商标跟他们的很像。 后来吉利官司赢了，可是吉利却放弃了原来的设计</description>
+    </item>
+    
+    <item>
+      <title>习惯与自然</title>
+      <link>https://icoconuts.github.io/2010/04/11/xgyzr/</link>
+      <pubDate>Sun, 11 Apr 2010 06:21:29 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/04/11/xgyzr/</guid>
+      <description>&lt;p&gt;&lt;img class=&#34;smallimg&#34; alt=&#34;&#34; src=&#34;http://i39.tinypic.com/6galhw.jpg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;一根小小的柱子，一截细细的链子，拴得住一头千斤重的大象，这不荒谬吗？&lt;/p&gt;
+&lt;p&gt;可这荒谬的场景在印度和秦国随处可见。&lt;/p&gt;
+&lt;p&gt;那些驯象人，在大象还是小象的时候，就用一条铁链将它绑在水泥柱或钢柱上，无论小象怎么挣扎都无法挣脱。&lt;/p&gt;
+&lt;p&gt;小象渐渐地习惯了不挣扎，直到长成了大象，可以轻而易举地挣脱链子时，也不挣扎。&lt;/p&gt;
+&lt;p&gt;驯虎人本来也像驯象人一样成功，他让小虎从小吃素，直到小虎长大。老虎不知肉味，自然不会伤人。&lt;/p&gt;
+&lt;p&gt;驯虎人的致命错误在于他摔了交之后让老虎舔净他流在地上的血，老虎一舔不可收，终于将驯虎人吃了。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>微笑是一种修养</title>
+      <link>https://icoconuts.github.io/2010/04/10/wxsyzxy/</link>
+      <pubDate>Sat, 10 Apr 2010 10:37:20 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/04/10/wxsyzxy/</guid>
+      <description>一个人的情绪受环境的影响，这是很正常的，但你苦着脸，一副苦大仇深的样子，对处境并不会有任何的改变。 相</description>
+    </item>
+    
+    <item>
+      <title>狂喜！入手Ipod Touch 3 32G</title>
+      <link>https://icoconuts.github.io/2010/04/09/my-itouch/</link>
+      <pubDate>Fri, 09 Apr 2010 13:50:14 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/04/09/my-itouch/</guid>
+      <description>话说，对苹果的垂涎还要追溯到2007年。 那时候iPhone的轮廓已经被勾勒出来，看着那么有超前的机子</description>
+    </item>
+    
+    <item>
+      <title>给自己嘴巴安把锁</title>
+      <link>https://icoconuts.github.io/2010/04/09/gzjzbabs/</link>
+      <pubDate>Fri, 09 Apr 2010 12:36:10 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/04/09/gzjzbabs/</guid>
+      <description>1、给自己的嘴巴安上把锁，不要试图讲出全部的想法。培养低调和富有感染力的言谈。说话的方式比内容更为重</description>
+    </item>
+    
+    <item>
+      <title>往下扎根</title>
+      <link>https://icoconuts.github.io/2010/04/08/wxzg/</link>
+      <pubDate>Thu, 08 Apr 2010 12:21:39 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/04/08/wxzg/</guid>
+      <description>春耕时节，连续下了几天雨。在田边我遇到了一位种树的老农。 我说：“有这样充足的雨水，树木一定能长好。”</description>
+    </item>
+    
+    <item>
+      <title>有凹点的高尔夫球</title>
+      <link>https://icoconuts.github.io/2010/04/07/sthlg/</link>
+      <pubDate>Wed, 07 Apr 2010 14:01:43 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/04/07/sthlg/</guid>
+      <description>&lt;p&gt;&lt;img class=&#34;smallimg&#34; alt=&#34;&#34; src=&#34;http://i39.tinypic.com/6galhw.jpg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;高尔夫球运动刚刚兴起时，只是对球的重量、体积做了相关的规定。&lt;/p&gt;
+&lt;p&gt;奇怪的是，几乎所有的高尔夫球手都喜欢用旧球，特别是有划痕的球。&lt;/p&gt;
+&lt;p&gt;原来，有划痕的球比光滑的新球有着更优秀的飞行能力。&lt;/p&gt;
+&lt;p&gt;于是，根据空气动力学原理，科学家设计出了表面有凹点的高尔夫球。&lt;/p&gt;
+&lt;p&gt;这些凹点，让高尔夫球的平稳性和距离性比光滑的球更有优势。&lt;/p&gt;
+&lt;p&gt;从此，有凹点的高尔夫球成为比赛的统一用球。&lt;/p&gt;
+&lt;p&gt;如果把高尔夫球的凹点比作人生的伤痕，那么，失败、坎坷和挫折这些给人带来伤痕的东西，并不可怕。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>低头亦是一种能力</title>
+      <link>https://icoconuts.github.io/2010/04/06/dtysyznl/</link>
+      <pubDate>Tue, 06 Apr 2010 11:19:16 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/04/06/dtysyznl/</guid>
+      <description>&lt;p&gt;&lt;img class=&#34;smallimg&#34; alt=&#34;&#34; src=&#34;http://i39.tinypic.com/6galhw.jpg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;被称为美国之父的富兰克林，年轻时曾去拜访一位前辈。&lt;/p&gt;
+&lt;p&gt;年轻气盛的他，挺胸昂首迈着大步，进门撞在门框上，迎接他的前辈见此情景，笑笑说：&lt;/p&gt;
+&lt;p&gt;“很疼吗？可这将是你今天来访的最大收获。一个人活在世上，就必须时刻记住低头。”&lt;/p&gt;
+&lt;p&gt;无独有偶，有人问过苏格拉底：“你是天下最有学问的人，那么你说天与地之间的高度是多少？”&lt;/p&gt;
+&lt;p&gt;苏格拉底毫不迟疑地说：“三尺！”&lt;/p&gt;
+&lt;p&gt;那人不以为然：“我们每个人都五尺高，天与地之间只有三尺，那不是戳破苍穹？”&lt;/p&gt;
+&lt;p&gt;苏格拉底笑着说：“所以，凡是高度超过三尺的人，要长立于天地之间，就要懂得低头。”&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>写在清明</title>
+      <link>https://icoconuts.github.io/2010/04/05/fan/</link>
+      <pubDate>Mon, 05 Apr 2010 12:58:28 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/04/05/fan/</guid>
+      <description>清明去扫墓的机会实在太少了。 自清明成为法定假日以来，我也一直没机会去。 今年挺走运，不用值班。自然也不</description>
+    </item>
+    
+    <item>
+      <title>败给悲观</title>
+      <link>https://icoconuts.github.io/2010/04/05/bgbg/</link>
+      <pubDate>Mon, 05 Apr 2010 12:24:56 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/04/05/bgbg/</guid>
+      <description>很早以前，有一群印第安人被白人追赶，逃到了某个地方，他们的处境十分危险。 由于情况危急，酋长便把所有的</description>
+    </item>
+    
+    <item>
+      <title>同样一斤米</title>
+      <link>https://icoconuts.github.io/2010/04/04/tyyjm-2/</link>
+      <pubDate>Sun, 04 Apr 2010 07:47:58 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/04/04/tyyjm-2/</guid>
+      <description>&lt;p&gt;&lt;img class=&#34;smallimg&#34; src=&#34;http://i39.tinypic.com/6galhw.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;一青年向一禅师求教。&lt;/p&gt;
+&lt;p&gt;“大师，有人赞我是天才，将来必有一番作为；也有人骂我是笨蛋，一辈子不会有多大出息。依您看呢？”&lt;/p&gt;
+&lt;p&gt;“你是如何看待自己的？”禅师反问。&lt;/p&gt;
+&lt;p&gt;青年摇摇头，一脸茫然。&lt;/p&gt;
+&lt;p&gt;譬如同样一斤米，用不同眼光去看，它的价值也就迥然不同。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>再说一遍</title>
+      <link>https://icoconuts.github.io/2010/04/02/zsyb/</link>
+      <pubDate>Fri, 02 Apr 2010 13:16:24 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/04/02/zsyb/</guid>
+      <description>&lt;p&gt;&lt;img class=&#34;smallimg&#34; src=&#34;http://i39.tinypic.com/6galhw.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;幼儿园门口。&lt;/p&gt;
+&lt;p&gt;早上送孩子进园的家长很多，大人小孩，熙熙攘攘，你来我往，煞是热闹。&lt;/p&gt;
+&lt;p&gt;一位年轻的母亲把儿子从摩托车上抱下来，帮他整理了一下稍有些皱的衣服，然后对他说：“吃饭前一定要洗手呵。”&lt;/p&gt;
+&lt;p&gt;她知道儿子贪玩，手上会乱抓东西，很容易脏。&lt;/p&gt;
+&lt;p&gt;儿子听了，点点头，转身进了大门。那位母亲站在门外，又叫道：“吃饭前一定要洗手呵。”&lt;/p&gt;
+&lt;p&gt;儿子却头也没回，再看，已经不见了。&lt;/p&gt;
+&lt;p&gt;想起读中学时教我们历史的一位老师，他有一句口头禅，叫“再说一遍”。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>简单是一种方法</title>
+      <link>https://icoconuts.github.io/2010/04/02/jdsyzff/</link>
+      <pubDate>Fri, 02 Apr 2010 13:13:16 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/04/02/jdsyzff/</guid>
+      <description>&lt;p&gt;&lt;img class=&#34;smallimg&#34; src=&#34;http://i39.tinypic.com/6galhw.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;橄榄树嘲笑无花果树说：“你的叶子到冬天时就落光了，光秃秃的树枝真难看，哪像我终年翠绿，美丽无比。”&lt;/p&gt;
+&lt;p&gt;不久，一场大雪降临了，橄榄树身上都是翠绿的叶子，雪堆积在上面，最后由于重量太大把树枝压断了，橄榄树的美丽也遭到了破坏。&lt;/p&gt;
+&lt;p&gt;而无花果树由于叶子已经落尽了，全身简单，雪穿过树枝落在地上，结果无花果树安然无恙。&lt;/p&gt;
+&lt;p&gt;外表的美丽不一定适应环境，有时是一种负担，而且往往会为生存带来麻烦或灾难。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Twitter批量Follow/Unfollow-TwerpScan</title>
+      <link>https://icoconuts.github.io/2010/04/02/twerpscan-intro/</link>
+      <pubDate>Fri, 02 Apr 2010 12:59:52 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/04/02/twerpscan-intro/</guid>
+      <description>&lt;p&gt;&lt;img style=&#34;display: block; float: none; margin-left: auto; margin-right: auto;&#34; src=&#34;http://i44.tinypic.com/30ufrlu.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Twitter用久了后，following和follower的人数自然而然就会慢慢上去了。&lt;/p&gt;
+&lt;p&gt;这是个积累的过程。&lt;/p&gt;
+&lt;p&gt;但是，人渐渐多起来，有时候谁fo了你，而你有没有fo他，自己也理不清了。&lt;/p&gt;
+&lt;p&gt;还有就是fo了一段时间下来，觉得有些推自己完全不去关注，那这类人建议也去unfo了吧。&lt;/p&gt;
+&lt;p&gt;一来屏幕上清静，二来手机流量也可以省点~.~&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>居安思危</title>
+      <link>https://icoconuts.github.io/2010/04/01/jasw/</link>
+      <pubDate>Thu, 01 Apr 2010 11:01:35 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/04/01/jasw/</guid>
+      <description>&lt;p&gt;&lt;img class=&#34;smallimg&#34; src=&#34;http://i39.tinypic.com/6galhw.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;洪水未到先筑堤，豺狼未来先磨刀。&lt;/p&gt;
+&lt;p&gt;一只野狼卧在草上勤奋地磨牙，狐狸看到了，就对它说：“天气这么好，大家在休息娱乐，你也加入我们队伍中吧！”&lt;/p&gt;
+&lt;p&gt;野狼没有说话，继续磨牙，把它的牙齿磨得又尖又利。&lt;/p&gt;
+&lt;p&gt;狐狸奇怪地问道：“森林这么静，猎人和猎狗已经回家了，老虎也不在近处徘徊，又没有任何危险，你何必那么用劲磨牙呢？”&lt;/p&gt;
+&lt;p&gt;野狼停下来回答说：“我磨牙并不是为了娱乐，你想想，如果有一天我被猎人或老虎追逐，到那时，我想磨牙也来不及了。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>海贼王漫画580话打包下载</title>
+      <link>https://icoconuts.github.io/2010/04/01/onepiece-580/</link>
+      <pubDate>Thu, 01 Apr 2010 10:04:53 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/04/01/onepiece-580/</guid>
+      <description>海贼王One Piece漫画~第580话 终战</description>
+    </item>
+    
+    <item>
+      <title>大海里的船</title>
+      <link>https://icoconuts.github.io/2010/03/31/dhldc/</link>
+      <pubDate>Wed, 31 Mar 2010 11:18:52 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/03/31/dhldc/</guid>
+      <description>&lt;p&gt;&lt;img class=&#34;smallimg&#34; src=&#34;http://i39.tinypic.com/6galhw.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;在大海上航行的船没有不带伤的。&lt;/p&gt;
+&lt;p&gt;英国劳埃德保险公司曾从拍卖市场买下一艘船。&lt;/p&gt;
+&lt;p&gt;这艘船1894年下水，在大西洋上曾138次遭遇冰山，116次触礁，13次起火，207次被风暴扭断桅杆，然而它从没有沉没过。&lt;/p&gt;
+&lt;p&gt;劳埃德保险公司基于它不可思议的经历及在保费方面给带来的可观收益，最后决定把它从荷兰买回来捐给国家。&lt;/p&gt;
+&lt;p&gt;现在这艘船就停泊在英国萨伦港的国家船舶博物馆里。&lt;/p&gt;
+&lt;p&gt;不过，使这艘船名扬天下的却是一名来此观光的律师。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>高贵的灵魂</title>
+      <link>https://icoconuts.github.io/2010/03/30/ggdlh/</link>
+      <pubDate>Tue, 30 Mar 2010 04:28:10 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/03/30/ggdlh/</guid>
+      <description>&lt;p&gt;&lt;img class=&#34;smallimg&#34; src=&#34;http://i39.tinypic.com/6galhw.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;一次，在利西诺夫斯基公爵的庄园里，来了几位“尊贵”的客人。&lt;/p&gt;
+&lt;p&gt;这几个不是别人，正是侵占了维也纳的拿破仑军官。&lt;/p&gt;
+&lt;p&gt;公爵为了取悦这几位来宾，便非常客气地请求贝多芬为客人们演奏一曲。&lt;/p&gt;
+&lt;p&gt;但贝多芬断然地拒绝了。当公爵由请求转为要求的时候，贝多芬愤怒到了极点。&lt;/p&gt;
+&lt;p&gt;他一声不响，猛地推开客厅的门，在倾盆大雨中愤然离去。&lt;/p&gt;
+&lt;p&gt;回到住处，他把利西诺夫斯基公爵给他的胸像摔了个粉碎，并写了一封信：&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>困境即是赐予</title>
+      <link>https://icoconuts.github.io/2010/03/29/kjjscy/</link>
+      <pubDate>Mon, 29 Mar 2010 12:27:49 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/03/29/kjjscy/</guid>
+      <description>&lt;p&gt;&lt;img class=&#34;smallimg&#34; src=&#34;http://i39.tinypic.com/6galhw.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;一个障碍，就是一个新的已知条件，只要愿意，任何一个障碍，都会成为一个超越自我的契机。&lt;/p&gt;
+&lt;p&gt;有一天，素有森林之王之称的狮子，来到了天神面前：“我很感谢你赐给我如此雄壮威武的体格、如此强大无比的力气，让我有足够的能力统治这整座森林。”&lt;/p&gt;
+&lt;p&gt;天神听了，微笑地问：“但是这不是你今天来找我的目的吧！看起来你似乎为了某事而困扰呢！”&lt;/p&gt;
+&lt;p&gt;狮子轻轻吼了一声，说：“天神真是了解我啊！我今天来的确是有事相求。因为尽管我的能力再好，但是每天鸡鸣的时候，我总是会被鸡鸣声给吓醒。神啊！祈求您，再赐给我一个力量，让我不再被鸡鸣声给吓醒吧！”&lt;/p&gt;
+&lt;p&gt;天神笑道：“你去找大象吧，它会给你一个满意的答复的。”&lt;img src=&#34;http://127.0.0.1/wp-includes/js/tinymce/plugins/wordpress/img/trans.gif&#34; alt=&#34;&#34; title=&#34;More...&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>网站大搬家</title>
+      <link>https://icoconuts.github.io/2010/03/28/newhome/</link>
+      <pubDate>Sun, 28 Mar 2010 14:45:26 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/03/28/newhome/</guid>
+      <description>嗯，一次偶然的机会，问一位朋友@AndrewEus，他的空间哪买的，我也在考虑买个国外空间。 他竟非常</description>
+    </item>
+    
+    <item>
+      <title>海贼王漫画579话打包下载</title>
+      <link>https://icoconuts.github.io/2010/03/25/onepiece-579/</link>
+      <pubDate>Thu, 25 Mar 2010 03:44:00 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/03/25/onepiece-579/</guid>
+      <description>海贼王One Piece漫画~第579话 充满勇气的数秒 一句话，红发来了…越来越精彩了！！！</description>
+    </item>
+    
+    <item>
+      <title>三款Chrome上的Twitter客户端扩展</title>
+      <link>https://icoconuts.github.io/2010/03/23/3-twitter-clients-4-chrome/</link>
+      <pubDate>Tue, 23 Mar 2010 15:25:31 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/03/23/3-twitter-clients-4-chrome/</guid>
+      <description>&lt;p&gt;在不能用DestroyTwitter后，PC上上Twitter总感觉不太爽~~&lt;/p&gt;
+&lt;p&gt;虽然有网页版，但总觉得没有独立的客户端来得舒服。&lt;/p&gt;
+&lt;p&gt;FireFox不是很喜欢，也说不出什么理由。不然Tweetfox绝对是个不错的选择。&lt;/p&gt;
+&lt;p&gt;至于Chrome，开始支持插件后，一直在寻找关于Twitter扩展。&lt;/p&gt;
+&lt;p&gt;一共试用了以下三款。&lt;/p&gt;
+&lt;p&gt;1.&lt;a href=&#34;https://chrome.google.com/extensions/detail/aefaeloiencfjnaljicdoieoekoecmha?hl=en-us&#34;&gt;Metrist&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.&lt;a href=&#34;https://chrome.google.com/extensions/detail/encaiiljifbdbjlphpgpiimidegddhic?hl=en-us&#34;&gt;Chromed Bird&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.&lt;a href=&#34;https://chrome.google.com/extensions/detail/ffcbeckjmgmgigkmnhmgjplmomcpfall?hl=en-us&#34;&gt;Chrowety&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Metrist和Chromed Bird就不多做介绍了。&lt;/p&gt;
+&lt;p&gt;个人推荐使用&lt;a href=&#34;https://chrome.google.com/extensions/detail/ffcbeckjmgmgigkmnhmgjplmomcpfall?hl=en-us&#34;&gt;Chrowety&lt;/a&gt;！&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>谷歌，走了</title>
+      <link>https://icoconuts.github.io/2010/03/23/google-out-of-mlofchina/</link>
+      <pubDate>Tue, 23 Mar 2010 11:35:07 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/03/23/google-out-of-mlofchina/</guid>
+      <description>今天（2010年3月23日2时30分）,访问g.cn或者google.cn，都会自动跳转到googl</description>
+    </item>
+    
+    <item>
+      <title>转：Twitter 四周岁生日快乐！从 2006 年到今天</title>
+      <link>https://icoconuts.github.io/2010/03/21/twitter2006to2010/</link>
+      <pubDate>Sun, 21 Mar 2010 13:09:49 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/03/21/twitter2006to2010/</guid>
+      <description>今天是 2010 年 3 月 21 日。 猜猜今天是什么特别的节日？ 经常偷偷翻墙的你一定知道，今天是 Twitter 的四周岁生日！ 在 2006 年</description>
+    </item>
+    
+    <item>
+      <title>海贼王漫画578话打包下载</title>
+      <link>https://icoconuts.github.io/2010/03/19/onepiece-578/</link>
+      <pubDate>Fri, 19 Mar 2010 09:41:11 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/03/19/onepiece-578/</guid>
+      <description>海贼王One Piece漫画~第578话 寄予新时代之物</description>
+    </item>
+    
+    <item>
+      <title>无聊二月</title>
+      <link>https://icoconuts.github.io/2010/03/18/myfeb/</link>
+      <pubDate>Thu, 18 Mar 2010 11:09:25 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/03/18/myfeb/</guid>
+      <description>真不知道今年的天气是怎么回事，现在都三月中旬了，天气还是这鸟样。 不是冷，是时冷时热的问题！ 其实真不该</description>
+    </item>
+    
+    <item>
+      <title>海贼王漫画577话打包下载</title>
+      <link>https://icoconuts.github.io/2010/03/11/onepiece-577/</link>
+      <pubDate>Thu, 11 Mar 2010 10:00:22 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/03/11/onepiece-577/</guid>
+      <description>海贼王One Piece漫画~第577话 接踵而来的大事件 如果说576话，白胡子的死是个杯具，那577话</description>
+    </item>
+    
+    <item>
+      <title>推特中文推Twitese之分享到Twitter功能</title>
+      <link>https://icoconuts.github.io/2010/03/10/share-to-twitter/</link>
+      <pubDate>Wed, 10 Mar 2010 13:56:53 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/03/10/share-to-twitter/</guid>
+      <description>当你习惯了Twitter后，就会开始想分享任何你的东西。 比如，你正在做什么，你打算做什么，你身边发生</description>
+    </item>
+    
+    <item>
+      <title>海贼王漫画576话打包下载</title>
+      <link>https://icoconuts.github.io/2010/03/05/onepiece-576/</link>
+      <pubDate>Fri, 05 Mar 2010 09:31:56 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/03/05/onepiece-576/</guid>
+      <description>海贼王One Piece漫画~第576话 大海贼爱德华·纽盖特 随着黑胡子海贼团的出现，局势开始进入高潮了</description>
+    </item>
+    
+    <item>
+      <title>海贼王漫画553话-575话分集打包下载</title>
+      <link>https://icoconuts.github.io/2010/02/26/onepiece-553-575/</link>
+      <pubDate>Fri, 26 Feb 2010 13:43:52 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/02/26/onepiece-553-575/</guid>
+      <description>停发海贼王漫画快半年了，虽然这里没发，但一直没停着看海贼王。 当几集或是十几集漫画一起看的时候，那真是</description>
+    </item>
+    
+    <item>
+      <title>Opera Mobile 10 for S60试用</title>
+      <link>https://icoconuts.github.io/2010/02/23/opera-mobile-10/</link>
+      <pubDate>Tue, 23 Feb 2010 12:33:16 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/02/23/opera-mobile-10/</guid>
+      <description>&lt;p&gt;三三上装的浏览器已经很多啦，像UC，Go，Skyfire，还有Opera Mini。&lt;/p&gt;
+&lt;p&gt;今天看到CB上关于&lt;a href=&#34;http://www.cnbeta.com/articles/104750.htm&#34; target=&#34;_blank&#34;&gt;Opera Mobile 10 for S60 发布&lt;/a&gt;的介绍，马上下了个试试~~&lt;/p&gt;
+&lt;p&gt;于是，写个试用感受，分享给大家。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1.关于Opera&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Opera，一直是个传说。&lt;/p&gt;
+&lt;p&gt;Opera，她既大名鼎鼎，又是个小众软件。她的用户忠诚度非常高，而且用户群非常稳定。&lt;/p&gt;
+&lt;p&gt;Opera，她是浏览器技术的领军者，但把这些技术发扬光大，为世人所知的并非是她。&lt;/p&gt;
+&lt;p&gt;Opera，她一直是“千年老二”。在这么多年，大大小小的浏览器技术测评中，她一直存在着，但她一直是那些抢文的陪衬。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2.关于Opera Mini&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在早些年，手机浏览器市场竞争没这么激烈，Opera Mini绝对是当时的佼佼者。我一直用到了4.2国际版。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3.关于Opera Mobile&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Opera专门为智能手机设计的产品，以前用Nokia 6220的时候，只能用用Opera Mini。&lt;/p&gt;
+&lt;p&gt;现在用上三三了，终于可以享受Opera Mobile带来的全新体验了。&lt;/p&gt;
+&lt;p&gt;更多关于Opera Mobile的介绍，就点&lt;a href=&#34;http://www.opera.com/mobile/&#34; target=&#34;_blank&#34;&gt;官网&lt;/a&gt;吧。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>我的春节假日</title>
+      <link>https://icoconuts.github.io/2010/02/17/hncj/</link>
+      <pubDate>Wed, 17 Feb 2010 11:21:44 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/02/17/hncj/</guid>
+      <description>春节是俺们国家的传统节日，春节，对每个人来说都是非常开心的。 因为无论是学生、老师、工人、农民、白领、</description>
+    </item>
+    
+    <item>
+      <title>欢送老牛，喜迎虎仔</title>
+      <link>https://icoconuts.github.io/2010/02/12/niu-end/</link>
+      <pubDate>Fri, 12 Feb 2010 05:47:25 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/02/12/niu-end/</guid>
+      <description>话说牛年即将结束了啊，一年忙碌的工作也将从明天开始暂停几日。 牛年，对我来说是平凡的一年。 没有泪水，更</description>
+    </item>
+    
+    <item>
+      <title>看看新电影</title>
+      <link>https://icoconuts.github.io/2010/02/09/talkaboutnewmovies/</link>
+      <pubDate>Tue, 09 Feb 2010 11:36:13 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/02/09/talkaboutnewmovies/</guid>
+      <description>&lt;p&gt;昨天聊完了大学时看过的电影，今天聊聊工作后到现在看过的吧。&lt;/p&gt;
+&lt;p&gt;工作后，住宿在单位，工作相对轻松，还有很多的时间玩电脑。&lt;/p&gt;
+&lt;p&gt;2008年12月份后买了&lt;a href=&#34;http://127.0.0.1/2008/10/25/acer-aspire-4730zg321g16cn/&#34; target=&#34;_blank&#34;&gt;电脑&lt;/a&gt;后，心情变了，也没有什么激情再去那么积极的做皮肤，做主题。&lt;/p&gt;
+&lt;p&gt;相对的，似乎进入了一个迷茫期。&lt;/p&gt;
+&lt;p&gt;那时候，除了还坚持看One Piece，突发奇想想看韩剧了，所以一发不可收拾。&lt;/p&gt;
+&lt;p&gt;先是春夏秋冬四部曲，然后接二连三又看了许多经典的，《My Girl》、《豪杰春香》挺喜欢的。&lt;/p&gt;
+&lt;p&gt;好了，还是不扯这了，扯扯电影吧。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p class=&#34;bigger&#34;&gt;
+  1.魔戒3部曲/The Lord of the Rings
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>看看电影</title>
+      <link>https://icoconuts.github.io/2010/02/08/talkaboutmoive1/</link>
+      <pubDate>Mon, 08 Feb 2010 14:10:47 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/02/08/talkaboutmoive1/</guid>
+      <description>本人一直不是个电影迷。 读大学前，一直喜欢看电视，电视就这么几个台，当时没装有线，所以有时候放的电影要</description>
+    </item>
+    
+    <item>
+      <title>博客更名：点滴快乐</title>
+      <link>https://icoconuts.github.io/2010/02/07/lhappy/</link>
+      <pubDate>Sun, 07 Feb 2010 11:54:44 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/02/07/lhappy/</guid>
+      <description>1月3日起，博客更名：点滴快乐，同时俺的QQ昵称也改回elion。 “点滴快乐”，是“角落的遗忘”之前</description>
+    </item>
+    
+    <item>
+      <title>元旦假期之一</title>
+      <link>https://icoconuts.github.io/2010/01/01/20101st/</link>
+      <pubDate>Fri, 01 Jan 2010 15:59:27 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2010/01/01/20101st/</guid>
+      <description>又是一年的到来，按twitter上一朋友的话说，“对于各位能撑到2010年我表示祝贺！” 今年元旦很幸</description>
+    </item>
+    
+    <item>
+      <title>来DIY手机铃声吧</title>
+      <link>https://icoconuts.github.io/2009/12/30/diyphonerings/</link>
+      <pubDate>Wed, 30 Dec 2009 15:57:47 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/12/30/diyphonerings/</guid>
+      <description>深终于换掉那部当时很高档的手机(传说《流星花园》里仔仔用的手机)了~~ 迎接的是诺诺的第一款触屏手机–</description>
+    </item>
+    
+    <item>
+      <title>换了个手机铃声</title>
+      <link>https://icoconuts.github.io/2009/12/10/theme-song-of-iris/</link>
+      <pubDate>Thu, 10 Dec 2009 11:54:45 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/12/10/theme-song-of-iris/</guid>
+      <description>买了三三后的第一件事就是换了个铃声， 那时候正在看蓝色生死恋。 哇，那音乐超棒~~ 马上做成手机铃声了，一</description>
+    </item>
+    
+    <item>
+      <title>本本一周年</title>
+      <link>https://icoconuts.github.io/2009/12/06/mynotebook/</link>
+      <pubDate>Sun, 06 Dec 2009 14:37:23 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/12/06/mynotebook/</guid>
+      <description>不知不觉的，我的ACER已经买了整整一年了。 现在想想一年里，我似乎没有以前那么充分地利用电脑了。 PS</description>
+    </item>
+    
+    <item>
+      <title>十-十二月记</title>
+      <link>https://icoconuts.github.io/2009/12/05/octode/</link>
+      <pubDate>Sat, 05 Dec 2009 13:23:58 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/12/05/octode/</guid>
+      <description>似乎是没有什么动力让我继续写日志了。 但总觉得应该让以后回忆的时候，看着这些文字能想起这段时间做过什么</description>
+    </item>
+    
+    <item>
+      <title>从角落归来（二）</title>
+      <link>https://icoconuts.github.io/2009/10/01/newlife/</link>
+      <pubDate>Thu, 01 Oct 2009 14:07:50 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/10/01/newlife/</guid>
+      <description>7. 学车 自从知道要工作调动了后，觉得最麻烦的事就是学车了。 因为上机考试都已经过了，那退钱的可能性也不大</description>
+    </item>
+    
+    <item>
+      <title>从角落归来（一）</title>
+      <link>https://icoconuts.github.io/2009/09/29/donotfeget/</link>
+      <pubDate>Tue, 29 Sep 2009 04:50:28 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/09/29/donotfeget/</guid>
+      <description>e,好久没写日志了。 现在不知道从何说起了。 首页上可以看到8.3日是驾校考试，这个还有点印象。 今天是9</description>
+    </item>
+    
+    <item>
+      <title>转:OnePiece角色人物原型汇总(不断更新)</title>
+      <link>https://icoconuts.github.io/2009/08/04/onepiece-people/</link>
+      <pubDate>Tue, 04 Aug 2009 11:52:04 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/08/04/onepiece-people/</guid>
+      <description>在百度贴吧看到这么一帖子，觉得真是要拜拜OP作者WT，他实在是太强大了。 旦凡能创作出伟大动漫作品的人</description>
+    </item>
+    
+    <item>
+      <title>明天驾校笔试</title>
+      <link>https://icoconuts.github.io/2009/08/03/jxks/</link>
+      <pubDate>Mon, 03 Aug 2009 14:22:51 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/08/03/jxks/</guid>
+      <description>明天请个小假，去嘉兴参加驾校的笔试~~~~ 应该能通过吧。。。 但想到我姐姐和阿姨的满分，我还是有点压力</description>
+    </item>
+    
+    <item>
+      <title>海贼王漫画552集打包下载</title>
+      <link>https://icoconuts.github.io/2009/08/03/onepiece-552/</link>
+      <pubDate>Mon, 03 Aug 2009 13:47:43 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/08/03/onepiece-552/</guid>
+      <description>来源：爱在线漫画-海贼王</description>
+    </item>
+    
+    <item>
+      <title>好像要到年休了</title>
+      <link>https://icoconuts.github.io/2009/07/26/annual-leave/</link>
+      <pubDate>Sun, 26 Jul 2009 09:31:41 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/07/26/annual-leave/</guid>
+      <description>去年9月份收到实习通知，到去年12月1日签订工作合同。 眨眼间，半年，甚至快一年了。 刚开始工作的时候，</description>
+    </item>
+    
+    <item>
+      <title>海贼王漫画_551集打包下载</title>
+      <link>https://icoconuts.github.io/2009/07/25/onepiece-551/</link>
+      <pubDate>Sat, 25 Jul 2009 08:09:45 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/07/25/onepiece-551/</guid>
+      <description>海贼王漫画_551集打包下载 PS（Picase相册也被和谐了~~Flickr又好了？我无语了，继续无</description>
+    </item>
+    
+    <item>
+      <title>海贼王漫画_550集打包下载</title>
+      <link>https://icoconuts.github.io/2009/07/24/onepiece-550/</link>
+      <pubDate>Fri, 24 Jul 2009 04:06:51 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/07/24/onepiece-550/</guid>
+      <description>海贼王漫画_550集打包下载 PS（Picase相册也被和谐了~~我已经无语了！！以不贴图做无言的抗争</description>
+    </item>
+    
+    <item>
+      <title>用盘子来表达…</title>
+      <link>https://icoconuts.github.io/2009/07/22/style-dish/</link>
+      <pubDate>Wed, 22 Jul 2009 04:18:28 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/07/22/style-dish/</guid>
+      <description>&lt;p&gt;看看有头脑的人就是不一样，原本就是一个常见的透明的盘子。&lt;br&gt;
+加上一点点创意–底部加上凹下去的单词或短语。&lt;br&gt;
+借助笔，你可以把想要选择的那个短语周围涂抹成红色，一句话就显现出来。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>我回来了</title>
+      <link>https://icoconuts.github.io/2009/07/21/back-2/</link>
+      <pubDate>Tue, 21 Jul 2009 15:05:40 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/07/21/back-2/</guid>
+      <description>距上次写的日记正好是21天–3个星期。 我想说，终于结束了。 哈哈~~~~ 这次的社会培训收获还是很多的。</description>
+    </item>
+    
+    <item>
+      <title>创意生活系列-理线器</title>
+      <link>https://icoconuts.github.io/2009/07/10/style-2/</link>
+      <pubDate>Fri, 10 Jul 2009 12:53:01 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/07/10/style-2/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://www.bluelounge.com/images/BL_Cabledrop_TTL.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>海贼王漫画_549集打包下载</title>
+      <link>https://icoconuts.github.io/2009/07/03/onepiece-549/</link>
+      <pubDate>Fri, 03 Jul 2009 10:00:01 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/07/03/onepiece-549/</guid>
+      <description>来源：爱在线漫画</description>
+    </item>
+    
+    <item>
+      <title>行走于人世间</title>
+      <link>https://icoconuts.github.io/2009/06/30/goonwalk/</link>
+      <pubDate>Tue, 30 Jun 2009 03:52:30 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/06/30/goonwalk/</guid>
+      <description>不知道用什么标题来形容，那么就借了一位好朋友的一篇日志题目。 最近工作很忙，心情也一直不好。 今天早上更</description>
+    </item>
+    
+    <item>
+      <title>海贼王漫画_548集打包下载</title>
+      <link>https://icoconuts.github.io/2009/06/26/onepiece-548/</link>
+      <pubDate>Fri, 26 Jun 2009 10:29:48 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/06/26/onepiece-548/</guid>
+      <description>来源：爱在线漫画-海贼王 在线观看海贼王548话：海贼王548话 更多在线漫画资源请看：爱在线漫画</description>
+    </item>
+    
+    <item>
+      <title>海贼王漫画_547集打包下载</title>
+      <link>https://icoconuts.github.io/2009/06/26/onepiece-547/</link>
+      <pubDate>Fri, 26 Jun 2009 10:27:57 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/06/26/onepiece-547/</guid>
+      <description>来源：爱在线漫画-海贼王 在线观看海贼王547话：海贼王547话 更多在线漫画资源请看：爱在线漫画</description>
+    </item>
+    
+    <item>
+      <title>WP分页插件:Paginator让分页导航更直观</title>
+      <link>https://icoconuts.github.io/2009/06/16/wp-paginator/</link>
+      <pubDate>Tue, 16 Jun 2009 13:35:32 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/06/16/wp-paginator/</guid>
+      <description>博客日志越写越多，产生的页面也慢慢多起来了。之前一直用的页面导航是:Pagenavi。 它虽然比上一页</description>
+    </item>
+    
+    <item>
+      <title>吉他造型镶宝石U盘挂饰</title>
+      <link>https://icoconuts.github.io/2009/06/13/guitar-usbdriver/</link>
+      <pubDate>Sat, 13 Jun 2009 04:40:36 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/06/13/guitar-usbdriver/</guid>
+      <description>&lt;p&gt;吉它造型，外加镶嵌宝石的U盘见过没有？&lt;/p&gt;
+&lt;p&gt;估计戴上这个，可以增加不少眼球！&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>WordPress升级到2.8版本</title>
+      <link>https://icoconuts.github.io/2009/06/12/wordpress2-8/</link>
+      <pubDate>Fri, 12 Jun 2009 14:23:59 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/06/12/wordpress2-8/</guid>
+      <description>昨天在CB上看到WordPress升级到2.8版本了，但在WP的后台，却一直没看到升级提示。 还记得W</description>
+    </item>
+    
+    <item>
+      <title>海贼王漫画_546集打包下载</title>
+      <link>https://icoconuts.github.io/2009/06/12/onepiece-546/</link>
+      <pubDate>Fri, 12 Jun 2009 05:43:04 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/06/12/onepiece-546/</guid>
+      <description>来源：爱在线漫画-海贼王 在线观看海贼王546话：海贼王546话 更多在线漫画资源请看：爱在线漫画</description>
+    </item>
+    
+    <item>
+      <title>Twitter相关指令的新手教程</title>
+      <link>https://icoconuts.github.io/2009/06/12/twitter-begginer/</link>
+      <pubDate>Fri, 12 Jun 2009 05:03:04 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/06/12/twitter-begginer/</guid>
+      <description>&lt;p&gt;自从用上Twitter，感觉越来越喜欢它了。&lt;/p&gt;
+&lt;p&gt;之前&lt;a href=&#34;http://127.0.0.1/2009/03/29/twitter-intro/&#34; target=&#34;_blank&#34;&gt;介绍过twitter&lt;/a&gt;,今天从ifanr上转一个关于twitter相关指令功能的教程。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1.Twitter的基本功能，就是4个&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;自述（tweet，简称T），也叫更新状态（update），类似IM上的签名，向网络广播你的所思所想，所做所在。 &lt;span style=&#34;color: #ff0000;&#34;&gt;(是最基本的功能之一！)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;在官方web页面上显示就是：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;办公室里收单位的无线信号，非常差。时断时连的，唉。。。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/elion815/status/2124384616&#34;&gt;about 4 hours ago&lt;/a&gt; from &lt;a href=&#34;http://mobileways.de/gravity&#34;&gt;Gravity&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;此Gravity就是此条tweet的发出端。&lt;/p&gt;
+&lt;p&gt;转述（Retweet，简称RT），你可以理解为自己把别人的话重新tweet一下，所以叫Retweet。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>E63之新手上路之游戏篇</title>
+      <link>https://icoconuts.github.io/2009/06/11/e63-game/</link>
+      <pubDate>Thu, 11 Jun 2009 12:00:40 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/06/11/e63-game/</guid>
+      <description>之前用nokia 6220的时候，看着别人的智能机玩的游戏都非常羡慕。 而自己却只能玩玩象棋，五子棋什么</description>
+    </item>
+    
+    <item>
+      <title>灭火器也可以这么鲜艳</title>
+      <link>https://icoconuts.github.io/2009/06/11/colorful-fire-extinguisher/</link>
+      <pubDate>Thu, 11 Jun 2009 04:42:22 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/06/11/colorful-fire-extinguisher/</guid>
+      <description>&lt;p&gt;本文转自：&lt;a href=&#34;http://since1984.cn/blog/y2009/fire-design.html&#34;&gt;设计｜生活｜发现新鲜&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;灭火器，在国内似乎只在各种场所出现。但在国外，很多现代家庭都会配备一支灭火器，&lt;/p&gt;
+&lt;p&gt;在公共场所，灭火器为了体现它的特殊性，必须采用统一的外观和色彩;而在家庭，这一点就显得不那么必要了。&lt;/p&gt;
+&lt;p&gt;法国 &lt;a href=&#34;http://www.fire-design.fr/epages/270867.sf&#34; target=&#34;_blank&#34;&gt;fire design&lt;/a&gt; 公司设计的有着鲜艳色彩和丰富图案的个性灭火器，能让灭火器成为一件富有艺术气息的装饰品，让更多的家庭愿意把灭火器带回家。&lt;/p&gt;
+&lt;p&gt;跳转后见图。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>E63之新手上路六（常用软件介绍）</title>
+      <link>https://icoconuts.github.io/2009/06/05/e63-6th/</link>
+      <pubDate>Fri, 05 Jun 2009 13:42:19 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/06/05/e63-6th/</guid>
+      <description>&lt;p&gt;上期介绍了三三上系统的软件，也不是很全，以后再慢慢补。&lt;/p&gt;
+&lt;p&gt;这期主要介绍几个最常用最实用的几款软件。&lt;/p&gt;
+&lt;p&gt;一.QQ&lt;/p&gt;
+&lt;p&gt;最新版是&lt;a href=&#34;http://mobile.qq.com:8080/web_mobile/software/QQ2008_Build064_3rd.sisx?g_c=0&#34;&gt;QQ2008 Build064&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;不多介绍了，这年头，谁不装QQ？&lt;/p&gt;
+&lt;p&gt;虽然论坛上有许多美化版本，我试用了一下，主要修改了一些图标和声音，其它也没什么。&lt;/p&gt;
+&lt;p&gt;所以我不是选择了官方版本。&lt;/p&gt;
+&lt;p&gt;进入&lt;a href=&#34;http://mobile.qq.com/&#34;&gt;手机QQ&lt;/a&gt;,选择nokia的E71版本,可能由于国内市场E63没有上市，列表里没有它的身影。&lt;/p&gt;
+&lt;p&gt;不过没关系，E71的系统是一样的，（所以记得一般E71能用的软件，三三也都能用！！）&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Gmail，我如何介绍你？</title>
+      <link>https://icoconuts.github.io/2009/06/05/ilovegmail/</link>
+      <pubDate>Fri, 05 Jun 2009 11:50:06 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/06/05/ilovegmail/</guid>
+      <description>Gmail,它从一开始就注定不是一款简单的Email客户端。 作为Google最伟大的产品之一，Gma</description>
+    </item>
+    
+    <item>
+      <title>海贼王漫画_545集打包下载</title>
+      <link>https://icoconuts.github.io/2009/06/05/onepiece-545/</link>
+      <pubDate>Fri, 05 Jun 2009 11:04:28 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/06/05/onepiece-545/</guid>
+      <description>来源：爱在线漫画-海贼王 在线观看海贼王545话：海贼王545话 更多在线漫画资源请看：爱在线漫画</description>
+    </item>
+    
+    <item>
+      <title>Google AdSense的信件终于到了</title>
+      <link>https://icoconuts.github.io/2009/06/04/google-adsense-pin/</link>
+      <pubDate>Thu, 04 Jun 2009 13:41:18 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/06/04/google-adsense-pin/</guid>
+      <description>盼了一个多月，Google AdSense寄来的PIN码确认信件终于到了。 早上同事告诉我说你美国寄来的</description>
+    </item>
+    
+    <item>
+      <title>《何以笙箫默》读后感（乱）</title>
+      <link>https://icoconuts.github.io/2009/06/04/hysxm/</link>
+      <pubDate>Thu, 04 Jun 2009 13:03:15 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/06/04/hysxm/</guid>
+      <description>《何以笙箫默》 第一次看到这书名，感觉很有文学的味道（其实就是难念，看不懂-_-”’）。 嗯，这小说是昨</description>
+    </item>
+    
+    <item>
+      <title>儿时的经典动画片大串烧二</title>
+      <link>https://icoconuts.github.io/2009/06/02/rsjdddp2/</link>
+      <pubDate>Tue, 02 Jun 2009 04:52:36 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/06/02/rsjdddp2/</guid>
+      <description>终于出第二部了，感觉没第一部经典，不过也算得上是佳品！！</description>
+    </item>
+    
+    <item>
+      <title>NOKIA E63黑色版为E63添加更多吸引力</title>
+      <link>https://icoconuts.github.io/2009/05/30/e63-black/</link>
+      <pubDate>Sat, 30 May 2009 07:10:59 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/05/30/e63-black/</guid>
+      <description>关于三三,已经在这里介绍过了，不过在5月初NOKIA欧洲E63官方主页上增加了黑色版本，目前国内市场</description>
+    </item>
+    
+    <item>
+      <title>海贼王漫画_544集打包下载</title>
+      <link>https://icoconuts.github.io/2009/05/30/onepiece-54/</link>
+      <pubDate>Sat, 30 May 2009 06:08:57 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/05/30/onepiece-54/</guid>
+      <description>来源：爱在线漫画-海贼王 在线观看海贼王544话：海贼王544话 更多在线漫画资源请看：爱在线漫画</description>
+    </item>
+    
+    <item>
+      <title>Windows 7壁纸大放送</title>
+      <link>https://icoconuts.github.io/2009/05/26/windows-7-wallpaper/</link>
+      <pubDate>Tue, 26 May 2009 13:02:22 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/05/26/windows-7-wallpaper/</guid>
+      <description>&lt;p&gt;Windows 7壁纸大放送(9pics)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.deviantart.com/deviation/116811472/&#34;&gt;Windows 7 Logon Reloaded&lt;/a&gt; by ~&lt;a href=&#34;http://tinytimscrutches.deviantart.com/&#34;&gt;tinytimscrutches&lt;/a&gt;{.u} on &lt;a href=&#34;http://www.deviantart.com&#34;&gt;deviant&lt;/a&gt;&lt;a href=&#34;http://www.deviantart.com&#34;&gt;ART&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>E63之新手上路五（系统软件介绍）</title>
+      <link>https://icoconuts.github.io/2009/05/26/e63-5th/</link>
+      <pubDate>Tue, 26 May 2009 11:23:13 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/05/26/e63-5th/</guid>
+      <description>&lt;p&gt;这期开始介绍三三上常用的软件。我是个软件狂，估计要分好几期。&lt;/p&gt;
+&lt;p&gt;一.来电通&lt;/p&gt;
+&lt;p&gt;最新版是&lt;a href=&#34;http://127.0.0.1/2009/05/26/e63-5th/#download&#34;&gt;2.61.1&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;S60软件中的一个巨作,可以根据号码,短信识别号码归属地,统计短信收发,来电大头贴等!&lt;/p&gt;
+&lt;p&gt;其具体特点：&lt;/p&gt;
+&lt;p&gt;查询来电或去电的号码归属地，号码类型；&lt;/p&gt;
+&lt;p&gt;查询通讯记录号码归属地；&lt;/p&gt;
+&lt;p&gt;查询信息号码归属地；&lt;/p&gt;
+&lt;p&gt;可以设置提示框的显示风格、字体、边距、颜色、位置、背景图片、透明度等；&lt;/p&gt;
+&lt;p&gt;对未接来电和未读短信进行提醒；&lt;/p&gt;
+&lt;p&gt;通话时间提醒；查询国际区号；查询常用热线电话；&lt;/p&gt;
+&lt;p&gt;来电/去电大头贴；&lt;/p&gt;
+&lt;p&gt;IP电话拨号；&lt;/p&gt;
+&lt;p&gt;可以自定义号码库，根据需要定义自己的来电/去电查询数据库；&lt;/p&gt;
+&lt;p&gt;信息计数功能，记录收发短信/彩信的数量；&lt;/p&gt;
+&lt;p&gt;在线更新数据库（支持WIFI）；&lt;/p&gt;
+&lt;p&gt;短信提示功能，可以直接进行回复、转发、删除、转存等操作。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>海贼王漫画_543集打包下载</title>
+      <link>https://icoconuts.github.io/2009/05/22/onepiece-543/</link>
+      <pubDate>Thu, 21 May 2009 22:38:03 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/05/22/onepiece-543/</guid>
+      <description>来源：爱在线漫画-海贼王 在线观看海贼王543话：海贼王543话 更多在线漫画资源请看：爱在线漫画</description>
+    </item>
+    
+    <item>
+      <title>生活是需要方向的</title>
+      <link>https://icoconuts.github.io/2009/05/19/direction/</link>
+      <pubDate>Tue, 19 May 2009 11:25:29 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/05/19/direction/</guid>
+      <description>感觉很久没写点什么了，主要原因应该是似乎少了点动力。:) 嗯，上个星期工作好像很忙，所以一直没写什么。</description>
+    </item>
+    
+    <item>
+      <title>海贼王漫画_542集打包下载</title>
+      <link>https://icoconuts.github.io/2009/05/14/onepiece-542/</link>
+      <pubDate>Thu, 14 May 2009 14:15:47 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/05/14/onepiece-542/</guid>
+      <description>点我下载</description>
+    </item>
+    
+    <item>
+      <title>超级糗事–我不信你不笑</title>
+      <link>https://icoconuts.github.io/2009/05/14/20qiushi/</link>
+      <pubDate>Wed, 13 May 2009 21:51:40 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/05/14/20qiushi/</guid>
+      <description>&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;嗯，一朋友失恋了。想给她讲个笑话的，但一直想不出什么笑话，想起N年前看过有一网站，记录的很多糗事。这回一看，网站依旧很火。&lt;/p&gt;
+&lt;p&gt;结果忘了理那朋友，自己一个人看的入迷了。&lt;/p&gt;
+&lt;p&gt;笑的快不行了。我不信以下20条看完，你还不笑的。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;1.初中时对星座特别热衷，一天我们几个女生正津津有味地讨论着，一男生走来，我抓着他就问：“你什么座的？”&lt;br&gt;
+该男生愣了3秒钟，喃喃道：&lt;br&gt;
+“肉做的啊……”&lt;br&gt;
+雷！！&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>20090512</title>
+      <link>https://icoconuts.github.io/2009/05/12/20090512/</link>
+      <pubDate>Tue, 12 May 2009 07:24:04 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/05/12/20090512/</guid>
+      <description>纪念5.12，本博像去年一样，换上灰装。 今天，各大门户的头条，都以“纪念汶川地震一周年”为头条，基本</description>
+    </item>
+    
+    <item>
+      <title>E63之新手上路四（WLAN上网）</title>
+      <link>https://icoconuts.github.io/2009/05/11/e63-4th/</link>
+      <pubDate>Mon, 11 May 2009 14:58:28 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/05/11/e63-4th/</guid>
+      <description>&lt;p&gt;为什么买水货？买水货，一个是因为便宜，更重要的是因为它有WiFi!!!&lt;/p&gt;
+&lt;p&gt;同样，水货的三三也是支持WiFi的。目前还不知道会不会在中国大陆上市。但如果上市的话，WiFi功能也是肯定被阉割掉的，所以，建议打算购机的朋友还是买水货吧。&lt;/p&gt;
+&lt;p&gt;嗯，说了这么多，先对一些名词做个解释。&lt;/p&gt;
+&lt;p&gt;1.WLAN是什么？&lt;/p&gt;
+&lt;p&gt;WLAN即Wireless Local Area Networks，无线局域网的简称。&lt;/p&gt;
+&lt;p&gt;标准解释是指应用无线通信技术将计算机设备互联起来，构成可以互相通信和实现资源共享的网络体系。&lt;/p&gt;
+&lt;p&gt;2.WiFi又是什么？&lt;/p&gt;
+&lt;p&gt;WiFi是Wireless Fidelity，又称802.11b协议。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>三款基于Adobe AIR的Twitter客户端</title>
+      <link>https://icoconuts.github.io/2009/05/09/air-twitter/</link>
+      <pubDate>Sat, 09 May 2009 10:21:27 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/05/09/air-twitter/</guid>
+      <description>&lt;p&gt;前面介绍过&lt;a href=&#34;http://127.0.0.1/2009/03/29/twitter-intro/&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt;， 但由于Twitter的&lt;a href=&#34;http://twitter.com/elion815&#34; target=&#34;_blank&#34;&gt;网页版&lt;/a&gt;功能太过简单，甚至连基本的RT都没有，非常的不方便。&lt;/p&gt;
+&lt;p&gt;在Twtitterr的第三方软件中，我试用过许多，觉得还是基于Adobe AIR的工具最方便，功能也强大。&lt;/p&gt;
+&lt;p&gt;要安装AIR程序，就必须安装&lt;a title=&#34;点击下载&#34; href=&#34;http://www.adobe.com/cn/products/air/&#34; target=&#34;_blank&#34;&gt;Adobe AIR&lt;/a&gt;。&lt;br&gt;
+AdobeR AIR™ 是跨作业系统的执行阶段, 可让开发人员使用熟悉的网页工具, 包括 HTML、Ajax、Adobe FlashR 和 Adobe FlexR 来建立可部署至桌面的多样化网际网路应用程式 (Rich Internet Applications)。有了 Adobe AIR, 开发人员就可以运用现有的技巧和工具来建立引人入胜的视觉化多样化应用程式, 兼具桌面的丰富体验与网路的广泛触及性的优点。&lt;/p&gt;
+&lt;p&gt;—————————————————————————————————————————————————————————–&lt;/p&gt;
+&lt;p&gt;1.&lt;a href=&#34;http://www.twhirl.org/&#34; target=&#34;_blank&#34;&gt;Twhirl&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Twhirl在Twitter的第三方软件里，应该算是大名鼎鼎了。关于它的介绍也是到处都是。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>E63之新手上路三（基本设置）</title>
+      <link>https://icoconuts.github.io/2009/05/07/e63-3rd/</link>
+      <pubDate>Thu, 07 May 2009 13:06:54 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/05/07/e63-3rd/</guid>
+      <description>&lt;p&gt;自从手机&lt;a href=&#34;http://127.0.0.1/2009/04/27/e63-2nd/&#34; target=&#34;_blank&#34;&gt;破解&lt;/a&gt;了后，我才正式开始把玩起三三。&lt;/p&gt;
+&lt;p&gt;由于之前用过nokia，如基本的开解锁、情景模式、铃声设置等基本的还是没问题的。&lt;/p&gt;
+&lt;p&gt;但是关于类似按键设置，主屏幕程序设置等等，还是没一下子摸索出来。&lt;/p&gt;
+&lt;p&gt;由于E63在大陆没有发行，我的新加坡版说明书全是英文，没什么兴致看。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>五一没过好</title>
+      <link>https://icoconuts.github.io/2009/05/07/after51/</link>
+      <pubDate>Thu, 07 May 2009 05:37:24 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/05/07/after51/</guid>
+      <description>五一过得好快。我最终也还是没想按着自己想的去这去那。 有时候，想想就是想想，始终成不了事实。 五一，从爬</description>
+    </item>
+    
+    <item>
+      <title>海贼王漫画_541集打包下载</title>
+      <link>https://icoconuts.github.io/2009/05/06/onepiece-541/</link>
+      <pubDate>Wed, 06 May 2009 04:08:42 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/05/06/onepiece-541/</guid>
+      <description>来源：爱在线漫画-海贼王 在线观看海贼王541话：海贼王541话 更多在线漫画资源请看：爱在线漫画</description>
+    </item>
+    
+    <item>
+      <title>五一快乐</title>
+      <link>https://icoconuts.github.io/2009/04/30/51/</link>
+      <pubDate>Thu, 30 Apr 2009 14:22:45 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/04/30/51/</guid>
+      <description>翻了前一篇日记，快是半个月前的了。 这段时间一直在写E63的相关经验交流的东西，可能不感兴趣的比感兴趣</description>
+    </item>
+    
+    <item>
+      <title>新奇可爱–台湾Bone系列U盘</title>
+      <link>https://icoconuts.github.io/2009/04/29/bone-driver/</link>
+      <pubDate>Wed, 29 Apr 2009 05:05:33 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/04/29/bone-driver/</guid>
+      <description>&lt;p&gt;自从上海回来丢了U盘，我不得不考虑这回要买一个不会再丢的U盘了。&lt;/p&gt;
+&lt;p&gt;回想造成U盘丢失的原因：&lt;/p&gt;
+&lt;p&gt;1.都是放在口袋里，或是随便扔在某个角落里了。&lt;/p&gt;
+&lt;p&gt;2.认为是便宜货，随处扔。&lt;/p&gt;
+&lt;p&gt;现在买了三三，想买一个小巧好看的U盘挂在手机上。&lt;/p&gt;
+&lt;p&gt;前几天在桐城上看到一篇文章。介绍新奇U盘的。这几天找了一下，确实很不错。&lt;/p&gt;
+&lt;p&gt;但是有点贵。。。。。&lt;/p&gt;
+&lt;p&gt;先看看BONE的品牌：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;BONE品牌精神&lt;/p&gt;
+&lt;p&gt;逃离单调 创意生活&lt;/p&gt;
+&lt;p&gt;没有人在乎我们的世界塞满了东西，&lt;br&gt;
+生活的灵感没办法起作用，因为那些东西是…”单调”。&lt;br&gt;
+我们塑造了Bone，是要打开通往新世界的门，&lt;br&gt;
+让逃离”单调”的想法弥漫在生活里的每个角落。&lt;/p&gt;
+&lt;p&gt;Bone希望创造一些人们真正想要的东西，&lt;br&gt;
+跳脱平凡的想法，重组每天生活的心情，&lt;br&gt;
+加入一些设计的趣味让心跳加速，唤醒对生活的感受。&lt;/p&gt;
+&lt;p&gt;当体验到的时候并不只是发出第一个惊呼声而已，&lt;br&gt;
+在持续的体验中你会慢慢感受到生活改变的不同，而这是一个美好的感觉！&lt;br&gt;
+这就是我们说的” Bone your Life， be Different “，等你来体验！&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;好了，上图。（我不是做广告的，但感觉像是给这个牌子做广告了。）&lt;/p&gt;
+&lt;p&gt;先说一句，都很可爱，但也都很贵。。。o(╯□╰)o&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>E63之新手上路二（签名和破解）</title>
+      <link>https://icoconuts.github.io/2009/04/27/e63-2nd/</link>
+      <pubDate>Mon, 27 Apr 2009 10:03:47 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/04/27/e63-2nd/</guid>
+      <description>&lt;p&gt;上回说到&lt;a href=&#34;http://127.0.0.1/2009/04/20/e63-1st/&#34; target=&#34;_blank&#34;&gt;购机及格机&lt;/a&gt;后,可以开始好好的玩机了。&lt;/p&gt;
+&lt;p&gt;智能机之所以有这个名称，我个人认为就是有非常强大的软件扩展性，比起非智能机，只能安装Java类的程序，它的优越性就非常明显了。&lt;/p&gt;
+&lt;p&gt;我个人对软件安装及主题制作非常感兴趣。&lt;/p&gt;
+&lt;p&gt;所以，嘿嘿~~&lt;/p&gt;
+&lt;p&gt;不过，之前已经说过，由于没有接触过智能机系统，可以说是一无所知。一时还无从下手。&lt;/p&gt;
+&lt;p&gt;幸好莫哥推荐了好多优秀的智能手机论坛。&lt;/p&gt;
+&lt;p&gt;1.&lt;a href=&#34;http://bbs.imobile.com.cn/index.php&#34; target=&#34;_blank&#34;&gt;手机之家论坛&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.&lt;a href=&#34;http://bbs.dospy.com/&#34; target=&#34;_blank&#34;&gt;塞班智能手机论坛&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.&lt;a href=&#34;http://www.opda.net.cn/index.php&#34; target=&#34;_blank&#34;&gt;OPDA智能手机网论坛&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;4.&lt;a href=&#34;http://nokia.zol.com.cn&#34; target=&#34;_blank&#34;&gt;中关村在线诺基亚手机论坛&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;…&lt;/p&gt;
+&lt;p&gt;好了，说正题，诺基亚的智能机系统就是：塞班（symbian）系统。&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;color: #ff0000;&#34;&gt;E63手机的系统版本为：Symbian OS 9.2, Series 60 v3.1&lt;/span&gt;&lt;span style=&#34;color: #ff0000;&#34;&gt;以下简称(S60v3版)。&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;而说到塞班系统，不得不提“签名”。&lt;/p&gt;
+&lt;p&gt;以下是手机之家论坛上的&lt;a href=&#34;http://bbs.imobile.com.cn/thread-tid-8145877.html&#34; target=&#34;_blank&#34;&gt;关于签名扫盲贴&lt;/a&gt;的内容，我只列了大点，有兴趣的可以了解一下。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;1、什么是证书？&lt;br&gt;
+2、证书的作用是什么？&lt;br&gt;
+3、如何获得证书？&lt;/p&gt;
+&lt;p&gt;4、证书有有效期吗？&lt;br&gt;
+5、什么是签名？如何签名？&lt;br&gt;
+6、哪些软件需要签名？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span style=&#34;color: #0000ff;&#34;&gt;简言之，几乎安装每个软件，都需要签名。所以是个比较麻烦的事。&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;我个人到现在还没弄懂，也不想去弄懂。&lt;/p&gt;
+&lt;p&gt;因为破解之后，就不需要签名了~.~&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>海贼王漫画_540集打包下载</title>
+      <link>https://icoconuts.github.io/2009/04/26/onepiece-540/</link>
+      <pubDate>Sun, 26 Apr 2009 08:40:47 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/04/26/onepiece-540/</guid>
+      <description>停了一周发布，540真是等了好久啊。o(╯□╰)o 来源：爱在线漫画-海贼王 在线观看海贼王540话：海</description>
+    </item>
+    
+    <item>
+      <title>翻翻我的博客情结</title>
+      <link>https://icoconuts.github.io/2009/04/21/mytripofblog/</link>
+      <pubDate>Tue, 21 Apr 2009 12:18:57 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/04/21/mytripofblog/</guid>
+      <description>今天中午，朋友问我哪有博客可以申请，这倒一下子提醒我了。 以前一直想从之前的博客上把日志转过来，毕竟是</description>
+    </item>
+    
+    <item>
+      <title>E63之新手上路（一）</title>
+      <link>https://icoconuts.github.io/2009/04/20/e63-1st/</link>
+      <pubDate>Mon, 20 Apr 2009 14:20:36 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/04/20/e63-1st/</guid>
+      <description>&lt;p&gt;入手E63（以下简称三三）已经十多天了，觉得有必要写一些感受了，可以和玩机的朋友好好交流交流。&lt;/p&gt;
+&lt;p&gt;一.换手机的缘由&lt;/p&gt;
+&lt;p&gt;之前用的是Nokia 6220，S40系统的机子。&lt;/p&gt;
+&lt;p&gt;虽说对软件，智能机非常感兴趣，无奈Nokia的机子质量实在太好了，用了四年，除了电池用了2年就不行了，其它从没出过问题。&lt;/p&gt;
+&lt;p&gt;所以，一直没有接触过智能机。从这个角度讲，本人纯属菜鸟。&lt;/p&gt;
+&lt;p&gt;直到前一段时间，迷上用&lt;a href=&#34;http://127.0.0.1/2009/03/29/twitter-intro/&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt;,但手机却连Twitter的网站都上不了，一怒之下解决换手机！&lt;/p&gt;
+&lt;p&gt;一直钻研手机市场的莫哥，给我推荐了三三，我一看，嗯，&lt;a href=&#34;http://127.0.0.1/2009/04/03/mye63/&#34; target=&#34;_blank&#34;&gt;配置&lt;/a&gt;和E71相当，非常强大，系统也是S60 V3.1版，当时就口水直流啊。就决定买她了。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;二.购机准备和购机&lt;/p&gt;
+&lt;p&gt;在&lt;a href=&#34;http://nokia.zol.com.cn/comment_162405.html&#34; target=&#34;_blank&#34;&gt;Zol论坛&lt;/a&gt;看了相关帖子，大概知道，价格，和目标—E63之亚太版新加坡版。&lt;/p&gt;
+&lt;p&gt;为什么选择新加坡版？&lt;/p&gt;
+&lt;p&gt;    1.新加坡版是销往新加坡（华人很多），所以手机在出厂时，就已经是中文系统，不用刷机。&lt;/p&gt;
+&lt;p&gt;    2.键盘上笔划是原刻，可透光。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>又去上海</title>
+      <link>https://icoconuts.github.io/2009/04/18/shanghai/</link>
+      <pubDate>Sat, 18 Apr 2009 14:56:36 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/04/18/shanghai/</guid>
+      <description>早上一大早起来，为的赶上7：50的车。 结果汽车开了近2个小时才到上海，下车后直接转地下，乘1号线。 去</description>
+    </item>
+    
+    <item>
+      <title>为什么这么忙？</title>
+      <link>https://icoconuts.github.io/2009/04/17/busyday/</link>
+      <pubDate>Fri, 17 Apr 2009 14:50:48 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/04/17/busyday/</guid>
+      <description>继续昨天的事~~ 昨天说到第二天上午还要检查。 但今天一出来，领导就说，你自己跑个四家吧，然后自己回去好</description>
+    </item>
+    
+    <item>
+      <title>工作之余的蜜月</title>
+      <link>https://icoconuts.github.io/2009/04/16/honeymoon/</link>
+      <pubDate>Thu, 16 Apr 2009 15:05:30 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/04/16/honeymoon/</guid>
+      <description>好久没写日志了，快半个月了吧。 上次还是清明时候了吧，记得清明的假日是三天。 为了能休息得久一点，特把值</description>
+    </item>
+    
+    <item>
+      <title>海贼王漫画_539集打包下载</title>
+      <link>https://icoconuts.github.io/2009/04/10/onepiece-539/</link>
+      <pubDate>Fri, 10 Apr 2009 09:37:52 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/04/10/onepiece-539/</guid>
+      <description>来源：爱在线漫画-海贼王 在线观看海贼王539话：海贼王539话 更多在线漫画资源请看：爱在线漫画</description>
+    </item>
+    
+    <item>
+      <title>淘宝店家宝贝的照片</title>
+      <link>https://icoconuts.github.io/2009/04/08/pictaobao/</link>
+      <pubDate>Wed, 08 Apr 2009 05:19:45 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/04/08/pictaobao/</guid>
+      <description>&lt;p&gt;在淘宝逛了很久了，一直是为了买东西去逛，去找。前段时间买得非常疯狂。&lt;/p&gt;
+&lt;p&gt;现在似乎是静下来了，但偶尔会漫无目的地去逛逛…&lt;/p&gt;
+&lt;p&gt;尤其昨天为了买手机，点了无数网页，不知道点错了还是什么，竟点到一个女装的店里去了。&lt;/p&gt;
+&lt;p&gt;对商品到没什么感觉，不过对这照片的拍摄效果还是瞒喜欢的。&lt;/p&gt;
+&lt;p&gt;个人觉得买同样的东西，我一定会先选这家，也许是同样的商品，但给人的感觉，品味就不同。&lt;/p&gt;
+&lt;p&gt;嗯，随便挑几张拍得不错的宝贝照片~~&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>海贼王漫画_538集打包下载</title>
+      <link>https://icoconuts.github.io/2009/04/03/onepiece-538/</link>
+      <pubDate>Fri, 03 Apr 2009 12:09:27 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/04/03/onepiece-538/</guid>
+      <description>来源：爱在线漫画-海贼王 在线观看海贼王538话：海贼王538话 更多在线漫画资源请看：爱在线漫画</description>
+    </item>
+    
+    <item>
+      <title>Nokia E63我来了</title>
+      <link>https://icoconuts.github.io/2009/04/03/mye63/</link>
+      <pubDate>Fri, 03 Apr 2009 04:47:45 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/04/03/mye63/</guid>
+      <description>&lt;p&gt;&lt;img style=&#34;display: block; float: none; margin-left: auto; margin-right: auto&#34; src=&#34;http://farm4.static.flickr.com/3402/3408005481_93df0edb8b_o.jpg&#34; /&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>清明快到</title>
+      <link>https://icoconuts.github.io/2009/04/02/qingming/</link>
+      <pubDate>Thu, 02 Apr 2009 13:42:57 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/04/02/qingming/</guid>
+      <description>跨年的专项行动任务终于做完了，心头的一块石头终于落下了..o(∩_∩)o… 今天去的那学校，真是。。小</description>
+    </item>
+    
+    <item>
+      <title>冬天算是过去了</title>
+      <link>https://icoconuts.github.io/2009/03/30/winnerisover/</link>
+      <pubDate>Mon, 30 Mar 2009 15:03:38 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/03/30/winnerisover/</guid>
+      <description>冬天再怎么拖延也是挡不住春天的脚步啊。 虽然，现在玩电脑的手还是冰冰的。 唉，不说我的手了，已经被同事列</description>
+    </item>
+    
+    <item>
+      <title>Web2.0时代,你玩Twitter了吗?</title>
+      <link>https://icoconuts.github.io/2009/03/29/twitter-intro/</link>
+      <pubDate>Sun, 29 Mar 2009 12:11:47 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/03/29/twitter-intro/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://assets1.twitter.com/images/twitter_logo_s.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;什么是Twitter&lt;/p&gt;
+&lt;p&gt;    Twitter 是即时信息的一个变种，它允许用户将自己的最新动态和想法以短信息的形式发送给手机和个性化网站群，而不仅仅是发送给个人。&lt;/p&gt;
+&lt;p&gt;    Twitter是一个可让你播报短消息给你的朋友或“followers（跟随者）”的一个在线服务，它也同样可允许你指定哪个你想跟随的Twitter用户，这样你可以在一个页面上就能读取他们发布的信息。所有的Twitter消息(tweet)都被限制在140个字符之内。这也是Twitter迷人之处的一部分。&lt;/p&gt;
+&lt;p&gt;Twitter的创立&lt;/p&gt;
+&lt;p&gt;    2006年，博客技术先驱blogger.com创始人埃文·威廉姆斯(Evan Williams)创建的新兴公司Obvious推出了Twitter服务。&lt;/p&gt;
+&lt;p&gt;注册Twitter&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>海贼王漫画_537集打包下载</title>
+      <link>https://icoconuts.github.io/2009/03/27/onepiece-537/</link>
+      <pubDate>Fri, 27 Mar 2009 10:54:50 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/03/27/onepiece-537/</guid>
+      <description>来源：爱在线漫画-海贼王 在线观看海贼王537话：海贼王537话 更多在线漫画资源请看：爱在线漫画</description>
+    </item>
+    
+    <item>
+      <title>暂时停几天</title>
+      <link>https://icoconuts.github.io/2009/03/23/pause/</link>
+      <pubDate>Mon, 23 Mar 2009 04:13:57 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/03/23/pause/</guid>
+      <description>这里暂时停几天，也许半个月，也许一个月。 其实也没什么人来~~ 是我自做多情了… 1呢，心情不好 2呢，工作</description>
+    </item>
+    
+    <item>
+      <title>儿时的动画片歌曲串烧</title>
+      <link>https://icoconuts.github.io/2009/03/21/dhcs/</link>
+      <pubDate>Sat, 21 Mar 2009 13:28:15 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/03/21/dhcs/</guid>
+      <description>[media id=4] 同事不知从哪看来的链接，看了正像是回到了我的童年（除了那部：棒球英豪：没看过）~~ 每部都那么经典</description>
+    </item>
+    
+    <item>
+      <title>图集–颓废风格</title>
+      <link>https://icoconuts.github.io/2009/03/21/pic-nonp/</link>
+      <pubDate>Sat, 21 Mar 2009 12:43:47 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/03/21/pic-nonp/</guid>
+      <description>&lt;p&gt;好久没去DA上看看了，突然淘到一些颓废风格的图片，做素材很有用哈~~&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.deviantart.com/deviation/90737089/&#34;&gt;I love U&lt;/a&gt; by ~&lt;a href=&#34;http://teokee.deviantart.com/&#34;&gt;Teokee&lt;/a&gt;{.u}&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>海贼王漫画_536集打包下载</title>
+      <link>https://icoconuts.github.io/2009/03/20/onepiece-536/</link>
+      <pubDate>Fri, 20 Mar 2009 12:51:00 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/03/20/onepiece-536/</guid>
+      <description>来源： KUKU动漫</description>
+    </item>
+    
+    <item>
+      <title>插件Titletopng-DIY</title>
+      <link>https://icoconuts.github.io/2009/03/20/titletopng-diy/</link>
+      <pubDate>Fri, 20 Mar 2009 10:49:06 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/03/20/titletopng-diy/</guid>
+      <description>&lt;p&gt;前几天找到了一款很有意思的插件：&lt;a href=&#34;http://127.0.0.1/2009/03/17/wptitiletopn/&#34; target=&#34;_blank&#34;&gt;titletopng&lt;/a&gt;。它可以让blog更新信息显示在任何可以贴图的地方。（如论坛签名。）&lt;/p&gt;
+&lt;p&gt;今天有时间，好好把玩了一下。&lt;/p&gt;
+&lt;p&gt;效果预览：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://127.0.0.1/tool/title.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>工作不顺心</title>
+      <link>https://icoconuts.github.io/2009/03/19/nomore/</link>
+      <pubDate>Thu, 19 Mar 2009 04:20:00 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/03/19/nomore/</guid>
+      <description>工作不顺心工作不顺心工作不顺心工作不顺心工作不顺心工作不顺心工作不顺心工作不顺心工作不顺心工作不顺心</description>
+    </item>
+    
+    <item>
+      <title>WP插件:让你的图片签名显示日志更新</title>
+      <link>https://icoconuts.github.io/2009/03/17/wptitiletopn/</link>
+      <pubDate>Tue, 17 Mar 2009 13:12:54 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/03/17/wptitiletopn/</guid>
+      <description>&lt;p&gt;插件功能介绍：生成一个论坛签名图片，在该图片上自动显示你的Wordpress博客上的最新文章。&lt;br&gt;
+把blog文章列表生成图片的插件。&lt;/p&gt;
+&lt;p&gt;效果预览：&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;alignnone&#34; src=&#34;http://127.0.0.1/tool/title.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>&lt;转&gt;RSS feed 摘要输出轻松全文</title>
+      <link>https://icoconuts.github.io/2009/03/17/all-rss-feed/</link>
+      <pubDate>Tue, 17 Mar 2009 04:46:02 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/03/17/all-rss-feed/</guid>
+      <description>&lt;p&gt;在小众软件上刚看到的一篇文章，转一下。&lt;/p&gt;
+&lt;p&gt;最强最傻瓜化的 RSS feed 全文化利器：まるごとRSS。只需把博客的地址或者 RSS feed 输入到页面唯一的输入框里，然后点击 Go，全文化的 Feed 就生成了！看下图，页面还生成了相应的订阅按钮。赶紧点击 Googleリーダー，订阅到 Google Reader。注意，第一个按钮是 iGoogle。&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;
+  &lt;img loading=&#34;lazy&#34; class=&#34;aligncenter&#34; src=&#34;http://pic.yupoo.com/jdvip/95911721d3ef/small.jpg&#34; alt=&#34;&#34; width=&#34;191&#34; height=&#34;240&#34; /&gt;
+&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;</description>
+    </item>
+    
+    <item>
+      <title>中国联通3G品牌标识确定</title>
+      <link>https://icoconuts.github.io/2009/03/16/bsdesign/</link>
+      <pubDate>Mon, 16 Mar 2009 10:24:24 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/03/16/bsdesign/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;标识释义：由英文字母的“WO”和中文“沃”搭配组成，整个图案为橙黄色调，没有明显的3G的字样。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;据该人士表示，中国联通定义“沃”品牌并无“舍我其谁”的意思，只是由惊喜的口语“WO”而来。这也正是联通全业务品牌的定位——沃，是想象力被释放带来的无限惊喜。但这一含义没有得到中国联通官方确认。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3581/3358856537_f92b0235d0_o.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;定位时尚群体&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3575/3358856473_401bae0609_o.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;定位商务人群&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3559/3358856491_44dfd0d4de_o.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;定位家庭用户&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>感觉太宅了,走动一下</title>
+      <link>https://icoconuts.github.io/2009/03/15/sheying/</link>
+      <pubDate>Sun, 15 Mar 2009 13:39:49 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/03/15/sheying/</guid>
+      <description>继昨天浪费了一天的青春后，就已经决定今天出去逛逛。 不然真的对不起这么好的天气啊。 不过，今天早上醒来就</description>
+    </item>
+    
+    <item>
+      <title>海贼王漫画_535集打包下载</title>
+      <link>https://icoconuts.github.io/2009/03/14/onepiece-535/</link>
+      <pubDate>Fri, 13 Mar 2009 17:33:12 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/03/14/onepiece-535/</guid>
+      <description>来源：爱在线漫画-海贼王 在线观看海贼王535话：海贼王535话 更多在线漫画资源请看：爱在线漫画</description>
+    </item>
+    
+    <item>
+      <title>原来爱情还有这么痛苦的？</title>
+      <link>https://icoconuts.github.io/2009/03/14/djlg/</link>
+      <pubDate>Fri, 13 Mar 2009 17:11:38 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/03/14/djlg/</guid>
+      <description>&lt;p&gt;她，一个活泼、可爱、善良的女孩。&lt;/p&gt;
+&lt;p&gt;在车上总爱睡觉，上学总会迟到…&lt;/p&gt;
+&lt;p&gt;他，一个深沉、冷酷、不爱说话的男孩。&lt;/p&gt;
+&lt;p&gt;笑的样子可以迷倒任何一个人。&lt;/p&gt;
+&lt;p&gt;故事发生在冬天，就在公交车上的相遇开始了…&lt;/p&gt;
+&lt;p&gt;经过种种，女孩爱上了男孩，男孩也爱上了女孩。&lt;/p&gt;
+&lt;p&gt;他们之间一起经历了许多第一次：&lt;/p&gt;
+&lt;p&gt;第一次一起弹琴&lt;/p&gt;
+&lt;p&gt;第一次牵手&lt;/p&gt;
+&lt;p&gt;第一次散步&lt;/p&gt;
+&lt;p&gt;第一次约会&lt;/p&gt;
+&lt;p&gt;第一次kiss&lt;/p&gt;
+&lt;p&gt;…&lt;/p&gt;
+&lt;p&gt;树林、落叶、小河、双人自行车、当然还有雪…&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Will you</title>
+      <link>https://icoconuts.github.io/2009/03/13/willyou/</link>
+      <pubDate>Fri, 13 Mar 2009 14:10:34 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/03/13/willyou/</guid>
+      <description>[youtube -GZINS1GgKo]</description>
+    </item>
+    
+    <item>
+      <title>雨天</title>
+      <link>https://icoconuts.github.io/2009/03/12/rainday/</link>
+      <pubDate>Thu, 12 Mar 2009 13:48:37 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/03/12/rainday/</guid>
+      <description>自打中午被朋友痛批一顿后，就觉得下雨让我有罪恶感了。 下雨真的让许多事都耽搁了。 比如，今天是植树节，原</description>
+    </item>
+    
+    <item>
+      <title>工作小case</title>
+      <link>https://icoconuts.github.io/2009/03/11/1sthuodong/</link>
+      <pubDate>Wed, 11 Mar 2009 05:02:52 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/03/11/1sthuodong/</guid>
+      <description>今天上午果然还是没有下雨。 虽然是多云的天气，而且很风大，但也足够进行活动了。 活动差不多半个小时搞定，</description>
+    </item>
+    
+    <item>
+      <title>Lancome Magnifique–兰寇璀璨香水广告</title>
+      <link>https://icoconuts.github.io/2009/03/08/lancome-anne/</link>
+      <pubDate>Sun, 08 Mar 2009 12:33:54 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/03/08/lancome-anne/</guid>
+      <description>[Youtube视频已经被墙,换成youku了。] Anne Hathaway，我个人认为她是个很高贵，很有气</description>
+    </item>
+    
+    <item>
+      <title>海贼王漫画_534集打包下载</title>
+      <link>https://icoconuts.github.io/2009/03/07/onepiece-534/</link>
+      <pubDate>Fri, 06 Mar 2009 17:56:55 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/03/07/onepiece-534/</guid>
+      <description>来源：爱在线漫画-海贼王 在线观看海贼王534话：海贼王534话 更多在线漫画资源请看：爱在线漫画</description>
+    </item>
+    
+    <item>
+      <title>久违的太阳公公</title>
+      <link>https://icoconuts.github.io/2009/03/06/longncsunny/</link>
+      <pubDate>Fri, 06 Mar 2009 15:27:05 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/03/06/longncsunny/</guid>
+      <description>Song：稻香 Artist:周杰伦 今天的天气终于告别阴沉，告别下雨，太阳公公也露出色色的笑脸了。 下午</description>
+    </item>
+    
+    <item>
+      <title>蓝魔 T9 imove2 MP4</title>
+      <link>https://icoconuts.github.io/2009/03/06/imove2/</link>
+      <pubDate>Fri, 06 Mar 2009 11:04:00 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/03/06/imove2/</guid>
+      <description>&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img style=&#34;display: block; float: none; margin-left: auto; margin-right: auto&#34; src=&#34;http://farm4.static.flickr.com/3620/3332206583_cfaf1216b7_o.jpg&#34; /&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+    <item>
+      <title>海贼王漫画_533集打包下载</title>
+      <link>https://icoconuts.github.io/2009/03/05/onepiece-533/</link>
+      <pubDate>Thu, 05 Mar 2009 14:06:55 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/03/05/onepiece-533/</guid>
+      <description>来源：爱在线漫画-海贼王 在线观看海贼王533话：海贼王533话 更多在线漫画资源请看：爱在线漫画</description>
+    </item>
+    
+    <item>
+      <title>Flashget3.0beta2发布</title>
+      <link>https://icoconuts.github.io/2009/03/04/flashget3-beta2/</link>
+      <pubDate>Wed, 04 Mar 2009 13:29:05 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/03/04/flashget3-beta2/</guid>
+      <description>&lt;p&gt;记得上次介绍&lt;a href=&#34;http://127.0.0.1/2009/01/19/flashget30beta1/&#34;&gt;Flashget3.0beta1试用&lt;/a&gt;已近2个月了，这次beta2强势出击，更新了许多功能啊。&lt;/p&gt;
+&lt;p&gt;有感兴趣的已经标出。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新增功能：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;添加车库积分随下载完成文件数量而增长的功能，每次登陆及每隔半小时自动刷新积分&lt;br&gt;
+&lt;font color=&#34;#ca359d&#34;&gt;2. 添加杀毒软件相关功能支持，目前自动检测已支持瑞星、卡巴斯基、金山毒霸、Norton Antivirus、江民等。&lt;/font&gt; （别看这是个和杀毒软件有关的功能，其实，要实现很多便捷的事，都得靠这个。）&lt;/li&gt;
+&lt;li&gt;添加选项-&amp;gt;速度设置-&amp;gt;“启用速度智能控制”功能，开启后快车将根据用户网络情况自动分配带宽资源，在下载同时不影响正常上网&lt;/li&gt;
+&lt;li&gt;添加本地查找功能&lt;br&gt;
+&lt;font color=&#34;#ca359d&#34;&gt;5. 添加一款白色皮肤，可在皮肤管理器中下载&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;添加下载BT任务时，如果单个文件大于4G并且磁盘格式是FAT，提示用户&lt;/li&gt;
+&lt;li&gt;添加下载列表中的所有分类中所有列的列宽保存，最小列宽限制为25个像素&lt;/li&gt;
+&lt;li&gt;添加车库菜单，快捷使用车库各功能&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt; &lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>女士们注意了:红色的 MacBook Mini</title>
+      <link>https://icoconuts.github.io/2009/03/03/red-macbook-mini/</link>
+      <pubDate>Tue, 03 Mar 2009 14:13:15 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/03/03/red-macbook-mini/</guid>
+      <description>&lt;p&gt;Apple 推出震撼全球的产品 – MacBook Mini。更耀眼的是，它是红色版本的！&lt;br&gt;
+这台 MacBook Mini 的大小与 Vaio P 相若，特别是拥有滑盖式的触控板。&lt;br&gt;
+因此，这部 MacBook Mini 可以拥有全尺寸的键盘及触控板。&lt;br&gt;
+P.S.　这台 MacBook Mini 是设计师 Isamu Sanada 的构想图，所以这个不是真的，也不是 Apple 发布的新产品。&lt;br&gt;
+点击看图–&amp;gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>下雪了</title>
+      <link>https://icoconuts.github.io/2009/03/02/snow/</link>
+      <pubDate>Mon, 02 Mar 2009 14:07:46 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/03/02/snow/</guid>
+      <description>这四不像的天气，真是越来越奇怪了。 前两天在单位值班的时候，就觉得异常的冷。 竟然发现脚又开始痒了，真是</description>
+    </item>
+    
+    <item>
+      <title>二月的回忆</title>
+      <link>https://icoconuts.github.io/2009/03/01/rem-feb/</link>
+      <pubDate>Sun, 01 Mar 2009 15:15:02 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/03/01/rem-feb/</guid>
+      <description>今天是3月的第一天，觉得有必要对2月份的生活做个总统的概括的总结了。 首先的一件事：过了一个不平常的年</description>
+    </item>
+    
+    <item>
+      <title>主题继续完善二</title>
+      <link>https://icoconuts.github.io/2009/02/27/newreply/</link>
+      <pubDate>Fri, 27 Feb 2009 14:27:45 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/02/27/newreply/</guid>
+      <description>继最新日志/最新评论显示改成下方显示后，打算继续完善本主题，见最近评论越来越多，急需解决的就是评论回</description>
+    </item>
+    
+    <item>
+      <title>主题完善之一</title>
+      <link>https://icoconuts.github.io/2009/02/27/redesignrs/</link>
+      <pubDate>Fri, 27 Feb 2009 14:06:18 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/02/27/redesignrs/</guid>
+      <description>&lt;p&gt;之前为“最新日志/最新评论”设置的右侧侧边栏动态显示效果，用了一段时间感觉不太舒服&lt;/p&gt;
+&lt;p&gt;想想还是转回原来的效果：在页面底部并排显示。虽然不是我自己的创意，但还是自己通过CSS慢慢调整得出了。&lt;/p&gt;
+&lt;p&gt;本效果在IE 7,chrome,Firefox,Opera下测试通过，至于IE 6不做考虑。。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img style=&#34;display: block; float: none; margin-left: auto; margin-right: auto&#34; src=&#34;http://farm4.static.flickr.com/3585/3313305807_e48bf7bb6b_o.jpg&#34; /&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Nokia E75中文版键盘现身</title>
+      <link>https://icoconuts.github.io/2009/02/25/nokia-e75-2/</link>
+      <pubDate>Wed, 25 Feb 2009 04:59:00 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/02/25/nokia-e75-2/</guid>
+      <description>之前介绍过E75了，这次出现的是具有中文字码的键盘。E75 键盘上备有仓颉字码及五笔输入字码。输入方面</description>
+    </item>
+    
+    <item>
+      <title>转:如果你女朋友是护士</title>
+      <link>https://icoconuts.github.io/2009/02/23/gfisnurse/</link>
+      <pubDate>Mon, 23 Feb 2009 04:58:15 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/02/23/gfisnurse/</guid>
+      <description>&lt;p&gt;从朋友日志上看来的，觉得写得瞒有道理的。收藏一下：&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;如果你的女朋友是护士&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;      她工作的时候接不了你的电话，请不要怪她，稍一走神就有可能加错药，她面对的是生命。&lt;br&gt;
+      她忙起来的时候回不了你的信息，请不要怪她，她可能在核对医嘱或者接收病人。&lt;br&gt;
+她累了的时候请不要跟她吵架，她在医院脑神经已经紧紧的绷了一天，或许她连站了十几个小时的手术，或许她刚刚值了班。&lt;br&gt;
+      她烦了的时候请不要与她计较，她每天都要注意工作中的每一个细节，并将资料分析总结，从细节中发现重大问题,唯一能让她放松舒心的人只有你。&lt;br&gt;
+**如果你的女朋友是护士&lt;br&gt;
+**       她流泪的时候请耐心的安慰她，她面对了太多的生离死别，她见过了太多的悲惨场面，她不是冷酷无情，她不是见了太多而没有了感觉，她不能哭，她为了工作能顺利的进行，她为了让家属能接受现实，为了给死者更多的尊严，她必须冷静，只有面对你她才流泪因为你才是那个让她感觉最放松最有安全感最值得依靠的人。&lt;br&gt;
+      你生病的时候她不能时刻在你身边照顾你，请不要怪她。除了父母她是那个最担心你的人，但是她的工作是面对更多的病人，他们把所有的希望都放在了她的身上，她只要有时间一定会在你身边照顾你。&lt;br&gt;
+&lt;strong&gt;如果你的女朋友是护士&lt;/strong&gt;&lt;br&gt;
+      节假日没法陪你的时候请给予一定的谅解，大家都在放假，但是生命不能放假，她要时刻站好自己的岗位，给更多人能够享受生命，享受节假日的快乐，其实她何尝不想陪你一起度过那美好的时光。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>周末的考试</title>
+      <link>https://icoconuts.github.io/2009/02/22/09exam/</link>
+      <pubDate>Sat, 21 Feb 2009 16:47:50 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/02/22/09exam/</guid>
+      <description>周末去考试了。 周五下午还在为怎么去桐乡而烦恼，因为唯一的一辆往返于平湖和桐乡间的公交车，司机竟然说周</description>
+    </item>
+    
+    <item>
+      <title>海贼王漫画_532集打包下载</title>
+      <link>https://icoconuts.github.io/2009/02/20/onepiece-532/</link>
+      <pubDate>Fri, 20 Feb 2009 12:57:00 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/02/20/onepiece-532/</guid>
+      <description>来源：爱在线漫画-海贼王 在线观看海贼王532话：海贼王532话 更多在线漫画资源请看：爱在线漫画</description>
+    </item>
+    
+    <item>
+      <title>细细观察自己</title>
+      <link>https://icoconuts.github.io/2009/02/19/51lw/</link>
+      <pubDate>Thu, 19 Feb 2009 13:58:18 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/02/19/51lw/</guid>
+      <description>今天和领导出去检查，一直见他皱着眉朝我看，另一个同事似乎我也感觉有什么不对劲。 回来和我一说，才发觉自</description>
+    </item>
+    
+    <item>
+      <title>Gravatar注册教程</title>
+      <link>https://icoconuts.github.io/2009/02/17/gravatarsignup/</link>
+      <pubDate>Tue, 17 Feb 2009 14:13:51 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/02/17/gravatarsignup/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://en.gravatar.com/&#34; target=&#34;_blank&#34;&gt;Gravatar&lt;/a&gt; (Globally Recognized Avatar的缩写)，意思就是全球认证头像（全球通用头像）。它是由WordPress系列产品的母公司Automattic运营的一个面向广大博客网站提供通用头像服务的网站。在该网站注册账户并上传头像以后，在全球任意一个支持Gravatar的网站（如基于WordPress的大部分博客），在评论时只要输入您的电子邮箱，在评论旁即可显示您的个性头像。你注册一个帐号后，可以添加多个邮件地址和对应头像。&lt;/p&gt;
+&lt;p&gt;===============================================================================&lt;/p&gt;
+&lt;p&gt;自WordPress升级到 2.5版本以后，WordPress内置显示Gravatar的头像的功能。这里就简单说一下主题添加此功能的方法：&lt;/p&gt;
+&lt;p&gt;1.Gravatar参数：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;?php [echo][1] get_avatar( $comment, 32 ); ?&gt; 
+&lt;/blockquote&gt;
+&lt;p&gt;2.找到主题目录下的comments.php文件，打开后找到相关代码插入就可以了。&lt;/p&gt;
+&lt;p&gt;注意：该函数的调用须放在&lt;?php foreach ($comments as $comment) : ?&gt;语句后，否则会出错。&lt;/p&gt;
+&lt;p&gt;具体方法，可以参看这篇文章－－&lt;a href=&#34;http://www.thinkagain.cn/archives/904.html&#34; target=&#34;_blank&#34;&gt;WordPress Tips:如何使用WP2.5内置的Gravatar&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;===============================================================================&lt;/p&gt;
+&lt;p&gt;Gravatar注册很简单，不懂英文也不用觉得麻烦的。几步就可以实现注册。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Nokia E75 抢先看(Pic5)</title>
+      <link>https://icoconuts.github.io/2009/02/16/nokia-e75-1/</link>
+      <pubDate>Mon, 16 Feb 2009 12:58:18 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/02/16/nokia-e75-1/</guid>
+      <description>&lt;p&gt;Nokia E75 外表沿袭Nokia商务机系列的风格，但我个人感觉也是相当华丽。大家一起欣赏一下吧:dx:。（５ pics）&lt;br&gt;
+图片来源：&lt;a href=&#34;http://cn.engadget.com/&#34;&gt;Engadget&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>欢迎光临本博客</title>
+      <link>https://icoconuts.github.io/2009/02/15/top/</link>
+      <pubDate>Sun, 15 Feb 2009 05:42:02 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/02/15/top/</guid>
+      <description>如果还在用IE6，那真是太杯具了！！ 请选择更好的浏览器! 欢迎来到黑金侠（原点滴快乐），为实现正常浏览</description>
+    </item>
+    
+    <item>
+      <title>《当幸福来敲门》观感</title>
+      <link>https://icoconuts.github.io/2009/02/14/happinessiscome/</link>
+      <pubDate>Sat, 14 Feb 2009 13:50:00 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/02/14/happinessiscome/</guid>
+      <description>&lt;p&gt;在订阅的&lt;a href=&#34;http://www.lifebang.com/&#34;&gt;生活帮&lt;/a&gt;里看到这样一篇文章，&lt;a href=&#34;http://www.lifebang.com/archives/503&#34;&gt;从《当幸福来敲门》体会到的几个词 1&lt;/a&gt;，让我重新回味了这部电影。&lt;/p&gt;
+&lt;p&gt;1.幸福&lt;/p&gt;
+&lt;p&gt;幸福到底是什么？幸福是拥有金钱吗？幸福是没有金钱吗？幸福是拥有家庭吗？幸福是没有家庭吗？都不是。幸福是就是苦尽甘来的瞬间。&lt;/p&gt;
+&lt;p&gt;没有经历过痛苦，怎么会有甘甜？&lt;/p&gt;
+&lt;p&gt;试想生活在富裕家庭的人，不会知道当贫穷的人手里拿到1张大钞，就是幸福的。&lt;/p&gt;
+&lt;p&gt;试想当有人被困孤岛，身边有一大堆的财宝，但这不会幸福，当有船出现时，这才是幸福。(问问海贼王里的山治就知道了。)&lt;/p&gt;
+&lt;p&gt;电影里有一段主人公的独白：&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>出去走走</title>
+      <link>https://icoconuts.github.io/2009/02/14/guangjx/</link>
+      <pubDate>Sat, 14 Feb 2009 13:17:13 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/02/14/guangjx/</guid>
+      <description>感觉好像很久没写了。 最近工作开始忙了，领导开始布置一些不可能完成的事了。 压力开始慢慢浮现，似乎每天在</description>
+    </item>
+    
+    <item>
+      <title>德芙巧克力电视广告</title>
+      <link>https://icoconuts.github.io/2009/02/14/dove/</link>
+      <pubDate>Sat, 14 Feb 2009 11:32:29 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/02/14/dove/</guid>
+      <description>[youtube 9zTmEdeSKqg 550 320] 情人节没情人咯，不用送巧克力啦。 但是看看广告总可以吧。 这则广告相信都看过了，我觉得是德芙电视</description>
+    </item>
+    
+    <item>
+      <title>NOKIA N96-BRUCE LEE Edition</title>
+      <link>https://icoconuts.github.io/2009/02/10/nokia-n96-bruce-lee-edition/</link>
+      <pubDate>Tue, 10 Feb 2009 13:04:57 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/02/10/nokia-n96-bruce-lee-edition/</guid>
+      <description>[youtube DpJAxqD6jiY 520 320]</description>
+    </item>
+    
+    <item>
+      <title>泰国潘婷洗发水4分钟足版广告–化蝶(Chrysalis)</title>
+      <link>https://icoconuts.github.io/2009/02/09/chrysalis/</link>
+      <pubDate>Mon, 09 Feb 2009 11:26:10 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/02/09/chrysalis/</guid>
+      <description>[youtube BI2A2_d8CNA 520 350] 洗发水广告也能拍出这样的励志片，真的很佩服他们的创意。虽然是很老的广告片了，还是分享一下。</description>
+    </item>
+    
+    <item>
+      <title>Heineken – Walk in Fridge</title>
+      <link>https://icoconuts.github.io/2009/02/09/heineken1/</link>
+      <pubDate>Mon, 09 Feb 2009 11:12:42 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/02/09/heineken1/</guid>
+      <description>[youtube yIutgtzwhAc 520 310] 喜力的广告，以女士对衣服、鞋子的喜爱，衬托喜力对男士的重要性。</description>
+    </item>
+    
+    <item>
+      <title>超有创意的Gmail介绍</title>
+      <link>https://icoconuts.github.io/2009/02/08/coolgmail/</link>
+      <pubDate>Sun, 08 Feb 2009 12:59:28 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/02/08/coolgmail/</guid>
+      <description>[youtube d9stAZhbfEE]</description>
+    </item>
+    
+    <item>
+      <title>太强了！图片搜索图片–Tineye</title>
+      <link>https://icoconuts.github.io/2009/02/06/tineye/</link>
+      <pubDate>Fri, 06 Feb 2009 11:53:12 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/02/06/tineye/</guid>
+      <description>&lt;p&gt;刚在&lt;a href=&#34;http://cn.engadget.com&#34;&gt;Engadget&lt;/a&gt;上看到一篇文章&lt;a href=&#34;http://cn.engadget.com/2009/02/06/tineye-1/&#34;&gt;Tineye完全开放服务——用图片搜索图片&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;进去之后，直接是上传或是输入URL地址就可以了。&lt;/p&gt;
+&lt;p&gt;我顺便拿了一张图片试了一下，那一张图片是我在Google image里找来的，PS一下后，用来做QQ头像的，结果&lt;a href=&#34;http://tineye.com/&#34;&gt;Tineye&lt;/a&gt;下一搜，呆了。竟然搜出来了，太强悍了。强烈推荐收藏！！&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>如果有个男孩为你哭</title>
+      <link>https://icoconuts.github.io/2009/02/06/mancry/</link>
+      <pubDate>Fri, 06 Feb 2009 11:10:00 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/02/06/mancry/</guid>
+      <description>&lt;p&gt;如果有个男孩为你哭，请你拉住他的手。&lt;br&gt;
+一个朋友告诉我，他哭了，为了一个女孩。&lt;br&gt;
+我想，你一定很爱很爱她吧。&lt;br&gt;
+“是爱到不知道怎么办才好。”他对我说，“男孩在你面前哭说明他已经快要窒息了,如果你拉住他的手，他真的可以陪你走完一生；如果你放弃了他，他会很难再回到以前的自己。”&lt;br&gt;
+音刚落，我心中突然很压抑……想起了他–那一个曾经为我哭过的男孩。&lt;br&gt;
+第一次，我决定要离开他。他对我说，只要我幸福。我看见他强忍着泪水，我知道，在转身的那一刻，他哭了。&lt;br&gt;
+第二次，我告诉他，我欺骗了他。他对我说，会原谅我，因为他爱我。他抱着我哭了，我知道他一定很失望。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>VS::Carbon zzz</title>
+      <link>https://icoconuts.github.io/2009/02/05/vscarbon/</link>
+      <pubDate>Thu, 05 Feb 2009 11:51:16 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/02/05/vscarbon/</guid>
+      <description>Carbon ZZZ by ~weirdfish2{.u} on deviantART 靠，效果相当不错，DOCK效果瞒不错的，可以学习一下。</description>
+    </item>
+    
+    <item>
+      <title>VS::ShadeMOD</title>
+      <link>https://icoconuts.github.io/2009/02/05/shademod/</link>
+      <pubDate>Thu, 05 Feb 2009 11:43:41 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/02/05/shademod/</guid>
+      <description>ShadeMOD style by ~ravi8{.u} on deviantART 很有质感的主题，值得一下。</description>
+    </item>
+    
+    <item>
+      <title>Launchy:LPKB</title>
+      <link>https://icoconuts.github.io/2009/02/04/lpkb/</link>
+      <pubDate>Wed, 04 Feb 2009 13:28:23 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/02/04/lpkb/</guid>
+      <description>LPKB by *PEPEi{.u} on deviantART 这一款黑色的挺配我现在的主题的。</description>
+    </item>
+    
+    <item>
+      <title>Launchy::grlight</title>
+      <link>https://icoconuts.github.io/2009/02/04/grlight/</link>
+      <pubDate>Wed, 04 Feb 2009 13:24:59 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/02/04/grlight/</guid>
+      <description>grlight by ~wede1{.u} on deviantART 一款Launchy的皮肤，第一感觉挺不错的。试试看吧。</description>
+    </item>
+    
+    <item>
+      <title>Sun,maybe…</title>
+      <link>https://icoconuts.github.io/2009/02/04/sunmaybe/</link>
+      <pubDate>Wed, 04 Feb 2009 13:19:21 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/02/04/sunmaybe/</guid>
+      <description>Sun, maybe… by ~deiiff88{.u} on deviantART</description>
+    </item>
+    
+    <item>
+      <title>转：弟弟的冰糖</title>
+      <link>https://icoconuts.github.io/2009/02/02/brother/</link>
+      <pubDate>Mon, 02 Feb 2009 12:08:31 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/02/02/brother/</guid>
+      <description>&lt;p&gt;青年文摘上的一篇文章，某人看了很感动,MS哭了，转来和大家分享一下：&lt;/p&gt;
+&lt;p&gt;      作者：昂格图   &lt;/p&gt;
+&lt;p&gt;     因为生活拮据，弟弟八岁那年被送到离家很远的地方给人寄养。那天，母亲把弟弟洗漱得干干净净，给他穿上刚缝好的新衣裳，帮他系好衣扣，戴上带子。弟弟把新衣裳看了一遍遍，单纯地笑着。母亲跟弟弟说了很多话，在弟弟的前额上吻了一下又一下。&lt;/p&gt;
+&lt;p&gt;远处传来马蹄声，那家的叔叔骑着马到了我们家门口。那位叔叔给我们兄弟几个每人分了一块冰糖，此时母亲却不见了。那时我们都想如果母亲在，那位叔叔一定也会给她一块冰糖。等弟弟走远后母亲才回来，眼睛都哭肿了。母亲没收了我们手里的冰糖，将它们牢牢锁在家里掉了漆的红柜子里，说：“等你们去看弟弟时将这些冰糖带上。”说着双眼再一次盈满了泪水。接下来的几个月里，我们兄弟几个都争先恐后地去看望弟弟。说实话，不是因为我们有多么想念弟弟，而是为了那块冰糖。&lt;/p&gt;
+&lt;p&gt;暮春的一天母亲打开锁着的柜子，拿出那几块冰糖，包好，递给我，说：“你是家里最大的孩子，去看看你弟弟吧！”我高兴极了，拿上冰糖便一跃而出。&lt;/p&gt;
+&lt;p&gt;弟弟消瘦了许多，蓬头垢面，衣衫褴褛，看起来像个野孩子。弟弟见我就开始哭，小肩膀一抖一抖的。我也忍不住跟着哭。“你这个好吃懒做的家伙。圈里的羊少了好几只，你快去给我找回来！”那位叔叔说。弟弟受了惊吓，跑出了屋子。太阳落山了，伸手不见五指的夜晚弟弟上哪里去找那几只走丢的羊呢？我不安地望着窗外。外面刮起了大风，糊窗的纸在吱吱作响，让人心生恐惧。弟弟还没有回来。弟弟是八岁的小大人，他喜欢家畜。走失的几只羊他应该很快就能找回来。思绪中我靠着墙进入了梦乡。开门声惊醒了我。弟弟回来了，满身风与尘的味道。弟弟的养父抬起头说：“羊找回来没？”“找回来了，X字角不知动的是什么倔，自己跑了很远产下了羔，害得我找了好半天。下了个白色的羔，我抱回来了。”弟弟说，言语中充满了得意。&lt;/p&gt;
+&lt;p&gt;已是午夜时分，弟弟胡乱吃了一些东西，衣服都没脱就钻到我旁边。我给他盖好被子。他的小手紧紧抱住了我。我用脸贴着他的脸，将母亲给我的冰糖放进他嘴里。弟弟用被子捂住头说：“我想妈妈了。”他哭泣着，我只能默默地为他擦眼泪。那晚我们的枕头湿透了。&lt;/p&gt;
+&lt;p&gt;第二天醒来时，弟弟已经走了，枕头上放着我给他的冰糖。接羔的季节弟弟必须寸步不离地跟着羊群，所以他一大早就出发了。我拿着冰糖去找弟弟，我们在草场上相遇。弟弟长大了。他懂得了很多事，这一点很让我惊讶。&lt;/p&gt;
+&lt;p&gt;“其实我也想回去，可我不敢”弟弟低下了头。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>试试Gmail offline 0.1</title>
+      <link>https://icoconuts.github.io/2009/01/31/gmailoffline/</link>
+      <pubDate>Sat, 31 Jan 2009 10:11:05 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/01/31/gmailoffline/</guid>
+      <description>&lt;p&gt;从&lt;a href=&#34;http://www.cnbeta.com/articles/75845.htm&#34;&gt;CB&lt;/a&gt;上得知，Gmail开始支持离线浏览了。这意味着，Gmail已经成为一个离线客户端,您不需要连接到互联网就可以查阅,搜索自己的邮件,并且可以撰写和管理邮件后等待互联网连接上后发送与同步.。&lt;/p&gt;
+&lt;p&gt;用Gmail offline的前提：&lt;/p&gt;
+&lt;p&gt;1.已经使用英文Gmail labs。&lt;/p&gt;
+&lt;p&gt;2.你用的是私人电脑，Gmail会将你所有的邮件和附件保存在本机，部分内容以明文格式保存。&lt;/p&gt;
+&lt;p&gt;3.选择你最常用的浏览器，Gmail Offline的数据保存，是基于浏览器而不是PC的。&lt;/p&gt;
+&lt;p&gt;4.该功能需要Google Gear支持。&lt;/p&gt;
+&lt;p&gt;方法：&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>CSS图像热点运用</title>
+      <link>https://icoconuts.github.io/2009/01/31/cssimagehotlink/</link>
+      <pubDate>Sat, 31 Jan 2009 07:54:13 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/01/31/cssimagehotlink/</guid>
+      <description>&lt;p&gt;之前有朋友说我的主题像是女生用的，于是新的主题匆忙上马，一直没加上RSS的链接。&lt;/p&gt;
+&lt;p&gt;因为一直没有什么好的创意，直到前几天在车上想到以拼图的形式实现，回来PS动手一做，感觉瞒好。&lt;/p&gt;
+&lt;p&gt; &lt;img src=&#34;http://farm4.static.flickr.com/3459/3240091963_0bd287bf65_o.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;但问题是如何实现链接，本想用土办法，PS制切片，再通过CSS分别定义。&lt;/p&gt;
+&lt;p&gt;想想没办法解决又放了几天。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>财神到</title>
+      <link>https://icoconuts.github.io/2009/01/30/caisheng/</link>
+      <pubDate>Thu, 29 Jan 2009 16:47:15 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/01/30/caisheng/</guid>
+      <description>听朋友说起今晚要接财神，于是就顺便到十二点候财神了。 果然，现在鞭炮已经响起。 正如朋友所说，大伙都放鞭</description>
+    </item>
+    
+    <item>
+      <title>Google搜索技巧之按尺寸搜图</title>
+      <link>https://icoconuts.github.io/2009/01/29/googleimagesize/</link>
+      <pubDate>Thu, 29 Jan 2009 03:15:31 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/01/29/googleimagesize/</guid>
+      <description>有时候，要找一些特定尺寸的图片，如1024×768,1280×800等等的图片。之前只能按搜索结果中</description>
+    </item>
+    
+    <item>
+      <title>一则关于国足的旧闻</title>
+      <link>https://icoconuts.github.io/2009/01/28/guozu/</link>
+      <pubDate>Wed, 28 Jan 2009 13:10:15 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/01/28/guozu/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;北方网消息(记者刘颂)：1月15日消息，在北京时间昨天晚上进行的2011年亚洲杯预赛小组赛D组的一场比赛中，中国国家男子足球队2:3负于叙利亚队。&lt;/p&gt;
+&lt;p&gt;在本场比赛赛前，北方网体育频道在经过强烈的思想斗争和频道内部激烈的辩论后，决定为尚在关心国足的球迷文字直播本场比赛。但最终结果证明——我们的善意行为却成为了给广大中国球迷添堵的帮凶。鉴于此，北方网体育频道主页今日将不再对国足消息进行体现。如需要浏览相关消息，请在您的意志足够坚强的情况下，查看其他网站消息。&lt;/p&gt;
+&lt;p&gt;在此，特向昨晚通过北方网体育频道文字直播查看国足消息的网友表示歉意，并对本频道进行文字直播国足消息的记者表示同情。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;出处：&lt;a href=&#34;http://sports.enorth.com.cn/system/2009/01/15/003865336.shtml&#34; target=&#34;_blank&#34;&gt;国足消息请浏览其他网站 网媒的忍耐也是有限的&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;国足的战绩之差，令媒体以这样的方式来表达不满，我觉得是可以理解的。&lt;/p&gt;
+&lt;p&gt;虽然不是什么铁杆球迷，但前几年，每每有时间，有机会，总会观看国足的比赛，世界杯，亚洲杯，包括外围赛，预选赛。。。但结果总是让人失望失望。。。&lt;/p&gt;
+&lt;p&gt;不知从什么时候开始已经不看国足的消息了，有时拿国足的消息只是作为平时休息时的谈资。&lt;/p&gt;
+&lt;p&gt;究竟是什么原因让男足沦落到现在这样？我可给不了什么答案。&lt;/p&gt;
+&lt;p&gt;不过，我看了上面的新闻，倒是来了一时的冲动，想看看国足现在差到了何种地步。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>小美女Magi</title>
+      <link>https://icoconuts.github.io/2009/01/27/magi/</link>
+      <pubDate>Tue, 27 Jan 2009 14:52:55 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/01/27/magi/</guid>
+      <description>因在YouTube贴生活短片而走红的小美女Magi。 由于她也很喜欢日本文化，所以去年便梦想成真，到日</description>
+    </item>
+    
+    <item>
+      <title>新年纪念</title>
+      <link>https://icoconuts.github.io/2009/01/27/09begin/</link>
+      <pubDate>Tue, 27 Jan 2009 14:25:50 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/01/27/09begin/</guid>
+      <description>前一篇是08over,怎么也得也一篇09begin了。呵呵。。 今年过得还是和平常一样吧。 算是工作后的</description>
+    </item>
+    
+    <item>
+      <title>鼠年，over</title>
+      <link>https://icoconuts.github.io/2009/01/24/08over/</link>
+      <pubDate>Sat, 24 Jan 2009 04:12:13 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/01/24/08over/</guid>
+      <description>上午开了个会，唯一记得的就是“领导说下午打扫一下，不值班的可以回去了。” 哈哈~~~08年的工作就到此</description>
+    </item>
+    
+    <item>
+      <title>到年末了</title>
+      <link>https://icoconuts.github.io/2009/01/23/goend/</link>
+      <pubDate>Fri, 23 Jan 2009 15:39:56 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/01/23/goend/</guid>
+      <description>&lt;p&gt;到年末了，这是工作后的第一个年末。&lt;/p&gt;
+&lt;p&gt;这个工作似乎有点特殊，似乎没有到年末就放松啊。直到明天还要才能回去。&lt;/p&gt;
+&lt;p&gt;新年值班又是排得满满的，我连着3天在单位值班。&lt;/p&gt;
+&lt;p&gt;虽然值班没什么事做的，也不想在家里呆着，但明明上级要求只要1人以上就够了，领导却要这样。唉。。。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>新的主题</title>
+      <link>https://icoconuts.github.io/2009/01/21/newtheme/</link>
+      <pubDate>Wed, 21 Jan 2009 12:32:48 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/01/21/newtheme/</guid>
+      <description>喜欢设计的朋友一定有这样的感受，永远不满足自己的作品，之前已经做了3，4个主题，但随着时间的推移，就</description>
+    </item>
+    
+    <item>
+      <title>Flashget3.0beta1试用</title>
+      <link>https://icoconuts.github.io/2009/01/19/flashget30beta1/</link>
+      <pubDate>Mon, 19 Jan 2009 04:49:41 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/01/19/flashget30beta1/</guid>
+      <description>&lt;p&gt;不记得还是什么时候用过flashget了，还依稀记得很早以前，用flashget时，它那很有特色的下载分块显示条。&lt;/p&gt;
+&lt;p&gt;很有意思，但是当时刚出来的迅雷一下子以速度优势把flashget淹没掉了。&lt;/p&gt;
+&lt;p&gt;随着迅雷的越来越霸道，广告多得让我无法忍受了。 但似乎没有更好的选择，直到看到Flashget3.0preview版的出现，让我非常震撼。&lt;/p&gt;
+&lt;p&gt;这个感觉就像是当初Theworld2.0Beta出来一样，感觉耳目一新。&lt;/p&gt;
+&lt;p&gt;我选软件UI一直都是放在第一位的，虽然功能还没有特别完善，但是冲着UI，我已经把迅雷排到第２位了。&lt;/p&gt;
+&lt;p&gt;安装后，开始把玩起来了。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>周末的话剧</title>
+      <link>https://icoconuts.github.io/2009/01/11/weekendm/</link>
+      <pubDate>Sun, 11 Jan 2009 15:13:21 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/01/11/weekendm/</guid>
+      <description>&lt;p&gt;又是一个周末过去了，周末天气很好。&lt;/p&gt;
+&lt;p&gt;早上醒来，阳光从窗户晒进来，没有工作的节奏感，很放松。&lt;/p&gt;
+&lt;p&gt;下午和室友两个人在寝室玩电脑，一边放着网络收音机，听着Love Radio里美妙的音乐，一边享受的阳光的洗礼，感觉一下子回到了大学时代的惬意。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>WordPress分页、摘要研究（一）</title>
+      <link>https://icoconuts.github.io/2009/01/09/moretag/</link>
+      <pubDate>Fri, 09 Jan 2009 02:02:53 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/01/09/moretag/</guid>
+      <description>&lt;p&gt;WordPress的显示日志摘要有两种方式。&lt;/p&gt;
+&lt;p&gt;第1种是通过写文章的时候在其中加入标签。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;lt;!—more–&amp;gt;”Insert More tag”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;效果：你的post直到&amp;lt;!—more–&amp;gt;处断掉输出为止。见此行下。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>越是依赖什么，越是会被什么伤害</title>
+      <link>https://icoconuts.github.io/2009/01/08/hurt/</link>
+      <pubDate>Thu, 08 Jan 2009 14:36:11 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/01/08/hurt/</guid>
+      <description>今天工作实在无聊，正好看到有《读者》，一则漫画里写到 越是依赖什么，越是会被什么伤害 想想真是个万能公式</description>
+    </item>
+    
+    <item>
+      <title>海贼王漫画_531集打包下载</title>
+      <link>https://icoconuts.github.io/2009/01/03/onepiece-531/</link>
+      <pubDate>Sat, 03 Jan 2009 12:55:00 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/01/03/onepiece-531/</guid>
+      <description>来源：爱在线漫画-海贼王 在线观看海贼王531话：海贼王531话 更多在线漫画资源请看：爱在线漫画</description>
+    </item>
+    
+    <item>
+      <title>海贼王漫画_530集打包下载</title>
+      <link>https://icoconuts.github.io/2008/12/29/onepiece-530/</link>
+      <pubDate>Mon, 29 Dec 2008 12:52:00 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2008/12/29/onepiece-530/</guid>
+      <description>来源：爱在线漫画-海贼王 在线观看海贼王530话：海贼王530话 更多在线漫画资源请看：爱在线漫画</description>
+    </item>
+    
+    <item>
+      <title>海贼王漫画_515-529(15集)打包下载</title>
+      <link>https://icoconuts.github.io/2008/12/20/onepiece-515-529/</link>
+      <pubDate>Sat, 20 Dec 2008 12:37:00 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2008/12/20/onepiece-515-529/</guid>
+      <description>下载：skyDrive下载 来源：爱在线漫画-海贼王 更多在线漫画资源请看：爱在线漫画</description>
+    </item>
+    
+    <item>
+      <title>海贼王漫画_500-514(15集)打包下载</title>
+      <link>https://icoconuts.github.io/2008/12/16/onepiece-500-514/</link>
+      <pubDate>Tue, 16 Dec 2008 12:28:00 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2008/12/16/onepiece-500-514/</guid>
+      <description>下载：skyDrive下载 来源：爱在线漫画-海贼王 更多在线漫画资源请看：爱在线漫画</description>
+    </item>
+    
+    <item>
+      <title>VS:Silence</title>
+      <link>https://icoconuts.github.io/2008/12/11/vssilence/</link>
+      <pubDate>Thu, 11 Dec 2008 11:46:00 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2008/12/11/vssilence/</guid>
+      <description>Silence by ~ahlberg{.u} on deviantART 很喜欢这个主题的按钮风格，可以借鉴！</description>
+    </item>
+    
+    <item>
+      <title>Acer Aspire 4730ZG(321G16Cn)</title>
+      <link>https://icoconuts.github.io/2008/10/25/acer-aspire-4730zg321g16cn/</link>
+      <pubDate>Sat, 25 Oct 2008 13:40:47 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2008/10/25/acer-aspire-4730zg321g16cn/</guid>
+      <description>&lt;p&gt;前几天找了&lt;a href=&#34;http://127.0.0.1/2008/10/19/4930g581g16mn/&#34;&gt;Acer Aspire 4930G(581G16Mn)&lt;/a&gt;这款机子，但觉得价格有点贵了。对于我们这种刚上工作岗位的人来说，真不是个小数目啊。&lt;br&gt;
+而且，身上的手机已经跟了我四年了，她也想退休了，还得挤出资金准备买手机呢。&lt;/p&gt;
+&lt;p&gt;于是就找了款相对又便宜几百的本本，性价比依然很高哦。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Innocence-Avril lavigne</title>
+      <link>https://icoconuts.github.io/2008/10/25/innocence/</link>
+      <pubDate>Sat, 25 Oct 2008 13:00:38 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2008/10/25/innocence/</guid>
+      <description>突然想听这首歌了。</description>
+    </item>
+    
+    <item>
+      <title>Acer Aspire 4930G(581G16Mn)</title>
+      <link>https://icoconuts.github.io/2008/10/19/4930g581g16mn/</link>
+      <pubDate>Sun, 19 Oct 2008 02:35:28 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2008/10/19/4930g581g16mn/</guid>
+      <description>&lt;p&gt;开始工作了，准备物色一台本本了。&lt;/p&gt;
+&lt;p&gt;我买东西，一直想买好的，就像四年前买台式机也是,到现在还是“筋骨硬朗”，只是不便带来带去的了。&lt;/p&gt;
+&lt;p&gt;以前ASUS在我心中一直是最好的牌子，但现在已经处在风口浪尖了。&lt;/p&gt;
+&lt;p&gt;剩下的国产的牌子都觉得不太喜欢，Lenovo现在真的做得不错了，但thinkpad咱也买不起啊。&lt;/p&gt;
+&lt;p&gt;先说说自己的用途吧。&lt;/p&gt;
+&lt;p&gt;除了日常的使用，虽然个人不怎么玩3D游戏，但平时还会用到图像处理，所以对于集显，基本无视。独显中等就可以了。&lt;/p&gt;
+&lt;p&gt;还有，考虑到以后系统可能会升级（目前肯定是用XP了），内存考虑会加到2G。&lt;/p&gt;
+&lt;p&gt;挑来挑去，觉得Acer的机子性价比比较突出，很符合我现在的情况。呵呵~~~个人比较看重这款。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>骨牌之城</title>
+      <link>https://icoconuts.github.io/2008/10/18/gupai/</link>
+      <pubDate>Sat, 18 Oct 2008 07:52:02 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2008/10/18/gupai/</guid>
+      <description>[youtube Fcnzam_R9c4 500 350]</description>
+    </item>
+    
+    <item>
+      <title>T-Mobile G1 Android Phone Hands-On</title>
+      <link>https://icoconuts.github.io/2008/10/17/g1-hands-on/</link>
+      <pubDate>Fri, 17 Oct 2008 12:20:19 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2008/10/17/g1-hands-on/</guid>
+      <description>[youtube CO7Yxyux1_k 500 370]</description>
+    </item>
+    
+    <item>
+      <title>盘点:Beijing2008奥运会中国代表团所获金牌41-51</title>
+      <link>https://icoconuts.github.io/2008/09/09/china_medal_41_51-2/</link>
+      <pubDate>Tue, 09 Sep 2008 02:17:13 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2008/09/09/china_medal_41_51-2/</guid>
+      <description>41 8月19日，中国选手邹凯在北京奥运会男子单杠个人赛中，以16.200分夺得金牌，为中国代表团捧得北</description>
+    </item>
+    
+    <item>
+      <title>盘点:Beijing2008奥运会中国代表团所获金牌31-40</title>
+      <link>https://icoconuts.github.io/2008/09/02/china_medal_31_40/</link>
+      <pubDate>Tue, 02 Sep 2008 07:11:46 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2008/09/02/china_medal_31_40/</guid>
+      <description>31 8月17日，中国选手邹凯在北京奥运会男子自由体操个人赛中，以16.050分夺得金牌，为中国代表团捧</description>
+    </item>
+    
+    <item>
+      <title>盘点:Beijing2008奥运会中国代表团所获金牌21-30</title>
+      <link>https://icoconuts.github.io/2008/09/01/china_medal_21_30/</link>
+      <pubDate>Mon, 01 Sep 2008 12:08:56 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2008/09/01/china_medal_21_30/</guid>
+      <description>21 8月14日，中国选手张娟娟在北京奥运会女子射箭个人赛中，夺得金牌，为中国代表团捧得北京奥运会的第2</description>
+    </item>
+    
+    <item>
+      <title>盘点:Beijing2008奥运会中国代表团所获金牌11-20</title>
+      <link>https://icoconuts.github.io/2008/08/24/china_medal_11_20/</link>
+      <pubDate>Sun, 24 Aug 2008 07:16:51 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2008/08/24/china_medal_11_20/</guid>
+      <description>11 8月12日，中国选手陈若琳/王鑫在北京奥运会女子跳水双人10米板决赛中，以363.54分的获得冠军</description>
+    </item>
+    
+    <item>
+      <title>盘点:Beijing2008奥运会中国代表团所获金牌1-10</title>
+      <link>https://icoconuts.github.io/2008/08/15/china_medal_1_10/</link>
+      <pubDate>Fri, 15 Aug 2008 07:30:28 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2008/08/15/china_medal_1_10/</guid>
+      <description>1 8月9日，中国选手陈燮霞在北京奥运会女子48公斤级举重比赛中，以212公斤的总成绩获得冠军，为中国</description>
+    </item>
+    
+    <item>
+      <title>815</title>
+      <link>https://icoconuts.github.io/2008/08/15/08815/</link>
+      <pubDate>Fri, 15 Aug 2008 07:13:12 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2008/08/15/08815/</guid>
+      <description>当初选域名的时候取这个名，就是因为生日缘故。 听着还是瞒吉利的（呵呵，可能还是自我感觉良好吧。。。） 突</description>
+    </item>
+    
+    <item>
+      <title>普通的一天</title>
+      <link>https://icoconuts.github.io/2008/08/08/080808/</link>
+      <pubDate>Fri, 08 Aug 2008 08:40:36 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2008/08/08/080808/</guid>
+      <description>&lt;p&gt;看着前一篇日志还是6月21日的，真的觉得时间过得好快。&lt;/p&gt;
+&lt;p&gt;前些日子空间一直访问不了，也没在意，一直没什么心情。&lt;/p&gt;
+&lt;p&gt;但有一次突发奇想用手机上的Opera上了一下，居然可以打开，才怀疑这里是被和谐了。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Euro 2008 – Cronaldo the Drama Queen</title>
+      <link>https://icoconuts.github.io/2008/06/21/cronaldo/</link>
+      <pubDate>Sat, 21 Jun 2008 14:45:51 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2008/06/21/cronaldo/</guid>
+      <description>[youtube 4OTIPGgzkL0 500 350]</description>
+    </item>
+    
+    <item>
+      <title>毕业了</title>
+      <link>https://icoconuts.github.io/2008/06/19/university_over/</link>
+      <pubDate>Thu, 19 Jun 2008 12:44:17 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2008/06/19/university_over/</guid>
+      <description>&lt;p&gt;13日的答辩已经顺利通过了，那时突然的就忙起来了。&lt;/p&gt;
+&lt;p&gt;可能是一直在办公室的缘故，觉得原本很正常的一次论文答辩。&lt;/p&gt;
+&lt;p&gt;原来也还是一伙人的小政治游戏~~~&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>明天要答辩了</title>
+      <link>https://icoconuts.github.io/2008/06/13/biyezao/</link>
+      <pubDate>Fri, 13 Jun 2008 12:17:10 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2008/06/13/biyezao/</guid>
+      <description>&lt;p&gt;时间过得好快。&lt;/p&gt;
+&lt;p&gt;几年前大一的时候还清晰的记得，大四学姐学长们在讲台前面对老师和同学，熟练地陈述着自己的论文观点和内容。&lt;/p&gt;
+&lt;p&gt;明天，我也要做同样的事情了。&lt;/p&gt;
+&lt;p&gt;这几天真的是很忙。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>奥运圣火经过湖南科技大学</title>
+      <link>https://icoconuts.github.io/2008/06/11/olympicflamehnkd/</link>
+      <pubDate>Wed, 11 Jun 2008 09:30:14 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2008/06/11/olympicflamehnkd/</guid>
+      <description>&lt;p&gt;&amp;lt;6月5日&amp;gt;&lt;/p&gt;
+&lt;p&gt;终于等来了，奥运圣火今天来到了湘潭。&lt;/p&gt;
+&lt;p&gt;一大早，我们便排成队来到校门口，这场面，真是太难得一见了。&lt;/p&gt;
+&lt;p&gt;尤其是对于我们即将毕业的人来说。&lt;/p&gt;
+&lt;p&gt;早早的来到指进地点，于是开始了漫长的等待…&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>11.11</title>
+      <link>https://icoconuts.github.io/2007/11/11/071111/</link>
+      <pubDate>Sun, 11 Nov 2007 14:41:39 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/11/11/071111/</guid>
+      <description>光棍节，室友们一起出去吃了顿饭，饭后，有人怀念起北校了。 于是，五个男人一起逛着过去了，一路上尽是感慨</description>
+    </item>
+    
+    <item>
+      <title>四天长假</title>
+      <link>https://icoconuts.github.io/2007/11/07/fourday/</link>
+      <pubDate>Wed, 07 Nov 2007 10:06:56 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/11/07/fourday/</guid>
+      <description>好久没来yo2了。 一直忙着新博客的架设和主题的制作，直到今天终于算是差不多了。 新博客地址：http:</description>
+    </item>
+    
+    <item>
+      <title>NOKIA音乐手机平面广告</title>
+      <link>https://icoconuts.github.io/2007/11/04/nokiaxpress/</link>
+      <pubDate>Sun, 04 Nov 2007 03:29:42 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/11/04/nokiaxpress/</guid>
+      <description>&lt;p&gt;音符如此震撼，可想而知，音乐会多么美秒。(3Pic)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>书：精通CSS：高级Web标准解决方案</title>
+      <link>https://icoconuts.github.io/2007/10/18/css-mastery/</link>
+      <pubDate>Thu, 18 Oct 2007 08:34:38 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/10/18/css-mastery/</guid>
+      <description>&lt;p&gt;这本是我最近在看的一本还是CSS相关的书籍。&lt;/p&gt;
+&lt;p&gt;它有什么特点？&lt;/p&gt;
+&lt;p&gt;第一，看书面介绍：&lt;/p&gt;
+&lt;p&gt;　■Amazon第一CSS畅销书&lt;br&gt;
+　■最有用的CSS技术汇总&lt;br&gt;
+　■解密业界大师绝技&lt;br&gt;
+够有吸引力吧。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>哇，主题做好了</title>
+      <link>https://icoconuts.github.io/2007/10/17/themeisdone/</link>
+      <pubDate>Wed, 17 Oct 2007 05:34:48 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/10/17/themeisdone/</guid>
+      <description>&lt;p&gt;哇，主题做好了。好辛苦啊。。。。。。&lt;/p&gt;
+&lt;p&gt;个人感觉还行。不过有些地方其在是弄不懂。哪位高手指点指点就最好了。&lt;/p&gt;
+&lt;p&gt;以下是这次的一些体会和没有解决的问题：&lt;/p&gt;
+&lt;p&gt;1.PS做个网页效果容易，通过CSS定义就很难。&lt;/p&gt;
+&lt;p&gt;加上浏览器对CSS支持的效果差别，往往会出现很大的反差。&lt;/p&gt;
+&lt;p&gt;不知道是我哪里没设计好，还是大家都是这样的。&lt;/p&gt;
+&lt;p&gt;还好之前把图书馆有关CSS的书籍差不多都看了，&lt;/p&gt;
+&lt;p&gt;遇到浏览器的效果偏差，马上加上了browse hacks.&lt;/p&gt;
+&lt;p&gt;虽然说&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>QQ被盗后急救好友名单</title>
+      <link>https://icoconuts.github.io/2007/10/16/qqlist-recover/</link>
+      <pubDate>Tue, 16 Oct 2007 08:22:02 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/10/16/qqlist-recover/</guid>
+      <description>已经不是一次两次听朋友说QQ被盗了。 QQ被盗后可以再去申请一个，但是QQ里面的好友却丢了，这给很多朋</description>
+    </item>
+    
+    <item>
+      <title>埋头于CSS学习</title>
+      <link>https://icoconuts.github.io/2007/10/10/study-css/</link>
+      <pubDate>Wed, 10 Oct 2007 12:42:47 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/10/10/study-css/</guid>
+      <description>&lt;p&gt;今天一天埋头于CSS的学习中，在图书馆研究那本&lt;a href=&#34;http://elion.yo2.cn/archives/448647&#34;&gt;无懈可击的Web设计&lt;/a&gt;，真是解决了不少的问题。&lt;/p&gt;
+&lt;p&gt;看了大师们的书，发现他们考虑的是全局的对象，包括使用不同浏览器的用户或使用屏幕阅读器的用户。&lt;/p&gt;
+&lt;p&gt;我一直以为做个自己感觉好的界面就可以了。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>书:无懈可击的Web设计</title>
+      <link>https://icoconuts.github.io/2007/10/08/bulletpro-of-web-design/</link>
+      <pubDate>Mon, 08 Oct 2007 09:05:47 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/10/08/bulletpro-of-web-design/</guid>
+      <description>&lt;p&gt;看了两个多星期的《CSS入门经典》后，对CSS有了全新的认识，把以前零散的知识都串联起来了。&lt;/p&gt;
+&lt;p&gt;感觉现在正陷入CSS的深渊了，今天又在图书馆找到一本好书(非新书)。&lt;/p&gt;
+&lt;p&gt;《无懈可击的Web设计-利用XHTML和CSS提高网站的灵活性与适应性》&lt;/p&gt;
+&lt;p&gt;(简称“无懈可击的Web设计”)&lt;/p&gt;
+&lt;p&gt;看题目感觉说的有点狂，其实写的真的很有理。&lt;/p&gt;
+&lt;p&gt;反正我看了前两个例子已经非常佩服了。&lt;/p&gt;
+&lt;p&gt;明天接着去图书馆看。&lt;/p&gt;
+&lt;p&gt;同时也介绍给对CSS有兴趣的朋友。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>9.3</title>
+      <link>https://icoconuts.github.io/2007/09/30/070930/</link>
+      <pubDate>Sun, 30 Sep 2007 02:56:08 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/09/30/070930/</guid>
+      <description>离开网络一段时间， 专心做事… 祝各位假期愉快…</description>
+    </item>
+    
+    <item>
+      <title>陪伴我三年多的手机</title>
+      <link>https://icoconuts.github.io/2007/09/29/my6220/</link>
+      <pubDate>Sat, 29 Sep 2007 12:21:00 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/09/29/my6220/</guid>
+      <description>&lt;p&gt;陪伴我三年多的手机,非常喜欢它的按键。&lt;/p&gt;
+&lt;p&gt;非常有手感，而且难磨损。&lt;/p&gt;
+&lt;p&gt;手机绘制:IL&lt;/p&gt;
+&lt;p&gt;后期及效果:PS&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>书:CSS入门经典(第2版)</title>
+      <link>https://icoconuts.github.io/2007/09/28/cssmaster/</link>
+      <pubDate>Fri, 28 Sep 2007 14:38:59 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/09/28/cssmaster/</guid>
+      <description>&lt;p&gt;昨天图书馆新到一批书，今天一早就去淘了。&lt;/p&gt;
+&lt;p&gt;淘回三本，个人感觉很不错。&lt;/p&gt;
+&lt;p&gt;介绍一下…&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Leoparn系列液晶显示器上市</title>
+      <link>https://icoconuts.github.io/2007/09/28/leoparnlcd/</link>
+      <pubDate>Fri, 28 Sep 2007 08:34:48 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/09/28/leoparnlcd/</guid>
+      <description>&lt;p&gt;Leoparn系列液晶显示器上市….*^_^*&lt;/p&gt;
+&lt;p&gt;附海报…&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>9.25</title>
+      <link>https://icoconuts.github.io/2007/09/25/070925/</link>
+      <pubDate>Mon, 24 Sep 2007 16:10:04 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/09/25/070925/</guid>
+      <description>&lt;p&gt;时间过得好快，明天是中秋节了。&lt;/p&gt;
+&lt;p&gt;“每逢佳节倍思亲”&lt;/p&gt;
+&lt;p&gt;这句话写得真好。&lt;/p&gt;
+&lt;p&gt;在一般人看来，可能感觉不到。&lt;/p&gt;
+&lt;p&gt;但对于一个身处异乡的人来说，&lt;/p&gt;
+&lt;p&gt;这就是最好的写照了。&lt;/p&gt;
+&lt;p&gt;大四了，总爱说XX是最后一次了。&lt;/p&gt;
+&lt;p&gt;同样，这回在大学也是过最后一个中秋了。&lt;/p&gt;
+&lt;p&gt;你还记得大学里这有意义的日子是怎么过的吗？&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>夜空</title>
+      <link>https://icoconuts.github.io/2007/09/24/nightsky/</link>
+      <pubDate>Mon, 24 Sep 2007 14:33:01 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/09/24/nightsky/</guid>
+      <description>&lt;p&gt;一直很喜欢看夜空。&lt;/p&gt;
+&lt;p&gt;尤其是在夏天，星星特别的亮。&lt;/p&gt;
+&lt;p&gt;初中的时候，还特别买了DISCOVERY CHANNE的《夜空》。&lt;/p&gt;
+&lt;p&gt;那时候真是迷上了天文，可是经济条件不行，又在农村。&lt;/p&gt;
+&lt;p&gt;谁去给你买先进的天文器具呢。唉~&lt;/p&gt;
+&lt;p&gt;但是靠着这本《夜空》，我认识了星座。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>女足止步了…</title>
+      <link>https://icoconuts.github.io/2007/09/23/women-stop/</link>
+      <pubDate>Sun, 23 Sep 2007 14:47:47 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/09/23/women-stop/</guid>
+      <description>&lt;p&gt;3天前,还写了篇,说道不知道女足还能走多远,只有拭目以待了。&lt;/p&gt;
+&lt;p&gt;结果,1/4决赛便止步了。&lt;/p&gt;
+&lt;p&gt;看球去晚了，只好站着了。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>One-T&#43;cool-T</title>
+      <link>https://icoconuts.github.io/2007/09/22/one-tcool-t/</link>
+      <pubDate>Sat, 22 Sep 2007 12:19:37 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/09/22/one-tcool-t/</guid>
+      <description>专辑名:Coca Cola Hits 2003 歌手名Coca Cola Hits 语种：英语 风格：Electronic/Dance/DJ 发行时</description>
+    </item>
+    
+    <item>
+      <title>Lee牛仔裤</title>
+      <link>https://icoconuts.github.io/2007/09/20/lee/</link>
+      <pubDate>Thu, 20 Sep 2007 15:38:46 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/09/20/lee/</guid>
+      <description>&lt;p&gt;花了N个小时…&lt;/p&gt;
+&lt;p&gt;绘制软件:PS&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>女足出线了…</title>
+      <link>https://icoconuts.github.io/2007/09/20/women-start/</link>
+      <pubDate>Thu, 20 Sep 2007 14:30:20 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/09/20/women-start/</guid>
+      <description>&lt;p&gt;女足的运气总是比男足好…&lt;/p&gt;
+&lt;p&gt;之前,一直都说看女足比看男足更让人欣慰,更能让人开心.&lt;/p&gt;
+&lt;p&gt;可是今天一场看下来,除了比赛胜利了.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Photoshop更新Logo</title>
+      <link>https://icoconuts.github.io/2007/09/19/photoshop-logo/</link>
+      <pubDate>Wed, 19 Sep 2007 12:19:51 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/09/19/photoshop-logo/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://news.mydrivers.com/img/20070919/02435105.gif&#34; alt=&#34;logo&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>9.16</title>
+      <link>https://icoconuts.github.io/2007/09/16/070916/</link>
+      <pubDate>Sun, 16 Sep 2007 15:42:22 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/09/16/070916/</guid>
+      <description>&lt;p&gt;在长沙玩了三天回来了。&lt;/p&gt;
+&lt;p&gt;上次去长沙，还是大一时候的十一。&lt;/p&gt;
+&lt;p&gt;那时候还是单身，也没想回家。&lt;/p&gt;
+&lt;p&gt;于是和大家一起去爬山什么的。&lt;/p&gt;
+&lt;p&gt;现在不一样了，想去买些东西，逛逛步行街。&lt;/p&gt;
+&lt;p&gt;第一天太累了，就没出去。&lt;/p&gt;
+&lt;p&gt;－－－－－－－－－－－－－－－－－－－－－－－&lt;/p&gt;
+&lt;p&gt;第二天早早的起来就出发了。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>紫色的拥抱!</title>
+      <link>https://icoconuts.github.io/2007/09/14/usb/</link>
+      <pubDate>Fri, 14 Sep 2007 03:15:50 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/09/14/usb/</guid>
+      <description>Sandisk紫色的Ｕ盘，感觉很特别。 我觉得紫色的东西，很高贵，但同时又有一丝悲凉。 它似乎充满着神秘</description>
+    </item>
+    
+    <item>
+      <title>9.14</title>
+      <link>https://icoconuts.github.io/2007/09/14/070914/</link>
+      <pubDate>Fri, 14 Sep 2007 03:08:15 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/09/14/070914/</guid>
+      <description>昨天同学过生日,又是去KTV。 本来不想去的,但想想还是去吧。 毕竟是最后一次了。 一到那里,正看到李*在</description>
+    </item>
+    
+    <item>
+      <title>9.1</title>
+      <link>https://icoconuts.github.io/2007/09/10/070910/</link>
+      <pubDate>Sun, 09 Sep 2007 16:59:03 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/09/10/070910/</guid>
+      <description>&lt;p&gt;最近的麻烦事终于告一段落了。&lt;/p&gt;
+&lt;p&gt;这可算是我“修电脑史上”最“惨痛”的一次经历了。-_-‘&lt;/p&gt;
+&lt;p&gt;为了纪念一下，就来个长篇介绍。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>iPod之进化</title>
+      <link>https://icoconuts.github.io/2007/09/09/ipod-story/</link>
+      <pubDate>Sun, 09 Sep 2007 04:26:32 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/09/09/ipod-story/</guid>
+      <description>CB上看到这么一张图片，使像我们这种不了解iPod的人来说真是一个全面直观的了解。 有兴趣的，可以看看</description>
+    </item>
+    
+    <item>
+      <title>9.09</title>
+      <link>https://icoconuts.github.io/2007/09/09/0909/</link>
+      <pubDate>Sat, 08 Sep 2007 16:04:48 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/09/09/0909/</guid>
+      <description>从来没有在这么晚写过日志。 好像深夜里容易让人心静，真的。 湘潭又开始下雨了， 看天气预报又将会是连着好几</description>
+    </item>
+    
+    <item>
+      <title>世界之窗皮肤大赛获奖作品揭晓</title>
+      <link>https://icoconuts.github.io/2007/09/08/theworldskincp/</link>
+      <pubDate>Sat, 08 Sep 2007 12:06:15 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/09/08/theworldskincp/</guid>
+      <description>为期二个月的皮肤大赛终于结束了。 作为版主，我似乎没做什么。除了之前为“皮肤制作参考”做了点材料。 之后</description>
+    </item>
+    
+    <item>
+      <title>架好本地WP了</title>
+      <link>https://icoconuts.github.io/2007/09/04/local-wp/</link>
+      <pubDate>Tue, 04 Sep 2007 14:57:05 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/09/04/local-wp/</guid>
+      <description>在暑假里的时候，就已经开始琢磨修改个WP的主题了。 可是鉴于要架构mysql+php的环境，太麻烦了。</description>
+    </item>
+    
+    <item>
+      <title>Bogge</title>
+      <link>https://icoconuts.github.io/2007/09/04/bogge/</link>
+      <pubDate>Tue, 04 Sep 2007 09:11:41 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/09/04/bogge/</guid>
+      <description>Bogge by ~leoparn{.u} on deviantART －－－－－－－－－－－－－－－－－－－ 之前做的鼠标还是1年多以前的了，而且一直用到了昨天。</description>
+    </item>
+    
+    <item>
+      <title>9.04</title>
+      <link>https://icoconuts.github.io/2007/09/04/070904/</link>
+      <pubDate>Tue, 04 Sep 2007 09:06:14 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/09/04/070904/</guid>
+      <description>今天终于天晴了。 早早地就打算去市里买些东西了。 可去了市里，一下子开始茫然起来。不知道该往哪走… 之前一</description>
+    </item>
+    
+    <item>
+      <title>暑假生活之07.21</title>
+      <link>https://icoconuts.github.io/2007/09/03/070721/</link>
+      <pubDate>Mon, 03 Sep 2007 11:31:03 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/09/03/070721/</guid>
+      <description>回家的火车上遇到了一个工程学院的驻港部队的大四学生。 他是湘潭本地人，要去上海的女朋友那里，并找找工作</description>
+    </item>
+    
+    <item>
+      <title>回来了</title>
+      <link>https://icoconuts.github.io/2007/09/02/back/</link>
+      <pubDate>Sun, 02 Sep 2007 02:46:52 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/09/02/back/</guid>
+      <description>９月２日，我回来了。 离开嘉兴时，天气阴沉； 到达湘潭时，狂风大雨； 真是有点不是滋味… 直到刚才才取回电脑</description>
+    </item>
+    
+    <item>
+      <title>7.18</title>
+      <link>https://icoconuts.github.io/2007/07/18/070718/</link>
+      <pubDate>Wed, 18 Jul 2007 10:13:45 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/07/18/070718/</guid>
+      <description>还是迫不及待地要回去了。 在这里每天都在想像那天会是什么样子。 与其多想，不如早点变成现实。 看看熟悉的地</description>
+    </item>
+    
+    <item>
+      <title>天使的三滴眼泪</title>
+      <link>https://icoconuts.github.io/2007/07/18/angel-tears/</link>
+      <pubDate>Wed, 18 Jul 2007 10:09:01 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/07/18/angel-tears/</guid>
+      <description>一天,上帝派他的一个儿子去行走人间,并给了他三滴泪水,上帝望着他说:”当第三滴泪水落地时,也就是你回</description>
+    </item>
+    
+    <item>
+      <title>送给心情不好的人</title>
+      <link>https://icoconuts.github.io/2007/07/17/tosb/</link>
+      <pubDate>Tue, 17 Jul 2007 15:32:15 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/07/17/tosb/</guid>
+      <description>人生不可免的缺憾,你怎样面对呢? 逃避不一定躲得过 面对不一定最难受 孤单不一定不快乐 得到不一定能长久 失去</description>
+    </item>
+    
+    <item>
+      <title>Flower Power</title>
+      <link>https://icoconuts.github.io/2007/07/17/flower-power/</link>
+      <pubDate>Tue, 17 Jul 2007 02:21:25 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/07/17/flower-power/</guid>
+      <description>Flower Power by *iAmFreeman{.u} on deviantART －－－－－－－－－－ 嗯，好酷~~ 可惜没有1024*768的，感觉有点落伍了。</description>
+    </item>
+    
+    <item>
+      <title>男人让女人乖乖听话的一句粗话</title>
+      <link>https://icoconuts.github.io/2007/07/16/man-story/</link>
+      <pubDate>Mon, 16 Jul 2007 08:20:46 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/07/16/man-story/</guid>
+      <description>赵先生一早起来就头痛的要死。。。。。。 因为他前一天晚上喝的烂醉回家！ 他强迫自己把疲惫不堪的眼睛睁开。</description>
+    </item>
+    
+    <item>
+      <title>放假咯</title>
+      <link>https://icoconuts.github.io/2007/07/16/holiday/</link>
+      <pubDate>Mon, 16 Jul 2007 08:07:05 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/07/16/holiday/</guid>
+      <description>考完咯，放假咯~~ 呵呵~~ 现在剩下的事就是见习报告了。 女生一般都是考试前就写好了， 所以她们都忙着今天</description>
+    </item>
+    
+    <item>
+      <title>7.15</title>
+      <link>https://icoconuts.github.io/2007/07/15/070715/</link>
+      <pubDate>Sun, 15 Jul 2007 12:35:18 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/07/15/070715/</guid>
+      <description>看中国队的比赛，怎么说呢。 真像刚才看球时候有位同学说的， “看中国队的比赛，就是在挑战自己的心脏”。 上</description>
+    </item>
+    
+    <item>
+      <title>测试：挖掘你的潜意识下的“感情伤口”</title>
+      <link>https://icoconuts.github.io/2007/07/15/testhurt/</link>
+      <pubDate>Sun, 15 Jul 2007 04:21:22 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/07/15/testhurt/</guid>
+      <description>题目： 请从咖啡色、灰色、蓝色、绿色、红色、黄色、紫色、黑色之中选择一种颜色来搭配“咖啡色”。 从你选择</description>
+    </item>
+    
+    <item>
+      <title>7.14</title>
+      <link>https://icoconuts.github.io/2007/07/14/070714/</link>
+      <pubDate>Sat, 14 Jul 2007 15:15:15 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/07/14/070714/</guid>
+      <description>见习结束了,现在剩下的就是考试了。 明天还最后看一下应该没什么问题了。 考完试，还打算呆几天。 一是为了皮</description>
+    </item>
+    
+    <item>
+      <title>手机变形金刚</title>
+      <link>https://icoconuts.github.io/2007/07/14/trans-phone/</link>
+      <pubDate>Sat, 14 Jul 2007 06:04:42 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/07/14/trans-phone/</guid>
+      <description>手机变形金刚，酷得没话说！！ 三星JUNE： 摘自engadget:http://cn.engadget</description>
+    </item>
+    
+    <item>
+      <title>The Devil Wears Prada观感</title>
+      <link>https://icoconuts.github.io/2007/07/12/the-devil-wears-pradaview/</link>
+      <pubDate>Thu, 12 Jul 2007 13:17:46 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/07/12/the-devil-wears-pradaview/</guid>
+      <description>今天真的有点奇怪，自从在书城里无意看到《The Devil Wears Prada》这部影片的专辑图片，看到Andy Sac</description>
+    </item>
+    
+    <item>
+      <title>The Devil Wears Prada</title>
+      <link>https://icoconuts.github.io/2007/07/12/the-devil-wears-prada/</link>
+      <pubDate>Thu, 12 Jul 2007 07:56:49 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/07/12/the-devil-wears-prada/</guid>
+      <description>今天在市里逛，看到了这个影片，虽然不是什么新片，但想想喜剧应该不错。 过会飞鸽上问问~~</description>
+    </item>
+    
+    <item>
+      <title>7.12</title>
+      <link>https://icoconuts.github.io/2007/07/12/070712/</link>
+      <pubDate>Thu, 12 Jul 2007 07:36:00 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/07/12/070712/</guid>
+      <description>这几天见习可真累啊~~~~~ 今天下午休息，去市里逛了逛，一逛就是三个小时，不过在空调里吹比在寝室里真</description>
+    </item>
+    
+    <item>
+      <title>牛排</title>
+      <link>https://icoconuts.github.io/2007/07/09/niupai/</link>
+      <pubDate>Mon, 09 Jul 2007 13:05:59 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/07/09/niupai/</guid>
+      <description>一天， 七分熟的牛排和五分熟的牛排在街上相遇了， 但是都没有打招呼… 为什么呢? 答案在下一行。选中即可。 哦</description>
+    </item>
+    
+    <item>
+      <title>7.09</title>
+      <link>https://icoconuts.github.io/2007/07/09/0708-2/</link>
+      <pubDate>Mon, 09 Jul 2007 12:56:48 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/07/09/0708-2/</guid>
+      <description>今天知道什么是见习了！ 早上八点集合，结果在俱乐部门口等了半个小时才乘车出发。 到第一目的地－－人事局。</description>
+    </item>
+    
+    <item>
+      <title>测试你和什么人最配？</title>
+      <link>https://icoconuts.github.io/2007/07/09/test-pei/</link>
+      <pubDate>Mon, 09 Jul 2007 10:38:47 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/07/09/test-pei/</guid>
+      <description>在TW论坛上看到的，以前对这类不太感兴趣。 但现在觉得测测也许会有帮助呢？ 原来处境不一样了，有点观念之</description>
+    </item>
+    
+    <item>
+      <title>7.08</title>
+      <link>https://icoconuts.github.io/2007/07/08/070708/</link>
+      <pubDate>Sun, 08 Jul 2007 12:47:02 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/07/08/070708/</guid>
+      <description>不知为什么今天竟能心平气和地发了这么多条， 真的不能否认， 仅仅这样就让我心情好了许多。 不知道那一头是什</description>
+    </item>
+    
+    <item>
+      <title>7.07</title>
+      <link>https://icoconuts.github.io/2007/07/07/070707/</link>
+      <pubDate>Sat, 07 Jul 2007 14:12:57 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/07/07/070707/</guid>
+      <description>事情越来越多了，人也变得越来越烦了。 姐姐发短信来，我就知道又是家里的事了。 每次都是叫我如果放假了就快</description>
+    </item>
+    
+    <item>
+      <title>-Tragic Endings-</title>
+      <link>https://icoconuts.github.io/2007/07/07/tragic-endings/</link>
+      <pubDate>Sat, 07 Jul 2007 02:35:27 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/07/07/tragic-endings/</guid>
+      <description>-Tragic Endings- by =BlackRibbonRose{.u} on deviantART －－－－－－－－ 真想看看她的背景啊~~’ ~o~</description>
+    </item>
+    
+    <item>
+      <title>Le Vol Des Oiseaux</title>
+      <link>https://icoconuts.github.io/2007/07/06/le-vol-des-oiseaux/</link>
+      <pubDate>Fri, 06 Jul 2007 04:37:48 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/07/06/le-vol-des-oiseaux/</guid>
+      <description>Le Vol Des Oiseaux by ~rosabella{.u} on deviantART －－－－－－－－－－ 看了瞒震撼的，去体验一下这份心情吧。</description>
+    </item>
+    
+    <item>
+      <title>7.06</title>
+      <link>https://icoconuts.github.io/2007/07/06/070706/</link>
+      <pubDate>Fri, 06 Jul 2007 04:27:05 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/07/06/070706/</guid>
+      <description>几天没来写东西了,可能感觉上网已经没有多少值得自己留恋的了… 除了： 浏览新闻，IT的，国际的，国内的…</description>
+    </item>
+    
+    <item>
+      <title>7.03</title>
+      <link>https://icoconuts.github.io/2007/07/03/070703/</link>
+      <pubDate>Tue, 03 Jul 2007 13:52:29 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/07/03/070703/</guid>
+      <description>和弟弟说了心事，悲伤又回来了… 难道真的忘不掉吗？</description>
+    </item>
+    
+    <item>
+      <title>Shot update</title>
+      <link>https://icoconuts.github.io/2007/07/02/shot-update/</link>
+      <pubDate>Mon, 02 Jul 2007 13:52:13 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/07/02/shot-update/</guid>
+      <description>Shot update by ~Andycap{.u} on deviantART</description>
+    </item>
+    
+    <item>
+      <title>Mac OSX Tiger 5 Colors</title>
+      <link>https://icoconuts.github.io/2007/07/02/mac-osx-tiger-5-colors/</link>
+      <pubDate>Mon, 02 Jul 2007 13:49:52 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/07/02/mac-osx-tiger-5-colors/</guid>
+      <description>Mac OSX Tiger 5 Colors by ~Fransisket{.u} on deviantART</description>
+    </item>
+    
+    <item>
+      <title>7.02</title>
+      <link>https://icoconuts.github.io/2007/07/02/070702/</link>
+      <pubDate>Mon, 02 Jul 2007 13:29:01 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/07/02/070702/</guid>
+      <description>刚开完班会，时间过得好快，一个学期又快结束了。 志又一次倒在了班长的竞选上… 应该还是有点失落的啊， 虽然</description>
+    </item>
+    
+    <item>
+      <title>iPhone 拆解！</title>
+      <link>https://icoconuts.github.io/2007/07/01/iphone-break/</link>
+      <pubDate>Sun, 01 Jul 2007 14:44:18 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/07/01/iphone-break/</guid>
+      <description>该来的，总是会来的 XD。像所有的重大数字产品一样，开箱之后，就是拆拆拆啦！这回的凶手是名为 ifixit 的网站，</description>
+    </item>
+    
+    <item>
+      <title>7.01</title>
+      <link>https://icoconuts.github.io/2007/07/01/070701/</link>
+      <pubDate>Sun, 01 Jul 2007 14:28:27 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/07/01/070701/</guid>
+      <description>一周过去了，决定从明天开始过正常的生活了。 希望吧…… 我没事了，我是没事了。 尽管我还是很想很想她…</description>
+    </item>
+    
+    <item>
+      <title>6.3</title>
+      <link>https://icoconuts.github.io/2007/06/30/630/</link>
+      <pubDate>Sat, 30 Jun 2007 13:55:22 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/06/30/630/</guid>
+      <description>周末了，已经感悟些了。 以前的时间感觉很紧，总会安排好一天要做什么… 现在的时间感觉好多，完全可以用“打</description>
+    </item>
+    
+    <item>
+      <title>iPhone正式在美发售</title>
+      <link>https://icoconuts.github.io/2007/06/30/iphoneiscoming/</link>
+      <pubDate>Sat, 30 Jun 2007 01:00:27 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/06/30/iphoneiscoming/</guid>
+      <description>美国东部时间6月29日18:00(北京时间6月30日6:00)最新消息,倍受期待的苹果iPhone手</description>
+    </item>
+    
+    <item>
+      <title>6.29</title>
+      <link>https://icoconuts.github.io/2007/06/29/070629/</link>
+      <pubDate>Fri, 29 Jun 2007 13:40:08 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/06/29/070629/</guid>
+      <description>又过了一天，度日如年… 今天是星期五了，加上明后两天，整整一个星期都没去上课了。 就算去教室又能怎么样呢</description>
+    </item>
+    
+    <item>
+      <title>6.28</title>
+      <link>https://icoconuts.github.io/2007/06/28/070628/</link>
+      <pubDate>Thu, 28 Jun 2007 12:32:57 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/06/28/070628/</guid>
+      <description>昨天下午还是去市里走了走，不知道买东西能否好一点。 走着走着，竟什么也没买。 seasonwind，JN</description>
+    </item>
+    
+    <item>
+      <title>6.27</title>
+      <link>https://icoconuts.github.io/2007/06/27/07627/</link>
+      <pubDate>Wed, 27 Jun 2007 00:32:10 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/06/27/07627/</guid>
+      <description>凌晨二点十五分，手机信息声响了，我又惊又喜，以为有回复了。 可是冷静一想，这个时候应该不会了。 结果是一</description>
+    </item>
+    
+    <item>
+      <title>Shu.</title>
+      <link>https://icoconuts.github.io/2007/06/26/shu/</link>
+      <pubDate>Tue, 26 Jun 2007 07:42:31 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/06/26/shu/</guid>
+      <description>这图标不错。 DA 下载地址：http://www.deviantart.com/deviation/57</description>
+    </item>
+    
+    <item>
+      <title>Autodesk？</title>
+      <link>https://icoconuts.github.io/2007/06/26/autodesk/</link>
+      <pubDate>Tue, 26 Jun 2007 07:37:10 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/06/26/autodesk/</guid>
+      <description>昨天得知弟弟在Autodesk公司实习了，真是替他高兴。 可室友竟然不知道autodesk? 找了公司网</description>
+    </item>
+    
+    <item>
+      <title>6.26</title>
+      <link>https://icoconuts.github.io/2007/06/26/07626/</link>
+      <pubDate>Tue, 26 Jun 2007 07:24:32 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/06/26/07626/</guid>
+      <description>中午还是有太阳的，可到了下午，天突然阴沉下来的。 暗得有点恐怖，寝室没开灯。 他们都睡了，也许都听不到我</description>
+    </item>
+    
+    <item>
+      <title>The Best Damn Thing</title>
+      <link>https://icoconuts.github.io/2007/06/25/the-best-damn-thing/</link>
+      <pubDate>Mon, 25 Jun 2007 07:59:52 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/06/25/the-best-damn-thing/</guid>
+      <description>专辑推荐：The Best Damn Thing 歌手姓名：Avril Lavigne 唱片公司：Unknown 发行日期：2007.4.17 专辑</description>
+    </item>
+    
+    <item>
+      <title>VS::Ubuntu XP</title>
+      <link>https://icoconuts.github.io/2007/06/25/ubuntu-xp/</link>
+      <pubDate>Mon, 25 Jun 2007 07:52:43 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/06/25/ubuntu-xp/</guid>
+      <description>Ubuntu XP by ~ShamusHand{.u} on deviantART</description>
+    </item>
+    
+    <item>
+      <title>6.25</title>
+      <link>https://icoconuts.github.io/2007/06/25/07625/</link>
+      <pubDate>Mon, 25 Jun 2007 07:34:28 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/06/25/07625/</guid>
+      <description>一个人静静的在寝室，已经是好久没有这么感觉到安静了。 因为他们都去上课了。而我，感觉没有力气走动了… 我</description>
+    </item>
+    
+    <item>
+      <title>六级考完了</title>
+      <link>https://icoconuts.github.io/2007/06/23/cet6over/</link>
+      <pubDate>Sat, 23 Jun 2007 13:21:39 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/06/23/cet6over/</guid>
+      <description>六级终于考完了,感觉是要把希望放在十二月了。 不管结果了,也不去对答案了。先休息下吧。 明天规划着去理发</description>
+    </item>
+    
+    <item>
+      <title>Access,谁会?</title>
+      <link>https://icoconuts.github.io/2007/06/13/access/</link>
+      <pubDate>Wed, 13 Jun 2007 03:23:58 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/06/13/access/</guid>
+      <description>机房上网,速度瞒快的。 又一门课程要结束了–&amp;lt;信息管理系统原理&amp;gt;. 虽然是考查课,但作业要求</description>
+    </item>
+    
+    <item>
+      <title>爱尔兰</title>
+      <link>https://icoconuts.github.io/2007/06/10/ireland/</link>
+      <pubDate>Sun, 10 Jun 2007 06:46:32 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/06/10/ireland/</guid>
+      <description>今天和姐姐发短信，听说弟弟要去英国了，真是太惊讶了。 上ＱＱ，他正巧在，便聊了起来。 原来是学院组织的学</description>
+    </item>
+    
+    <item>
+      <title>暂别一下</title>
+      <link>https://icoconuts.github.io/2007/06/06/pause/</link>
+      <pubDate>Wed, 06 Jun 2007 14:21:33 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/06/06/pause/</guid>
+      <description>暂别一下，准备六级考试。 所以，这段时间可能不上网了。 其实也就半个月吧。网卡正好没了，也算省点钱吧。 6</description>
+    </item>
+    
+    <item>
+      <title>明天考试</title>
+      <link>https://icoconuts.github.io/2007/05/29/tosexam/</link>
+      <pubDate>Tue, 29 May 2007 13:25:14 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/05/29/tosexam/</guid>
+      <description>《定量分析方法》，真是有点难的课程啊。 不过，相信这几天的努力还是有效果的吧。 不过倒是让我回味起以前在</description>
+    </item>
+    
+    <item>
+      <title>这几天在瞎忙。。</title>
+      <link>https://icoconuts.github.io/2007/05/25/donothing/</link>
+      <pubDate>Fri, 25 May 2007 13:20:02 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/05/25/donothing/</guid>
+      <description>总结出来了，这几天在瞎忙。。。 以前用operablog的时候心里没什么感觉，但自从operablog</description>
+    </item>
+    
+    <item>
+      <title>给博客加个时钟(三)之代码添加</title>
+      <link>https://icoconuts.github.io/2007/05/20/blogclock3/</link>
+      <pubDate>Sun, 20 May 2007 09:05:19 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/05/20/blogclock3/</guid>
+      <description>第三部分，添加到自己的博客中。 1,上传第二部分中做好的flash到网上的空间。 注意，该空间一定是允许</description>
+    </item>
+    
+    <item>
+      <title>给博客加个时钟(二)之flash制作</title>
+      <link>https://icoconuts.github.io/2007/05/18/blogclock2/</link>
+      <pubDate>Fri, 18 May 2007 10:41:09 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/05/18/blogclock2/</guid>
+      <description>第二部分，制作flash。 (当然，这一步也可以省去。同样网上也有大量的免费flash时钟等着你。) 1</description>
+    </item>
+    
+    <item>
+      <title>给博客加个时钟(一)之PS制作背景</title>
+      <link>https://icoconuts.github.io/2007/05/blogclock1/</link>
+      <pubDate>Thu, 17 May 2007 13:57:20 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2007/05/blogclock1/</guid>
+      <description>看到天气雨的博客上有个时钟，感觉很醒目的。其实大二的时候，学过一段时间的flash，那时候as也学得</description>
     </item>
     
     <item>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gmail on elion&#39;s blog</title>
+    <link>https://icoconuts.github.io/tags/gmail/</link>
+    <description>Recent content in Gmail on elion&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 05 Jun 2009 11:50:06 +0000</lastBuildDate><atom:link href="https://icoconuts.github.io/tags/gmail/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gmail，我如何介绍你？</title>
+      <link>https://icoconuts.github.io/2009/06/05/ilovegmail/</link>
+      <pubDate>Fri, 05 Jun 2009 11:50:06 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/06/05/ilovegmail/</guid>
+      <description>Gmail,它从一开始就注定不是一款简单的Email客户端。 作为Google最伟大的产品之一，Gma</description>
+    </item>
+    
+    <item>
+      <title>超有创意的Gmail介绍</title>
+      <link>https://icoconuts.github.io/2009/02/08/coolgmail/</link>
+      <pubDate>Sun, 08 Feb 2009 12:59:28 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/02/08/coolgmail/</guid>
+      <description>[youtube d9stAZhbfEE]</description>
+    </item>
+    
+    <item>
+      <title>试试Gmail offline 0.1</title>
+      <link>https://icoconuts.github.io/2009/01/31/gmailoffline/</link>
+      <pubDate>Sat, 31 Jan 2009 10:11:05 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/01/31/gmailoffline/</guid>
+      <description>&lt;p&gt;从&lt;a href=&#34;http://www.cnbeta.com/articles/75845.htm&#34;&gt;CB&lt;/a&gt;上得知，Gmail开始支持离线浏览了。这意味着，Gmail已经成为一个离线客户端,您不需要连接到互联网就可以查阅,搜索自己的邮件,并且可以撰写和管理邮件后等待互联网连接上后发送与同步.。&lt;/p&gt;
+&lt;p&gt;用Gmail offline的前提：&lt;/p&gt;
+&lt;p&gt;1.已经使用英文Gmail labs。&lt;/p&gt;
+&lt;p&gt;2.你用的是私人电脑，Gmail会将你所有的邮件和附件保存在本机，部分内容以明文格式保存。&lt;/p&gt;
+&lt;p&gt;3.选择你最常用的浏览器，Gmail Offline的数据保存，是基于浏览器而不是PC的。&lt;/p&gt;
+&lt;p&gt;4.该功能需要Google Gear支持。&lt;/p&gt;
+&lt;p&gt;方法：&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

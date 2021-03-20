@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Flashget3.0beta2发布 - elion&#39;s blog</title>
+  <meta name="renderer" content="webkit" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+<meta name="theme-color" content="#f8f5ec" />
+<meta name="msapplication-navbutton-color" content="#f8f5ec">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="#f8f5ec">
+
+
+<meta name="author" content="elion" /><meta name="description" content="记得上次介绍Flashget3.0beta1试用已近2个月了，这次beta2强势出击，更新了许多功能啊。
+有感兴趣的已经标出。
+新增功能：
+ 添加车库积分随下载完成文件数量而增长的功能，每次登陆及每隔半小时自动刷新积分
+2. 添加杀毒软件相关功能支持，目前自动检测已支持瑞星、卡巴斯基、金山毒霸、Norton Antivirus、江民等。 （别看这是个和杀毒软件有关的功能，其实，要实现很多便捷的事，都得靠这个。） 添加选项-&amp;gt;速度设置-&amp;gt;“启用速度智能控制”功能，开启后快车将根据用户网络情况自动分配带宽资源，在下载同时不影响正常上网 添加本地查找功能
+5. 添加一款白色皮肤，可在皮肤管理器中下载 添加下载BT任务时，如果单个文件大于4G并且磁盘格式是FAT，提示用户 添加下载列表中的所有分类中所有列的列宽保存，最小列宽限制为25个像素 添加车库菜单，快捷使用车库各功能   " />
+
+
+
+
+
+
+<meta name="generator" content="Hugo 0.81.0 with theme even" />
+
+
+<link rel="canonical" href="https://icoconuts.github.io/2009/03/04/flashget3-beta2/" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+
+
+
+<link href="/sass/main.min.af7fd1da18d66c2b017df5b4cae508ef44cfcac3fb4c7c7a327fe4f4f9e28b08.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.css" integrity="sha256-7TyXnr2YU040zfSP+rEcz29ggW4j56/ujTPwjMzyqFY=" crossorigin="anonymous">
+
+
+<meta property="og:title" content="Flashget3.0beta2发布" />
+<meta property="og:description" content="记得上次介绍Flashget3.0beta1试用已近2个月了，这次beta2强势出击，更新了许多功能啊。
+有感兴趣的已经标出。
+新增功能：
+
+添加车库积分随下载完成文件数量而增长的功能，每次登陆及每隔半小时自动刷新积分
+2. 添加杀毒软件相关功能支持，目前自动检测已支持瑞星、卡巴斯基、金山毒霸、Norton Antivirus、江民等。 （别看这是个和杀毒软件有关的功能，其实，要实现很多便捷的事，都得靠这个。）
+添加选项-&gt;速度设置-&gt;“启用速度智能控制”功能，开启后快车将根据用户网络情况自动分配带宽资源，在下载同时不影响正常上网
+添加本地查找功能
+5. 添加一款白色皮肤，可在皮肤管理器中下载
+添加下载BT任务时，如果单个文件大于4G并且磁盘格式是FAT，提示用户
+添加下载列表中的所有分类中所有列的列宽保存，最小列宽限制为25个像素
+添加车库菜单，快捷使用车库各功能
+
+ " />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://icoconuts.github.io/2009/03/04/flashget3-beta2/" /><meta property="article:section" content="post" />
+<meta property="article:published_time" content="2009-03-04T13:29:05&#43;00:00" />
+<meta property="article:modified_time" content="2009-03-04T13:29:05&#43;00:00" />
+
+<meta itemprop="name" content="Flashget3.0beta2发布">
+<meta itemprop="description" content="记得上次介绍Flashget3.0beta1试用已近2个月了，这次beta2强势出击，更新了许多功能啊。
+有感兴趣的已经标出。
+新增功能：
+
+添加车库积分随下载完成文件数量而增长的功能，每次登陆及每隔半小时自动刷新积分
+2. 添加杀毒软件相关功能支持，目前自动检测已支持瑞星、卡巴斯基、金山毒霸、Norton Antivirus、江民等。 （别看这是个和杀毒软件有关的功能，其实，要实现很多便捷的事，都得靠这个。）
+添加选项-&gt;速度设置-&gt;“启用速度智能控制”功能，开启后快车将根据用户网络情况自动分配带宽资源，在下载同时不影响正常上网
+添加本地查找功能
+5. 添加一款白色皮肤，可在皮肤管理器中下载
+添加下载BT任务时，如果单个文件大于4G并且磁盘格式是FAT，提示用户
+添加下载列表中的所有分类中所有列的列宽保存，最小列宽限制为25个像素
+添加车库菜单，快捷使用车库各功能
+
+ "><meta itemprop="datePublished" content="2009-03-04T13:29:05&#43;00:00" />
+<meta itemprop="dateModified" content="2009-03-04T13:29:05&#43;00:00" />
+<meta itemprop="wordCount" content="1337">
+<meta itemprop="keywords" content="软件分享,hosted-on-i815.cn," /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Flashget3.0beta2发布"/>
+<meta name="twitter:description" content="记得上次介绍Flashget3.0beta1试用已近2个月了，这次beta2强势出击，更新了许多功能啊。
+有感兴趣的已经标出。
+新增功能：
+
+添加车库积分随下载完成文件数量而增长的功能，每次登陆及每隔半小时自动刷新积分
+2. 添加杀毒软件相关功能支持，目前自动检测已支持瑞星、卡巴斯基、金山毒霸、Norton Antivirus、江民等。 （别看这是个和杀毒软件有关的功能，其实，要实现很多便捷的事，都得靠这个。）
+添加选项-&gt;速度设置-&gt;“启用速度智能控制”功能，开启后快车将根据用户网络情况自动分配带宽资源，在下载同时不影响正常上网
+添加本地查找功能
+5. 添加一款白色皮肤，可在皮肤管理器中下载
+添加下载BT任务时，如果单个文件大于4G并且磁盘格式是FAT，提示用户
+添加下载列表中的所有分类中所有列的列宽保存，最小列宽限制为25个像素
+添加车库菜单，快捷使用车库各功能
+
+ "/>
+
+<!--[if lte IE 9]>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
+<![endif]-->
+
+<!--[if lt IE 9]>
+  <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
+<![endif]-->
+
+</head>
+<body>
+  <div id="mobile-navbar" class="mobile-navbar">
+  <div class="mobile-header-logo">
+    <a href="/" class="logo">elion&#39;s blog</a>
+  </div>
+  <div class="mobile-navbar-icon">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+</div>
+<nav id="mobile-menu" class="mobile-menu slideout-menu">
+  <ul class="mobile-menu-list">
+    <a href="/">
+        <li class="mobile-menu-item">HOME</li>
+      </a><a href="/post/">
+        <li class="mobile-menu-item">ARCHIVES</li>
+      </a><a href="/tags/">
+        <li class="mobile-menu-item">TAGS </li>
+      </a><a href="/categories/">
+        <li class="mobile-menu-item">CATEGORIES</li>
+      </a><a href="/about/">
+        <li class="mobile-menu-item">ABOUT</li>
+      </a>
+  </ul>
+
+  
+
+
+</nav>
+
+  <div class="container" id="mobile-panel">
+    <header id="header" class="header">
+        <div class="logo-wrapper">
+  <a href="/" class="logo">elion&#39;s blog</a>
+</div>
+
+
+
+
+
+<nav class="site-navbar">
+  <ul id="menu" class="menu">
+    <li class="menu-item">
+        <a class="menu-item-link" href="/">HOME</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/post/">ARCHIVES</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/tags/">TAGS </a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/categories/">CATEGORIES</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/about/">ABOUT</a>
+      </li>
+  </ul>
+</nav>
+
+    </header>
+
+    <main id="main" class="main">
+      <div class="content-wrapper">
+        <div id="content" class="content">
+          <article class="post">
+    
+    <header class="post-header">
+      <h1 class="post-title">Flashget3.0beta2发布</h1>
+
+      <div class="post-meta">
+        <span class="post-time"> 2009-03-04 , Wed </span>
+        <div class="post-category">
+            <a href="/categories/%E5%88%86%E4%BA%AB%E5%A5%BD%E7%8E%A9/"> 分享好玩 </a>
+            </div>
+        
+      </div>
+    </header>
+
+    <div class="post-toc" id="post-toc">
+  <h2 class="post-toc-title">文章目录</h2>
+  <div class="post-toc-content always-active">
+    <nav id="TableOfContents"></nav>
+  </div>
+</div>
+  <div class="post-outdated">
+    <div class="warn">
+      <p>【注意】最后更新于 <span class="timeago" datetime="2009-03-04T13:29:05" title="March 4, 2009">March 4, 2009</span>，文中内容可能已过时，请谨慎使用。</p>
+    </div>
+  </div>
+    <div class="post-content">
+      <p>记得上次介绍<a href="http://127.0.0.1/2009/01/19/flashget30beta1/">Flashget3.0beta1试用</a>已近2个月了，这次beta2强势出击，更新了许多功能啊。</p>
+<p>有感兴趣的已经标出。</p>
+<p><strong>新增功能：</strong></p>
+<ol>
+<li>添加车库积分随下载完成文件数量而增长的功能，每次登陆及每隔半小时自动刷新积分<br>
+<font color="#ca359d">2. 添加杀毒软件相关功能支持，目前自动检测已支持瑞星、卡巴斯基、金山毒霸、Norton Antivirus、江民等。</font> （别看这是个和杀毒软件有关的功能，其实，要实现很多便捷的事，都得靠这个。）</li>
+<li>添加选项-&gt;速度设置-&gt;“启用速度智能控制”功能，开启后快车将根据用户网络情况自动分配带宽资源，在下载同时不影响正常上网</li>
+<li>添加本地查找功能<br>
+<font color="#ca359d">5. 添加一款白色皮肤，可在皮肤管理器中下载</font></li>
+<li>添加下载BT任务时，如果单个文件大于4G并且磁盘格式是FAT，提示用户</li>
+<li>添加下载列表中的所有分类中所有列的列宽保存，最小列宽限制为25个像素</li>
+<li>添加车库菜单，快捷使用车库各功能</li>
+</ol>
+<p> </p>
+<ol start="9">
+<li>添加下载分块图示里的鼠标滚轮功能<br>
+**已修正的问题：<br>
+** 1. 修改当有任务下载完成时，立即保存数据库，防止程序非法结束后导致任务进度出错</li>
+<li>修改启动快车后自动登录车库时，有时候登录失败的BUG</li>
+<li>极大的优化了用户点击下载链接时启动快车的反应速度</li>
+<li>修改在某些特定情况下导致数据库无法保存的BUG</li>
+<li>修正特定情况下会出现的程序崩溃</li>
+<li>修正新建的保存编辑框不能输入过长路径的问题</li>
+<li>修改在网页中的URL文字无法拖拽到悬浮窗和主窗体的BUG</li>
+<li>修改新建任务对话框，点击“浏览”按钮后，默认选中输入框中路径而不是默认路径</li>
+<li>修改Vista下主菜单处显示为黑色的BUG</li>
+<li>修改每次启动快车窗口会比上次退出的时候变大的BUG</li>
+<li>修改快车启动时如果未选中&quot;将快车作为默认的BT下载工具&quot;，会清空torrent文件的关联程序的BUG</li>
+<li>修改皮肤预览图片有时候不显示的BUG</li>
+<li>修改火狐中安装了快车产品后，火狐原本有的某些子菜单项功能失效的BUG</li>
+<li>修改火狐中单击左键以及右键菜单中使用快车下载时，与迷你快车冲突的BUG</li>
+<li>修正下载在移动硬盘路径中的任务，当移动硬盘取下后，在任务列表中点击目录，弹出提示框中选择重新下载<br>
+<font color="#ca359d">16. 修改通过浏览器添加一个任务，主程序启动后检查到有正在下载的任务，把分类切换到正在下载，而不是默认的资源中心</font></li>
+<li>修改BT任务文件列表相关的BUG<br>
+<font color="#ca359d">18. 修改在英语语言下部分显示问题</font></li>
+<li>修改工具栏搜索框中，在中文输入法输入英文时，回车不直接执行搜索</li>
+<li>修改下载种子文件，并且开启下载完成后运行的功能，会出现两个一样的新建任务面板的问题</li>
+<li>修改全部任务完成后关机选项，不存储，每次启动都变为不选中状态</li>
+<li>修改左侧分类，设置默认下载目录，选择根目录设置，无法设置的BUG<br>
+<font color="#ca359d"><strike>23. 修改默认分类为不可重命名，防止在多语言中出现的问题</strike></font></li>
+<li>修改部分系统中任务列表无间隔色和高亮色的BUG</li>
+<li>修改使用Shift+Delete删除文件及任务后，再次按下Shift及复选框选中状态的问题</li>
+<li>修改任务属性，清空注释后无法保存的BUG</li>
+<li>修改弹出广告会抢输入法等焦点的问题</li>
+<li>修正正在下载的任务数已经达到最大任务数时，重新下载其他任务进度显示100%的bug</li>
+</ol>
+<p>其中，23点我就不明白了，竟然直接设置成了默认分类不可重命名了。感觉有点饮鸩止渴的感觉。</p>
+<p>希望有更好的办法解决。</p>
+<p>总的来说，这次更新，给了我们更多的惊喜。值得去更新下。o(∩_∩)o…</p>
+    </div>
+
+    <div class="post-copyright">
+  <p class="copyright-item">
+    <span class="item-title">文章作者</span>
+    <span class="item-content">elion</span>
+  </p>
+  <p class="copyright-item">
+    <span class="item-title">上次更新</span>
+    <span class="item-content">
+        2009-03-04 , Wed
+        
+    </span>
+  </p>
+  
+  
+</div>
+<footer class="post-footer">
+      <div class="post-tags">
+          <a href="/tags/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/">软件分享</a>
+          <a href="/tags/hosted-on-i815.cn/">hosted-on-i815.cn</a>
+          </div>
+      <nav class="post-nav">
+        <a class="prev" href="/2009/03/05/onepiece-533/">
+            <i class="iconfont icon-left"></i>
+            <span class="prev-text nav-default">海贼王漫画_533集打包下载</span>
+            <span class="prev-text nav-mobile">上一篇</span>
+          </a>
+        <a class="next" href="/2009/03/03/red-macbook-mini/">
+            <span class="next-text nav-default">女士们注意了:红色的 MacBook Mini</span>
+            <span class="next-text nav-mobile">下一篇</span>
+            <i class="iconfont icon-right"></i>
+          </a>
+      </nav>
+    </footer>
+  </article>
+        </div>
+        
+
+  
+  <div id="vcomments"></div>
+  <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+  <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+  <script type="text/javascript">
+    new Valine({
+        el: '#vcomments' ,
+        appId: 'EEkIofc17Cj7gGX6T8wh5UOG-9Nh9j0Va',
+        appKey: 'HTj1ed9W7e5zprSemQgAFEEv',
+        notify:  null ,
+        verify:  null ,
+        avatar:'',
+        placeholder: '在这写点什么...',
+        visitor:  false 
+    });
+  </script>
+
+  
+
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="social-links">
+      <a href="mailto:p070ihut@anonaddy.me" class="iconfont icon-email" title="email"></a>
+      <a href="http://weibo.com/hjxme" class="iconfont icon-weibo" title="weibo"></a>
+      <a href="https://www.douban.com/people/elion/" class="iconfont icon-douban" title="douban"></a>
+      <a href="https://space.bilibili.com/108716406" class="iconfont icon-bilibili" title="bilibili"></a>
+  <a href="https://icoconuts.github.io/index.xml" type="application/rss+xml" class="iconfont icon-rss" title="rss"></a>
+</div>
+
+<div class="copyright">
+  <span class="power-by">
+    由 <a class="hexo-link" href="https://gohugo.io">Hugo</a> 强力驱动
+  </span>
+  <span class="division">|</span>
+  <span class="theme-info">
+    主题 - 
+    <a class="theme-link" href="https://github.com/olOwOlo/hugo-theme-even">Even</a>
+  </span>
+
+  
+
+  <span class="copyright-year">
+    &copy; 
+    2007 - 
+    2021<span class="heart"><i class="iconfont icon-heart"></i></span><span>elion</span>
+  </span>
+</div>
+
+    </footer>
+
+    <div class="back-to-top" id="back-to-top">
+      <i class="iconfont icon-up"></i>
+    </div>
+  </div>
+  
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/slideout@1.0.1/dist/slideout.min.js" integrity="sha256-t+zJ/g8/KXIJMjSVQdnibt4dlaDxc9zXr/9oNPeWqdg=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.js" integrity="sha256-XVLffZaxoWfGUEbdzuLi7pwaUJv1cecsQJQqGLe7axY=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/timeago.js@3.0.2/dist/timeago.min.js" integrity="sha256-jwCP0NAdCBloaIWTWHmW4i3snUNMHUNO+jr9rYd2iOI=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/timeago.js@3.0.2/dist/timeago.locales.min.js" integrity="sha256-ZwofwC1Lf/faQCzN7nZtfijVV6hSwxjQMwXL4gn9qU8=" crossorigin="anonymous"></script>
+  <script><!-- NOTE: timeago.js uses the language code format like "zh_CN" (underscore and case sensitive) -->
+    var languageCode = "zh-cn".replace(/-/g, '_').replace(/_(.*)/, function ($0, $1) {return $0.replace($1, $1.toUpperCase());});
+    timeago().render(document.querySelectorAll('.timeago'), languageCode);
+    timeago.cancel();  
+  </script>
+
+
+
+<script type="text/javascript" src="/js/main.min.c99b103c33d1539acf3025e1913697534542c4a5aa5af0ccc20475ed2863603b.js"></script>
+
+
+
+
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>技巧收藏 on elion&#39;s blog</title>
+    <link>https://icoconuts.github.io/tags/%E6%8A%80%E5%B7%A7%E6%94%B6%E8%97%8F/</link>
+    <description>Recent content in 技巧收藏 on elion&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 06 Feb 2009 11:53:12 +0000</lastBuildDate><atom:link href="https://icoconuts.github.io/tags/%E6%8A%80%E5%B7%A7%E6%94%B6%E8%97%8F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>太强了！图片搜索图片–Tineye</title>
+      <link>https://icoconuts.github.io/2009/02/06/tineye/</link>
+      <pubDate>Fri, 06 Feb 2009 11:53:12 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/02/06/tineye/</guid>
+      <description>&lt;p&gt;刚在&lt;a href=&#34;http://cn.engadget.com&#34;&gt;Engadget&lt;/a&gt;上看到一篇文章&lt;a href=&#34;http://cn.engadget.com/2009/02/06/tineye-1/&#34;&gt;Tineye完全开放服务——用图片搜索图片&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;进去之后，直接是上传或是输入URL地址就可以了。&lt;/p&gt;
+&lt;p&gt;我顺便拿了一张图片试了一下，那一张图片是我在Google image里找来的，PS一下后，用来做QQ头像的，结果&lt;a href=&#34;http://tineye.com/&#34;&gt;Tineye&lt;/a&gt;下一搜，呆了。竟然搜出来了，太强悍了。强烈推荐收藏！！&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>试试Gmail offline 0.1</title>
+      <link>https://icoconuts.github.io/2009/01/31/gmailoffline/</link>
+      <pubDate>Sat, 31 Jan 2009 10:11:05 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/01/31/gmailoffline/</guid>
+      <description>&lt;p&gt;从&lt;a href=&#34;http://www.cnbeta.com/articles/75845.htm&#34;&gt;CB&lt;/a&gt;上得知，Gmail开始支持离线浏览了。这意味着，Gmail已经成为一个离线客户端,您不需要连接到互联网就可以查阅,搜索自己的邮件,并且可以撰写和管理邮件后等待互联网连接上后发送与同步.。&lt;/p&gt;
+&lt;p&gt;用Gmail offline的前提：&lt;/p&gt;
+&lt;p&gt;1.已经使用英文Gmail labs。&lt;/p&gt;
+&lt;p&gt;2.你用的是私人电脑，Gmail会将你所有的邮件和附件保存在本机，部分内容以明文格式保存。&lt;/p&gt;
+&lt;p&gt;3.选择你最常用的浏览器，Gmail Offline的数据保存，是基于浏览器而不是PC的。&lt;/p&gt;
+&lt;p&gt;4.该功能需要Google Gear支持。&lt;/p&gt;
+&lt;p&gt;方法：&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Google搜索技巧之按尺寸搜图</title>
+      <link>https://icoconuts.github.io/2009/01/29/googleimagesize/</link>
+      <pubDate>Thu, 29 Jan 2009 03:15:31 +0000</pubDate>
+      
+      <guid>https://icoconuts.github.io/2009/01/29/googleimagesize/</guid>
+      <description>有时候，要找一些特定尺寸的图片，如1024×768,1280×800等等的图片。之前只能按搜索结果中</description>
+    </item>
+    
+  </channel>
+</rss>

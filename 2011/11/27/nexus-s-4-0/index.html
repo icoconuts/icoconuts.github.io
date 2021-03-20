@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Nexus S 4.0系统刷机介绍及体验 - elion&#39;s blog</title>
+  <meta name="renderer" content="webkit" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+<meta name="theme-color" content="#f8f5ec" />
+<meta name="msapplication-navbutton-color" content="#f8f5ec">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="#f8f5ec">
+
+
+<meta name="author" content="elion" /><meta name="description" content="距离10月19日Google发布Galaxy Nexus以及Android 4.0已经一个多月了。 看着新" />
+
+
+
+
+
+
+<meta name="generator" content="Hugo 0.81.0 with theme even" />
+
+
+<link rel="canonical" href="https://icoconuts.github.io/2011/11/27/nexus-s-4-0/" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+
+
+
+<link href="/sass/main.min.af7fd1da18d66c2b017df5b4cae508ef44cfcac3fb4c7c7a327fe4f4f9e28b08.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.css" integrity="sha256-7TyXnr2YU040zfSP+rEcz29ggW4j56/ujTPwjMzyqFY=" crossorigin="anonymous">
+
+
+<meta property="og:title" content="Nexus S 4.0系统刷机介绍及体验" />
+<meta property="og:description" content="距离10月19日Google发布Galaxy Nexus以及Android 4.0已经一个多月了。 看着新" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://icoconuts.github.io/2011/11/27/nexus-s-4-0/" /><meta property="article:section" content="post" />
+<meta property="article:published_time" content="2011-11-27T07:53:14&#43;00:00" />
+<meta property="article:modified_time" content="2011-11-27T07:53:14&#43;00:00" />
+
+<meta itemprop="name" content="Nexus S 4.0系统刷机介绍及体验">
+<meta itemprop="description" content="距离10月19日Google发布Galaxy Nexus以及Android 4.0已经一个多月了。 看着新"><meta itemprop="datePublished" content="2011-11-27T07:53:14&#43;00:00" />
+<meta itemprop="dateModified" content="2011-11-27T07:53:14&#43;00:00" />
+<meta itemprop="wordCount" content="1153">
+<meta itemprop="keywords" content="刷机,经验总结,Nexus S,hosted-on-hjx.me," /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Nexus S 4.0系统刷机介绍及体验"/>
+<meta name="twitter:description" content="距离10月19日Google发布Galaxy Nexus以及Android 4.0已经一个多月了。 看着新"/>
+
+<!--[if lte IE 9]>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
+<![endif]-->
+
+<!--[if lt IE 9]>
+  <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
+<![endif]-->
+
+</head>
+<body>
+  <div id="mobile-navbar" class="mobile-navbar">
+  <div class="mobile-header-logo">
+    <a href="/" class="logo">elion&#39;s blog</a>
+  </div>
+  <div class="mobile-navbar-icon">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+</div>
+<nav id="mobile-menu" class="mobile-menu slideout-menu">
+  <ul class="mobile-menu-list">
+    <a href="/">
+        <li class="mobile-menu-item">HOME</li>
+      </a><a href="/post/">
+        <li class="mobile-menu-item">ARCHIVES</li>
+      </a><a href="/tags/">
+        <li class="mobile-menu-item">TAGS </li>
+      </a><a href="/categories/">
+        <li class="mobile-menu-item">CATEGORIES</li>
+      </a><a href="/about/">
+        <li class="mobile-menu-item">ABOUT</li>
+      </a>
+  </ul>
+
+  
+
+
+</nav>
+
+  <div class="container" id="mobile-panel">
+    <header id="header" class="header">
+        <div class="logo-wrapper">
+  <a href="/" class="logo">elion&#39;s blog</a>
+</div>
+
+
+
+
+
+<nav class="site-navbar">
+  <ul id="menu" class="menu">
+    <li class="menu-item">
+        <a class="menu-item-link" href="/">HOME</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/post/">ARCHIVES</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/tags/">TAGS </a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/categories/">CATEGORIES</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/about/">ABOUT</a>
+      </li>
+  </ul>
+</nav>
+
+    </header>
+
+    <main id="main" class="main">
+      <div class="content-wrapper">
+        <div id="content" class="content">
+          <article class="post">
+    
+    <header class="post-header">
+      <h1 class="post-title">Nexus S 4.0系统刷机介绍及体验</h1>
+
+      <div class="post-meta">
+        <span class="post-time"> 2011-11-27 , Sun </span>
+        <div class="post-category">
+            <a href="/categories/%E6%8A%98%E8%85%BE%E4%BA%8C%E4%B8%89%E4%BA%8B/"> 折腾二三事 </a>
+            </div>
+        
+      </div>
+    </header>
+
+    <div class="post-toc" id="post-toc">
+  <h2 class="post-toc-title">文章目录</h2>
+  <div class="post-toc-content always-active">
+    <nav id="TableOfContents"></nav>
+  </div>
+</div>
+  <div class="post-outdated">
+    <div class="warn">
+      <p>【注意】最后更新于 <span class="timeago" datetime="2011-11-27T07:53:14" title="November 27, 2011">November 27, 2011</span>，文中内容可能已过时，请谨慎使用。</p>
+    </div>
+  </div>
+    <div class="post-content">
+      <p><img src="http://i43.tinypic.com/alnjtf.jpg" alt="suopin" class="jt1" /></p>
+<p>距离10月19日Google发布Galaxy Nexus以及Android 4.0已经一个多月了。</p>
+<p>看着新版的4.0系统，再看看手里的Google二儿子NS， 谁还按奈的住啊。</p>
+<p>最近几天在机锋NS ROM版区，原来4.0系统早已在机友中普遍开来。</p>
+<p>较成熟的版本众多，今天著名论坛XDA Developers的Kwiboo大神发布了“ICS build for Nexus S – v3”版本。</p>
+<p>刚刷完，感觉良好，汉化完美。</p>
+<p>简单做一介绍。</p>
+<p>－－－－－－－－－－－－－－－－－－－－－－－－<br>
+刷机部分：<br>
+可参看MIUI的NS刷机教程。<br>
+<strong>刷机有风险，刷者请自重！</strong><br>
+ROM:<a href="http://goo.gl/8O0Lx">ICS build for Nexus S – v3</a><br>
+刷机步骤：<br>
+我的Recovery版本是V5.0.2.3。</p>
+<blockquote>
+<p>1.开始刷机—进入Recovery<br>
+2.进入wipe—选择wipe date/factory reset—选Yes—选Go back返回首层<br>
+3.进入mounts and storage—选择format /system—选Yes—选Go back返回首层<br>
+4.进入install zip from sdcard—选择choose zip from sdcard 找到ROM—选Yes开始刷机。<br>
+5.返回首层 选reboot system now 重启<br>
+6.重启第一次可能较慢，请耐心等待。</p>
+</blockquote>
+<p>－－－－－－－－－－－－－－－－－－－－－－－－<br>
+体验部分：（上图为主）<br>
+1、网上找来的开机引导程序，V3版ROM，已完全汉化，很好！<br>
+<img src="http://i43.tinypic.com/241rujo.jpg" alt="1" class="jt2" /><br>
+2、来张开机第一张截图。<br>
+<img src="http://i39.tinypic.com/15yg1g3.jpg" alt="2" class="jt2" /><br>
+3、进入程序页面（已安装一些程序）、插件页面<br>
+<img src="http://i39.tinypic.com/oqwt5j.jpg" alt="3" class="jt2" /><br>
+<img src="http://i44.tinypic.com/4v0bd0.jpg" alt="3x" class="jt2" /><br>
+4、设置页面。<br>
+<img src="http://i44.tinypic.com/2e1t542.jpg" alt="4" class="jt2" /><br>
+5、手机版本信息。<br>
+<img src="http://i40.tinypic.com/22gduv.jpg" alt="5" class="jt2" /><br>
+6、流量使用情况。（V3版本新增移动数据流量限制功能（看来第三方的一些软件可以下岗了。））<br>
+<img src="http://i43.tinypic.com/m64hv.jpg" alt="6" class="jt2" /><br>
+7、通知栏，透明了。<br>
+<img src="http://i39.tinypic.com/15hjfd.jpg" alt="7" class="jt2" /></p>
+<p>常用程序：<br>
+8、电话拔号页面、通话记录<br>
+<img src="http://i41.tinypic.com/28j9lrn.jpg" alt="8" class="jt2" /><br>
+<img src="http://i40.tinypic.com/idenv8.jpg" alt="8a" class="jt2" /><br>
+9、通话界面（头像好大啊（480*534？）<del>）<br>
+<img src="http://i40.tinypic.com/2hmosvk.jpg" alt="9" class="jt2" /><br>
+10、通讯录<br>
+<img src="http://i41.tinypic.com/105e73m.jpg" alt="10" class="jt2" /><br>
+11、加星联系人、群组（以前用的头像明显出现马赛克了。尺寸大了不是一点点。）<br>
+<img src="http://i42.tinypic.com/15oxnh4.jpg" alt="10a" class="jt2" /><br>
+<img src="http://i40.tinypic.com/ftihle.jpg" alt="11" class="jt2" /><br>
+12、短信界面<br>
+<img src="http://i39.tinypic.com/351i9na.jpg" alt="12" class="jt2" /><br>
+13、GMail(比原来的结构更合理了。)<br>
+<img src="http://i42.tinypic.com/2pplfyd.jpg" alt="13" class="jt2" /><br>
+14、Gtalk(测试后，语音和视频均正常)<br>
+<img src="http://i40.tinypic.com/24qttw7.jpg" alt="14" class="jt2" /><br>
+15、纵横（非常有用的软件，迷路了可以用。结构也更合理了。）<br>
+<img src="http://i42.tinypic.com/2ag8c4.jpg" alt="15" class="jt2" /><br>
+16、相机（拍照速度更快了，但没传说中的“单张拍照一秒内完成”，可能是手机的原因在三代上可能可以实现。）<br>
+<img src="http://i44.tinypic.com/21e9toi.jpg" alt="16" class="jt2" /><br>
+17、浏览器，棒</del>（但书签同步功能，还没试，难道和Chrome同步？）<br>
+<img src="http://i39.tinypic.com/241qydt.jpg" alt="17" class="jt2" /><br>
+18、内置的Google+<br>
+<img src="http://i40.tinypic.com/drbdkw.jpg" alt="18" class="jt2" /><br>
+19、新的文件夹功能，类似IOS。（截图配的不好。）<br>
+<img src="http://i41.tinypic.com/30leafb.jpg" alt="19" class="jt2" /><br>
+20、图库，比2.3X的图库好太多了。<br>
+<img src="http://i39.tinypic.com/6pls05.jpg" alt="20" class="jt2" /><br>
+21、锁屏界面，另外的自定义的图标怎么放我不会。<br>
+22、人脸识别。算了吧，开个锁，不用这么麻烦。</p>
+<p>V3版本已知问题：<br>
+1、内置的谷歌拼音FC<br>
+2、“虚假信号显示”（即信号强度不会变，系统信息中始终显示:0dBm）<br>
+以上两点对我影响不大。<br>
+3、手机QQ不能用。截图同20.但这个版本的<a href="http://mobile.qq.com/android/v2/">Android QQ</a>可以用，放心，是同是TX出品。<br>
+4、另外，一些软件不兼容也是再所难免。<br>
+5、目前软件只能安装在手机内存，有高手会的，请教我。</p>
+
+    </div>
+
+    <div class="post-copyright">
+  <p class="copyright-item">
+    <span class="item-title">文章作者</span>
+    <span class="item-content">elion</span>
+  </p>
+  <p class="copyright-item">
+    <span class="item-title">上次更新</span>
+    <span class="item-content">
+        2011-11-27 , Sun
+        
+    </span>
+  </p>
+  
+  
+</div>
+<footer class="post-footer">
+      <div class="post-tags">
+          <a href="/tags/%E5%88%B7%E6%9C%BA/">刷机</a>
+          <a href="/tags/%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93/">经验总结</a>
+          <a href="/tags/nexus-s/">Nexus S</a>
+          <a href="/tags/hosted-on-hjx.me/">hosted-on-hjx.me</a>
+          </div>
+      <nav class="post-nav">
+        <a class="prev" href="/2012/01/22/my2011/">
+            <i class="iconfont icon-left"></i>
+            <span class="prev-text nav-default">我的2011</span>
+            <span class="prev-text nav-mobile">上一篇</span>
+          </a>
+        <a class="next" href="/2011/11/23/nexus-s-android-4-0/">
+            <span class="next-text nav-default">Nexus S成功运行Android 4.0</span>
+            <span class="next-text nav-mobile">下一篇</span>
+            <i class="iconfont icon-right"></i>
+          </a>
+      </nav>
+    </footer>
+  </article>
+        </div>
+        
+
+  
+  <div id="vcomments"></div>
+  <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+  <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+  <script type="text/javascript">
+    new Valine({
+        el: '#vcomments' ,
+        appId: 'EEkIofc17Cj7gGX6T8wh5UOG-9Nh9j0Va',
+        appKey: 'HTj1ed9W7e5zprSemQgAFEEv',
+        notify:  null ,
+        verify:  null ,
+        avatar:'',
+        placeholder: '在这写点什么...',
+        visitor:  false 
+    });
+  </script>
+
+  
+
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="social-links">
+      <a href="mailto:p070ihut@anonaddy.me" class="iconfont icon-email" title="email"></a>
+      <a href="http://weibo.com/hjxme" class="iconfont icon-weibo" title="weibo"></a>
+      <a href="https://www.douban.com/people/elion/" class="iconfont icon-douban" title="douban"></a>
+      <a href="https://space.bilibili.com/108716406" class="iconfont icon-bilibili" title="bilibili"></a>
+  <a href="https://icoconuts.github.io/index.xml" type="application/rss+xml" class="iconfont icon-rss" title="rss"></a>
+</div>
+
+<div class="copyright">
+  <span class="power-by">
+    由 <a class="hexo-link" href="https://gohugo.io">Hugo</a> 强力驱动
+  </span>
+  <span class="division">|</span>
+  <span class="theme-info">
+    主题 - 
+    <a class="theme-link" href="https://github.com/olOwOlo/hugo-theme-even">Even</a>
+  </span>
+
+  
+
+  <span class="copyright-year">
+    &copy; 
+    2007 - 
+    2021<span class="heart"><i class="iconfont icon-heart"></i></span><span>elion</span>
+  </span>
+</div>
+
+    </footer>
+
+    <div class="back-to-top" id="back-to-top">
+      <i class="iconfont icon-up"></i>
+    </div>
+  </div>
+  
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/slideout@1.0.1/dist/slideout.min.js" integrity="sha256-t+zJ/g8/KXIJMjSVQdnibt4dlaDxc9zXr/9oNPeWqdg=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.js" integrity="sha256-XVLffZaxoWfGUEbdzuLi7pwaUJv1cecsQJQqGLe7axY=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/timeago.js@3.0.2/dist/timeago.min.js" integrity="sha256-jwCP0NAdCBloaIWTWHmW4i3snUNMHUNO+jr9rYd2iOI=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/timeago.js@3.0.2/dist/timeago.locales.min.js" integrity="sha256-ZwofwC1Lf/faQCzN7nZtfijVV6hSwxjQMwXL4gn9qU8=" crossorigin="anonymous"></script>
+  <script><!-- NOTE: timeago.js uses the language code format like "zh_CN" (underscore and case sensitive) -->
+    var languageCode = "zh-cn".replace(/-/g, '_').replace(/_(.*)/, function ($0, $1) {return $0.replace($1, $1.toUpperCase());});
+    timeago().render(document.querySelectorAll('.timeago'), languageCode);
+    timeago.cancel();  
+  </script>
+
+
+
+<script type="text/javascript" src="/js/main.min.c99b103c33d1539acf3025e1913697534542c4a5aa5af0ccc20475ed2863603b.js"></script>
+
+
+
+
+
+
+
+
+</body>
+</html>

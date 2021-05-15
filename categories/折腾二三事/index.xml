@@ -6,7 +6,16 @@
     <description>Recent content in 折腾二三事 on elion&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 18 Mar 2021 12:59:15 +0800</lastBuildDate><atom:link href="https://icoconuts.github.io/categories/%E6%8A%98%E8%85%BE%E4%BA%8C%E4%B8%89%E4%BA%8B/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 May 2021 18:12:15 +0800</lastBuildDate><atom:link href="https://icoconuts.github.io/categories/%E6%8A%98%E8%85%BE%E4%BA%8C%E4%B8%89%E4%BA%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>重拾魔方</title>
+      <link>https://icoconuts.github.io/2021/0515mfagain/</link>
+      <pubDate>Sat, 15 May 2021 18:12:15 +0800</pubDate>
+      
+      <guid>https://icoconuts.github.io/2021/0515mfagain/</guid>
+      <description>难得难得难得，写点东西~ 其实想写的还瞒多的，等有空了再发出来吧。 好吧，这回写写最近在折腾的。 魔方 魔方</description>
+    </item>
+    
     <item>
       <title>通过Github Actions实现Hugo自动部署</title>
       <link>https://icoconuts.github.io/2021/03/github-actions/</link>

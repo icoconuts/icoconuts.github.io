@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>通过Github Actions实现Hugo自动部署 - elion&#39;s blog</title>
+  <meta name="renderer" content="webkit" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+<meta name="theme-color" content="#f8f5ec" />
+<meta name="msapplication-navbutton-color" content="#f8f5ec">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="#f8f5ec">
+
+
+<meta name="author" content="elion" /><meta name="description" content="参考了几个帖子： Github Actions自动生成Hugo站点并部署到Github Pages JiahongWu-使用G" />
+
+
+
+
+
+
+<meta name="generator" content="Hugo 0.84.0 with theme even" />
+
+
+<link rel="canonical" href="https://icoconuts.github.io/2021/0318/Github-Actions/" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+
+
+
+<link href="/sass/main.min.f92fd13721ddf72129410fd8250e73152cc6f2438082b6c0208dc24ee7c13fc4.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.css" integrity="sha256-7TyXnr2YU040zfSP+rEcz29ggW4j56/ujTPwjMzyqFY=" crossorigin="anonymous">
+
+
+<meta property="og:title" content="通过Github Actions实现Hugo自动部署" />
+<meta property="og:description" content="参考了几个帖子： Github Actions自动生成Hugo站点并部署到Github Pages JiahongWu-使用G" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://icoconuts.github.io/2021/0318/Github-Actions/" /><meta property="article:section" content="post" />
+<meta property="article:published_time" content="2021-03-18T12:59:15&#43;08:00" />
+<meta property="article:modified_time" content="2021-03-18T12:59:15&#43;08:00" />
+
+<meta itemprop="name" content="通过Github Actions实现Hugo自动部署">
+<meta itemprop="description" content="参考了几个帖子： Github Actions自动生成Hugo站点并部署到Github Pages JiahongWu-使用G"><meta itemprop="datePublished" content="2021-03-18T12:59:15&#43;08:00" />
+<meta itemprop="dateModified" content="2021-03-18T12:59:15&#43;08:00" />
+<meta itemprop="wordCount" content="1681">
+<meta itemprop="keywords" content="Hugo,经验总结," /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="通过Github Actions实现Hugo自动部署"/>
+<meta name="twitter:description" content="参考了几个帖子： Github Actions自动生成Hugo站点并部署到Github Pages JiahongWu-使用G"/>
+
+<!--[if lte IE 9]>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
+<![endif]-->
+
+<!--[if lt IE 9]>
+  <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
+<![endif]-->
+
+</head>
+<body>
+  <div id="mobile-navbar" class="mobile-navbar">
+  <div class="mobile-header-logo">
+    <a href="/" class="logo">elion&#39;s blog</a>
+  </div>
+  <div class="mobile-navbar-icon">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+</div>
+<nav id="mobile-menu" class="mobile-menu slideout-menu">
+  <ul class="mobile-menu-list">
+    <a href="/">
+        <li class="mobile-menu-item">HOME</li>
+      </a><a href="/post/">
+        <li class="mobile-menu-item">ARCHIVES</li>
+      </a><a href="/tags/">
+        <li class="mobile-menu-item">TAGS </li>
+      </a><a href="/categories/">
+        <li class="mobile-menu-item">CATEGORIES</li>
+      </a><a href="/about/">
+        <li class="mobile-menu-item">ABOUT</li>
+      </a>
+  </ul>
+
+  
+
+
+</nav>
+
+  <div class="container" id="mobile-panel">
+    <header id="header" class="header">
+        <div class="logo-wrapper">
+  <a href="/" class="logo">elion&#39;s blog</a>
+</div>
+
+
+
+
+
+<nav class="site-navbar">
+  <ul id="menu" class="menu">
+    <li class="menu-item">
+        <a class="menu-item-link" href="/">HOME</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/post/">ARCHIVES</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/tags/">TAGS </a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/categories/">CATEGORIES</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/about/">ABOUT</a>
+      </li>
+  </ul>
+</nav>
+
+    </header>
+
+    <main id="main" class="main">
+      <div class="content-wrapper">
+        <div id="content" class="content">
+          <article class="post">
+    
+    <header class="post-header">
+      <h1 class="post-title">通过Github Actions实现Hugo自动部署</h1>
+
+      <div class="post-meta">
+        <span class="post-time"> 2021-03-18 , Thu </span>
+        <div class="post-category">
+            <a href="/categories/%E6%8A%98%E8%85%BE%E4%BA%8C%E4%B8%89%E4%BA%8B/"> 折腾二三事 </a>
+            </div>
+        
+      </div>
+    </header>
+
+    <div class="post-toc" id="post-toc">
+  <h2 class="post-toc-title">文章目录</h2>
+  <div class="post-toc-content always-active">
+    <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#一认识现状">一、认识现状</a>
+          <ul>
+            <li><a href="#1typora写日志生成一篇md文件放到post文件夹下">1、Typora写日志，生成一篇MD文件，放到POST文件夹下。</a></li>
+            <li><a href="#2git端敲代码">2、git端敲代码</a></li>
+          </ul>
+        </li>
+        <li><a href="#二麻烦在哪里">二、麻烦在哪里</a></li>
+        <li><a href="#三github-actions能做什么">三、Github Actions能做什么</a></li>
+        <li><a href="#四具体操作">四、具体操作</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+  </div>
+</div>
+  <div class="post-outdated">
+    <div class="hint">
+      <p>【注意】最后更新于 <span class="timeago" datetime="2021-03-18T12:59:15" title="March 18, 2021">March 18, 2021</span>，文中内容可能已过时，请谨慎使用。</p>
+    </div>
+  </div>
+    <div class="post-content">
+      <p>参考了几个帖子：</p>
+<blockquote>
+<p><a href="https://unixetc.com/post/auto-build-hugo-site-and-deploy-to-github-pages/">Github Actions自动生成Hugo站点并部署到Github Pages</a></p>
+</blockquote>
+<blockquote>
+<p><a href="https://blog.csdn.net/weixin_41263449/article/details/107584336">JiahongWu-使用Github(Action)+Hugo搭建自己的博客</a></p>
+</blockquote>
+<p>其实，学习hugo建站的第一步的时候，已经看到多篇涉及利用Github Actions实现Hugo自动部署的文章。</p>
+<p>因为当时只想着要先解决温饱，所以没开展研究。</p>
+<p>后面几天，站也建了，网上也推了，域名也绑了。</p>
+<p>才有进一步学习的想法。</p>
+<h2 id="一认识现状">一、认识现状</h2>
+<p>几年前折腾hexo的时候就遇到过这个问题，</p>
+<p>当时部署完成后，日常要写一篇日志的时候，还要输一大堆代码，太麻烦了。</p>
+<p>没过几天，就懒的去更新了。</p>
+<p>hugo的发日志现状也是：</p>
+<h3 id="1typora写日志生成一篇md文件放到post文件夹下">1、Typora写日志，生成一篇MD文件，放到POST文件夹下。</h3>
+<h3 id="2git端敲代码">2、git端敲代码</h3>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">hugo -D
+cd public  #进入要推送的静态网页文件夹
+git add .  #添加新增的文件
+git commit -m &#34;0318update&#34; #提交
+git push -f origin master  #推送完成
+</code></pre></td></tr></table>
+</div>
+</div><h2 id="二麻烦在哪里">二、麻烦在哪里</h2>
+<p>个人感觉是多敲代码</p>
+<p>而且移动端更新日志就比较麻烦</p>
+<p>未安装Git的电脑上也难更新</p>
+<h2 id="三github-actions能做什么">三、Github Actions能做什么</h2>
+<p>由于自己非专业，理解起来有点困难，</p>
+<p>想网上找找文章，听听大神们的科普</p>
+<p>结果发现大部分的大神就是告诉你</p>
+<p>怎么用Github Actions实现Hugo自动部署</p>
+<p>然后，1，2，3，4.</p>
+<p>而且发现不同的人，方法用的还不一样。@.@</p>
+<hr>
+<p>最后，在</p>
+<blockquote>
+<p><a href="https://my.oschina.net/wrchiu/blog/4691978">阿泉-Github Actions自动生成Hugo站点并部署到Github Pages</a></p>
+</blockquote>
+<p>这篇文章里找到了答案:</p>
+<p>大概意思就是一种思路，但有两种形式：</p>
+<p>1、github上建两个仓库，A仓库存放整个hugo源码；B仓库为供于别人浏览用的X.github.io仓库，通过github actions来监测A仓库中任一文件的变化，触发github actions在云端生成更新后的静态站点并完成部署到B仓库，实现自动部署的功能。</p>
+<p>2、github上建1个仓库，但生成2个分支，一个用于存放整个hugo源码;一个gh-pages分支存放静态文件，通过github actions来监测A分支中任一文件的变化，触发github actions在云端生成更新后的静态站点并完成部署到gh-pages分支，实现自动部署的功能。</p>
+<p>也就是说通过以上部署，以后在PC端的源码文件夹下POST文件夹内写完一篇MD文件的日志后，Git执行</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">git add .  #添加新增的文件
+git commit -m &#34;0318update&#34; #提交
+git push -f origin master  #推送完成
+</code></pre></td></tr></table>
+</div>
+</div><p>即可。其实也就少了两句代码。
+另外，还可以在github网面端上传或上线写一篇MD文件保存即可实现自动部署。
+同理，手机端也可实现发布新日志。</p>
+<h2 id="四具体操作">四、具体操作</h2>
+<p>1、github上建两个仓库，A仓库名随意，属性可以设为private。B仓库名必须为
+“用户名.github.io”</p>
+<p>2、设置Deploy keys与Secrets</p>
+<p>在git端使用ssh-keygen命令来生成私钥与公钥。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">$ ssh-keygen.exe -t rsa -b 4096 -C &#34;你的邮箱名@xxx.com&#34;
+</code></pre></td></tr></table>
+</div>
+</div><p>3、在B仓库的setting里将公钥内容添加至Deploy keys，名称自定义，一定要勾选allow write access</p>
+<p>4、在A仓库setting里将私钥内容添加至Secrets，命名为ACTIONS_DEPLOY_KEY，这个名字也可以自定义，但后面的脚本中要对应上。</p>
+<p>5、在A仓库的Actions里，选择set up a workflow youself，新建一个main.yml文件。输入以下内容：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span><span class="lnt">22
+</span><span class="lnt">23
+</span><span class="lnt">24
+</span><span class="lnt">25
+</span><span class="lnt">26
+</span><span class="lnt">27
+</span><span class="lnt">28
+</span><span class="lnt">29
+</span><span class="lnt">30
+</span><span class="lnt">31
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">name: Auto Build and Deploy  #actions名称，可自定义
+on:
+  push:
+    branches:
+      - master
+jobs:
+  build-deploy:
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: actions/checkout@v2  
+       # with:
+       #   submodules: true
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: &#39;latest&#39;
+          extended: true
+
+      - name: Build Hugo Site
+        run: hugo --minify        #生成站点
+
+      - name: Deploy to GitHub pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }} # 同上面说到的(Private Key)名
+          external_repository: 用户名/用户名.github.io # Github Pages远程地址
+          publish_dir: &#34;./public&#34; #推送目录
+          keep_files: false # 删除已存在文件
+          publish_branch: master  # 推送
+          commit_message: ${{ github.event.head_commit.message }}
+</code></pre></td></tr></table>
+</div>
+</div><p>记得点保存。</p>
+<p>6、将A仓库clone到本地</p>
+<p>然后在本地A仓库中添加hugo源码，并放入自己要更新的日志、网站ico等。</p>
+<p>7、重推到远端</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">git add -A
+git commit -m &#34;0318update&#34;
+git push -f origin master
+</code></pre></td></tr></table>
+</div>
+</div><p>推送完成后，不放心的可以去A仓库点击Actions，查看代码运行情况，一切正常后，应该很会快更新网页，可以去博客页看看更新是否完成。</p>
+
+    </div>
+
+    <div class="post-copyright">
+  <p class="copyright-item">
+    <span class="item-title">文章作者</span>
+    <span class="item-content">elion</span>
+  </p>
+  <p class="copyright-item">
+    <span class="item-title">上次更新</span>
+    <span class="item-content">
+        2021-03-18 , Thu
+        
+    </span>
+  </p>
+  
+  
+</div>
+<footer class="post-footer">
+      <div class="post-tags">
+          <a href="/tags/hugo/">Hugo</a>
+          <a href="/tags/%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93/">经验总结</a>
+          </div>
+      <nav class="post-nav">
+        <a class="prev" href="/2021/0318/run/">
+            <i class="iconfont icon-left"></i>
+            <span class="prev-text nav-default">0318跑步打卡</span>
+            <span class="prev-text nav-mobile">上一篇</span>
+          </a>
+        <a class="next" href="/2021/0316/run/">
+            <span class="next-text nav-default">0316跑步打卡</span>
+            <span class="next-text nav-mobile">下一篇</span>
+            <i class="iconfont icon-right"></i>
+          </a>
+      </nav>
+    </footer>
+  </article>
+        </div>
+        
+
+  
+  <div id="vcomments"></div>
+  <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+  <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+  <script type="text/javascript">
+    new Valine({
+        el: '#vcomments' ,
+        appId: 'EEkIofc17Cj7gGX6T8wh5UOG-9Nh9j0Va',
+        appKey: 'HTj1ed9W7e5zprSemQgAFEEv',
+        notify:  null ,
+        verify:  null ,
+        avatar:'',
+        placeholder: '在这写点什么...',
+        visitor:  false 
+    });
+  </script>
+
+  
+
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="social-links">
+      <a href="mailto:p070ihut@anonaddy.me" class="iconfont icon-email" title="email"></a>
+      <a href="http://weibo.com/hjxme" class="iconfont icon-weibo" title="weibo"></a>
+      <a href="https://www.douban.com/people/elion/" class="iconfont icon-douban" title="douban"></a>
+      <a href="https://space.bilibili.com/108716406" class="iconfont icon-bilibili" title="bilibili"></a>
+  <a href="https://icoconuts.github.io/index.xml" type="application/rss+xml" class="iconfont icon-rss" title="rss"></a>
+</div>
+
+<div class="copyright">
+  <span class="power-by">
+    由 <a class="hexo-link" href="https://gohugo.io">Hugo</a> 强力驱动
+  </span>
+  <span class="division">|</span>
+  <span class="theme-info">
+    主题 - 
+    <a class="theme-link" href="https://github.com/olOwOlo/hugo-theme-even">Even</a>
+  </span>
+
+  
+
+  <span class="copyright-year">
+    &copy; 
+    2007 - 
+    2021<span class="heart"><i class="iconfont icon-heart"></i></span><span>elion</span>
+  </span>
+</div>
+
+    </footer>
+
+    <div class="back-to-top" id="back-to-top">
+      <i class="iconfont icon-up"></i>
+    </div>
+  </div>
+  
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/slideout@1.0.1/dist/slideout.min.js" integrity="sha256-t+zJ/g8/KXIJMjSVQdnibt4dlaDxc9zXr/9oNPeWqdg=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.js" integrity="sha256-XVLffZaxoWfGUEbdzuLi7pwaUJv1cecsQJQqGLe7axY=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/timeago.js@3.0.2/dist/timeago.min.js" integrity="sha256-jwCP0NAdCBloaIWTWHmW4i3snUNMHUNO+jr9rYd2iOI=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/timeago.js@3.0.2/dist/timeago.locales.min.js" integrity="sha256-ZwofwC1Lf/faQCzN7nZtfijVV6hSwxjQMwXL4gn9qU8=" crossorigin="anonymous"></script>
+  <script><!-- NOTE: timeago.js uses the language code format like "zh_CN" (underscore and case sensitive) -->
+    var languageCode = "zh-cn".replace(/-/g, '_').replace(/_(.*)/, function ($0, $1) {return $0.replace($1, $1.toUpperCase());});
+    timeago().render(document.querySelectorAll('.timeago'), languageCode);
+    timeago.cancel();  
+  </script>
+
+
+
+<script type="text/javascript" src="/js/main.min.c99b103c33d1539acf3025e1913697534542c4a5aa5af0ccc20475ed2863603b.js"></script>
+
+
+
+
+
+
+
+
+</body>
+</html>

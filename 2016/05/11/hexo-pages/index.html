@@ -23,7 +23,7 @@
 
 
 
-<meta name="generator" content="Hugo 0.84.0 with theme even" />
+<meta name="generator" content="Hugo 0.91.2 with theme even" />
 
 
 <link rel="canonical" href="https://icoconuts.github.io/2016/05/11/hexo-pages/" />
@@ -43,12 +43,12 @@
 <meta property="og:description" content="elion发表于HEXO 其实，看了很多教程，他们都喜欢把这个步骤放到很前面讲，可能比较迎合许多人的想" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://icoconuts.github.io/2016/05/11/hexo-pages/" /><meta property="article:section" content="post" />
-<meta property="article:published_time" content="2016-05-11T16:29:15&#43;08:00" />
-<meta property="article:modified_time" content="2016-05-11T16:29:15&#43;08:00" />
+<meta property="article:published_time" content="2016-05-11T16:29:15+08:00" />
+<meta property="article:modified_time" content="2016-05-11T16:29:15+08:00" />
 
 <meta itemprop="name" content="将本地Hexo部署到Github">
-<meta itemprop="description" content="elion发表于HEXO 其实，看了很多教程，他们都喜欢把这个步骤放到很前面讲，可能比较迎合许多人的想"><meta itemprop="datePublished" content="2016-05-11T16:29:15&#43;08:00" />
-<meta itemprop="dateModified" content="2016-05-11T16:29:15&#43;08:00" />
+<meta itemprop="description" content="elion发表于HEXO 其实，看了很多教程，他们都喜欢把这个步骤放到很前面讲，可能比较迎合许多人的想"><meta itemprop="datePublished" content="2016-05-11T16:29:15+08:00" />
+<meta itemprop="dateModified" content="2016-05-11T16:29:15+08:00" />
 <meta itemprop="wordCount" content="928">
 <meta itemprop="keywords" content="Hexo,经验总结," /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="将本地Hexo部署到Github"/>
@@ -177,41 +177,41 @@
 <p>一般的部署都是通过SSH，如果是第一次使用SSH部署的话，还需要以下几步，命令行输入：</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-fallback" data-lang="fallback">git config --global user.email xxx@xx.com　＃你的邮箱名
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">git config --global user.email xxx@xx.com　＃你的邮箱名
 git config --global user.name xxx
 </code></pre></td></tr></table>
 </div>
 </div><p>再生成SS文件，命令行输入：</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-fallback" data-lang="fallback">ssh-keygen -t rsa -C xxx@163.com(邮箱地址)  #生成ssh
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">ssh-keygen -t rsa -C xxx@163.com(邮箱地址)  #生成ssh
 </code></pre></td></tr></table>
 </div>
 </div><p>然后，再本地找到 id_rsa.pub 文件，打开后复制代码，到Github里设置添加SSH公钥即可。</p>
 <p>可以通过命令行检验，，命令行输入：</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-fallback" data-lang="fallback">ssh -T git@github.com
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">ssh -T git@github.com
 </code></pre></td></tr></table>
 </div>
 </div><p>回车，回车。</p>
 <p>得到以下结果，说明就可以了。</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-fallback" data-lang="fallback">Hi username! You’ve successfully authenticated, but GitHub does not provide shell access.
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">Hi username! You’ve successfully authenticated, but GitHub does not provide shell access.
 </code></pre></td></tr></table>
 </div>
 </div><p>修改hexo文件夹下的_config.yml配置文件</p>
@@ -219,13 +219,13 @@ git config --global user.name xxx
 <p>在该文件的最后找到并修改成：</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span><span class="lnt">4
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-fallback" data-lang="fallback">deploy: 
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">deploy: 
  type: git 
  repository: git@github.com:XXX/XXX.github.io.git #这里改成你的ID
  branch: master 
@@ -234,31 +234,31 @@ git config --global user.name xxx
 </div><p>再部署之前，再输入命令行：</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-fallback" data-lang="fallback">npm install hexo-deployer-git --save
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">npm install hexo-deployer-git --save
 </code></pre></td></tr></table>
 </div>
 </div><p>最后，输入命令行：</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-fallback" data-lang="fallback">hexo d
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">hexo d
 </code></pre></td></tr></table>
 </div>
 </div><p>部署完毕。</p>
 <p>以后，建议每次部署的步骤，可按以下三步来进行。</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-fallback" data-lang="fallback">hexo clean
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">hexo clean
 hexo g
 hexo d
 </code></pre></td></tr></table>
@@ -273,12 +273,12 @@ hexo d
 <p>到主题目录下，命令行输入：</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-fallback" data-lang="fallback">git clone https://github.com/XXX&gt;/XXXX.git
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">git clone https://github.com/XXX&gt;/XXXX.git
 cd XXX
 npm install
 </code></pre></td></tr></table>
@@ -289,10 +289,10 @@ npm install
 <p>找到需要更新的主题文件夹，右键菜单下的Git Bush here，命令行输入：</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-fallback" data-lang="fallback">git pull
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">git pull
 </code></pre></td></tr></table>
 </div>
 </div><p>更新前请先备份主题目录下的_config.yml文件。</p>
@@ -384,7 +384,7 @@ npm install
   <span class="copyright-year">
     &copy; 
     2007 - 
-    2021<span class="heart"><i class="iconfont icon-heart"></i></span><span>elion</span>
+    2022<span class="heart"><i class="iconfont icon-heart"></i></span><span>elion</span>
   </span>
 </div>
 

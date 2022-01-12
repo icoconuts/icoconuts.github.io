@@ -64,7 +64,7 @@
       <description>&lt;p&gt;插件功能介绍：生成一个论坛签名图片，在该图片上自动显示你的Wordpress博客上的最新文章。&lt;br&gt;
 把blog文章列表生成图片的插件。&lt;/p&gt;
 &lt;p&gt;效果预览：&lt;/p&gt;
-&lt;p&gt;&lt;img class=&#34;alignnone&#34; src=&#34;http://127.0.0.1/tool/title.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
+&lt;img class=&#34;alignnone&#34; src=&#34;http://127.0.0.1/tool/title.png&#34; alt=&#34;&#34; /&gt;</description>
     </item>
     
     <item>
@@ -86,7 +86,7 @@
 &lt;p&gt;想想还是转回原来的效果：在页面底部并排显示。虽然不是我自己的创意，但还是自己通过CSS慢慢调整得出了。&lt;/p&gt;
 &lt;p&gt;本效果在IE 7,chrome,Firefox,Opera下测试通过，至于IE 6不做考虑。。&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
-&lt;p&gt;&lt;img style=&#34;display: block; float: none; margin-left: auto; margin-right: auto&#34; src=&#34;http://farm4.static.flickr.com/3585/3313305807_e48bf7bb6b_o.jpg&#34; /&gt;&lt;/p&gt;</description>
+&lt;img style=&#34;display: block; float: none; margin-left: auto; margin-right: auto&#34; src=&#34;http://farm4.static.flickr.com/3585/3313305807_e48bf7bb6b_o.jpg&#34; /&gt;</description>
     </item>
     
     <item>

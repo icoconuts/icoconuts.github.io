@@ -23,7 +23,7 @@
 
 
 
-<meta name="generator" content="Hugo 0.84.0 with theme even" />
+<meta name="generator" content="Hugo 0.91.2 with theme even" />
 
 
 <link rel="canonical" href="https://icoconuts.github.io/2021/0318/Github-Actions/" />
@@ -43,12 +43,12 @@
 <meta property="og:description" content="参考了几个帖子： Github Actions自动生成Hugo站点并部署到Github Pages JiahongWu-使用G" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://icoconuts.github.io/2021/0318/Github-Actions/" /><meta property="article:section" content="post" />
-<meta property="article:published_time" content="2021-03-18T12:59:15&#43;08:00" />
-<meta property="article:modified_time" content="2021-03-18T12:59:15&#43;08:00" />
+<meta property="article:published_time" content="2021-03-18T12:59:15+08:00" />
+<meta property="article:modified_time" content="2021-03-18T12:59:15+08:00" />
 
 <meta itemprop="name" content="通过Github Actions实现Hugo自动部署">
-<meta itemprop="description" content="参考了几个帖子： Github Actions自动生成Hugo站点并部署到Github Pages JiahongWu-使用G"><meta itemprop="datePublished" content="2021-03-18T12:59:15&#43;08:00" />
-<meta itemprop="dateModified" content="2021-03-18T12:59:15&#43;08:00" />
+<meta itemprop="description" content="参考了几个帖子： Github Actions自动生成Hugo站点并部署到Github Pages JiahongWu-使用G"><meta itemprop="datePublished" content="2021-03-18T12:59:15+08:00" />
+<meta itemprop="dateModified" content="2021-03-18T12:59:15+08:00" />
 <meta itemprop="wordCount" content="1681">
 <meta itemprop="keywords" content="Hugo,经验总结," /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="通过Github Actions实现Hugo自动部署"/>
@@ -163,7 +163,7 @@
   </div>
 </div>
   <div class="post-outdated">
-    <div class="hint">
+    <div class="warn">
       <p>【注意】最后更新于 <span class="timeago" datetime="2021-03-18T12:59:15" title="March 18, 2021">March 18, 2021</span>，文中内容可能已过时，请谨慎使用。</p>
     </div>
   </div>
@@ -188,14 +188,14 @@
 <h3 id="2git端敲代码">2、git端敲代码</h3>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span><span class="lnt">4
 </span><span class="lnt">5
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-fallback" data-lang="fallback">hugo -D
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">hugo -D
 cd public  #进入要推送的静态网页文件夹
 git add .  #添加新增的文件
 git commit -m &#34;0318update&#34; #提交
@@ -225,12 +225,12 @@ git push -f origin master  #推送完成
 <p>也就是说通过以上部署，以后在PC端的源码文件夹下POST文件夹内写完一篇MD文件的日志后，Git执行</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-fallback" data-lang="fallback">git add .  #添加新增的文件
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">git add .  #添加新增的文件
 git commit -m &#34;0318update&#34; #提交
 git push -f origin master  #推送完成
 </code></pre></td></tr></table>
@@ -245,10 +245,10 @@ git push -f origin master  #推送完成
 <p>在git端使用ssh-keygen命令来生成私钥与公钥。</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-fallback" data-lang="fallback">$ ssh-keygen.exe -t rsa -b 4096 -C &#34;你的邮箱名@xxx.com&#34;
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">$ ssh-keygen.exe -t rsa -b 4096 -C &#34;你的邮箱名@xxx.com&#34;
 </code></pre></td></tr></table>
 </div>
 </div><p>3、在B仓库的setting里将公钥内容添加至Deploy keys，名称自定义，一定要勾选allow write access</p>
@@ -256,7 +256,7 @@ git push -f origin master  #推送完成
 <p>5、在A仓库的Actions里，选择set up a workflow youself，新建一个main.yml文件。输入以下内容：</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt"> 1
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
 </span><span class="lnt"> 2
 </span><span class="lnt"> 3
 </span><span class="lnt"> 4
@@ -289,7 +289,7 @@ git push -f origin master  #推送完成
 </span><span class="lnt">31
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-fallback" data-lang="fallback">name: Auto Build and Deploy  #actions名称，可自定义
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">name: Auto Build and Deploy  #actions名称，可自定义
 on:
   push:
     branches:
@@ -328,12 +328,12 @@ jobs:
 <p>7、重推到远端</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-fallback" data-lang="fallback">git add -A
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">git add -A
 git commit -m &#34;0318update&#34;
 git push -f origin master
 </code></pre></td></tr></table>
@@ -425,7 +425,7 @@ git push -f origin master
   <span class="copyright-year">
     &copy; 
     2007 - 
-    2021<span class="heart"><i class="iconfont icon-heart"></i></span><span>elion</span>
+    2022<span class="heart"><i class="iconfont icon-heart"></i></span><span>elion</span>
   </span>
 </div>
 

@@ -23,7 +23,7 @@
 
 
 
-<meta name="generator" content="Hugo 0.84.0 with theme even" />
+<meta name="generator" content="Hugo 0.91.2 with theme even" />
 
 
 <link rel="canonical" href="https://icoconuts.github.io/2021/0303/hugo-bs/" />
@@ -43,12 +43,12 @@
 <meta property="og:description" content="Hugo建站 Hugo是由Go语言实现的静态网站生成器。简单、易用、高效、易扩展、快速部署。 1. 本地搭建" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://icoconuts.github.io/2021/0303/hugo-bs/" /><meta property="article:section" content="post" />
-<meta property="article:published_time" content="2021-03-03T22:29:15&#43;08:00" />
-<meta property="article:modified_time" content="2021-03-03T22:29:15&#43;08:00" />
+<meta property="article:published_time" content="2021-03-03T22:29:15+08:00" />
+<meta property="article:modified_time" content="2021-03-03T22:29:15+08:00" />
 
 <meta itemprop="name" content="Hugo建站并部署到github">
-<meta itemprop="description" content="Hugo建站 Hugo是由Go语言实现的静态网站生成器。简单、易用、高效、易扩展、快速部署。 1. 本地搭建"><meta itemprop="datePublished" content="2021-03-03T22:29:15&#43;08:00" />
-<meta itemprop="dateModified" content="2021-03-03T22:29:15&#43;08:00" />
+<meta itemprop="description" content="Hugo建站 Hugo是由Go语言实现的静态网站生成器。简单、易用、高效、易扩展、快速部署。 1. 本地搭建"><meta itemprop="datePublished" content="2021-03-03T22:29:15+08:00" />
+<meta itemprop="dateModified" content="2021-03-03T22:29:15+08:00" />
 <meta itemprop="wordCount" content="754">
 <meta itemprop="keywords" content="Hugo,经验总结," /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Hugo建站并部署到github"/>
@@ -164,7 +164,7 @@
   </div>
 </div>
   <div class="post-outdated">
-    <div class="hint">
+    <div class="warn">
       <p>【注意】最后更新于 <span class="timeago" datetime="2021-03-03T22:29:15" title="March 3, 2021">March 3, 2021</span>，文中内容可能已过时，请谨慎使用。</p>
     </div>
   </div>
@@ -185,10 +185,10 @@
 <p>然后后，查看版本信息：</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-fallback" data-lang="fallback">hugo version
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">hugo version
 </code></pre></td></tr></table>
 </div>
 </div><p>另还需要安装<a href="https://git-scm.com/">Git</a>。一路默认点就行了。</p>
@@ -196,10 +196,10 @@
 <p>在hugo文件夹中，在命令行中运行：</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-fallback" data-lang="fallback">hugo new site justblog(名字顺便)
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">hugo new site justblog(名字顺便)
 </code></pre></td></tr></table>
 </div>
 </div><p>由于新建站点没有主题，我们先找个主题。</p>
@@ -210,13 +210,13 @@
 <p>修改根目录下config.toml文件</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span><span class="lnt">4
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-fallback" data-lang="fallback">baseurl = &#34;https://hjxme.github.io/&#34;
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">baseurl = &#34;https://hjxme.github.io/&#34;
 languageCode = &#34;zh-CN&#34;
 title = &#34;elion&#39;s blog&#34;
 theme = &#34;even&#34;
@@ -227,20 +227,20 @@ theme = &#34;even&#34;
 <p>创建文章，在命令行输入：</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-fallback" data-lang="fallback">hugo new content/post/1.md
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">hugo new content/post/1.md
 </code></pre></td></tr></table>
 </div>
 </div><p>该文件自动出现在content/post/1.md</p>
 <h3 id="15-本地网站预览">1.5 本地网站预览</h3>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-fallback" data-lang="fallback">hugo server
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">hugo server
 </code></pre></td></tr></table>
 </div>
 </div><p>此时生成的是静态文件，注意命令行窗口不要关。</p>
@@ -250,24 +250,24 @@ theme = &#34;even&#34;
 <p>在根目录执行</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-fallback" data-lang="fallback"> hugo -D
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"> hugo -D
 </code></pre></td></tr></table>
 </div>
 </div><p>此时，所有的静态页面都会生成到public目录。在pubilc目录，右击鼠标，选git bash here.</p>
 <p>然后，执行以下命令：</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span><span class="lnt">4
 </span><span class="lnt">5
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-fallback" data-lang="fallback">git init
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">git init
 git remote add origin https://github.com/hjxme/hjxme.github.io.git
 git add -A
 git commit -m &#34;first commit&#34;
@@ -361,7 +361,7 @@ git push -f origin master
   <span class="copyright-year">
     &copy; 
     2007 - 
-    2021<span class="heart"><i class="iconfont icon-heart"></i></span><span>elion</span>
+    2022<span class="heart"><i class="iconfont icon-heart"></i></span><span>elion</span>
   </span>
 </div>
 

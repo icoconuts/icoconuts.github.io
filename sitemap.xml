@@ -86,8 +86,43 @@
   </url>
   
   <url>
+    <loc>https://icoconuts.github.io/tags/notion/</loc>
+    <lastmod>2021-12-25T13:49:15+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://icoconuts.github.io/2021/1225/Notion-icons/</loc>
+    <lastmod>2021-12-25T13:49:15+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://icoconuts.github.io/tags/%E5%9B%BE%E6%A0%87/</loc>
+    <lastmod>2021-12-25T13:49:15+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://icoconuts.github.io/categories/%E6%8A%98%E8%85%BE%E4%BA%8C%E4%B8%89%E4%BA%8B/</loc>
+    <lastmod>2021-12-25T13:49:15+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://icoconuts.github.io/tags/bilibili/</loc>
-    <lastmod>2021-12-15T08:12:15+08:00</lastmod>
+    <lastmod>2021-12-22T13:12:15+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://icoconuts.github.io/2021/1222/Notion-add-bili/</loc>
+    <lastmod>2021-12-22T13:12:15+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -312,13 +347,6 @@
   <url>
     <loc>https://icoconuts.github.io/2021/0522/16-22swim/</loc>
     <lastmod>2021-05-22T17:30:15+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://icoconuts.github.io/categories/%E6%8A%98%E8%85%BE%E4%BA%8C%E4%B8%89%E4%BA%8B/</loc>
-    <lastmod>2021-05-15T18:12:15+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

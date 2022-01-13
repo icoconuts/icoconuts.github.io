@@ -6,7 +6,16 @@
     <description>Recent content in Bilibili on elion&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 15 Dec 2021 08:12:15 +0800</lastBuildDate><atom:link href="https://icoconuts.github.io/tags/bilibili/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Dec 2021 13:12:15 +0800</lastBuildDate><atom:link href="https://icoconuts.github.io/tags/bilibili/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notion中如何优雅地插入Bilibili视频</title>
+      <link>https://icoconuts.github.io/2021/1222/Notion-add-bili/</link>
+      <pubDate>Wed, 22 Dec 2021 13:12:15 +0800</pubDate>
+      
+      <guid>https://icoconuts.github.io/2021/1222/Notion-add-bili/</guid>
+      <description>Notion可以输入： /embed 方法来直接插入文件或视频。 直接使用以下代码: player.bilibili.</description>
+    </item>
+    
     <item>
       <title>抗疫MV-浙世界那么多人</title>
       <link>https://icoconuts.github.io/2021/1215/zjjy/</link>

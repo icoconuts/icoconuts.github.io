@@ -26,29 +26,29 @@
     </item>
     
     <item>
-      <title>将本地Hexo部署到Github</title>
-      <link>https://icoconuts.github.io/2016/05/11/hexo-pages/</link>
+      <title>Hexo主题配置</title>
+      <link>https://icoconuts.github.io/2016/05/11/hexo-themes/</link>
       <pubDate>Wed, 11 May 2016 16:29:15 +0800</pubDate>
       
-      <guid>https://icoconuts.github.io/2016/05/11/hexo-pages/</guid>
+      <guid>https://icoconuts.github.io/2016/05/11/hexo-themes/</guid>
       <description>elion发表于HEXO 其实，看了很多教程，他们都喜欢把这个步骤放到很前面讲，可能比较迎合许多人的想</description>
     </item>
     
     <item>
       <title>Hexo生成文章</title>
-      <link>https://icoconuts.github.io/2016/05/10/hexo2/</link>
+      <link>https://icoconuts.github.io/2016/05/10/hexo-newblog/</link>
       <pubDate>Tue, 10 May 2016 21:29:15 +0800</pubDate>
       
-      <guid>https://icoconuts.github.io/2016/05/10/hexo2/</guid>
+      <guid>https://icoconuts.github.io/2016/05/10/hexo-newblog/</guid>
       <description>elion发表于HEXO 初阶 生成文章 找到E:\hexo,右键菜单下的Git Bush here.命令行输入：（</description>
     </item>
     
     <item>
       <title>初识Hexo与Hexo安装</title>
-      <link>https://icoconuts.github.io/2016/05/10/hexo1/</link>
+      <link>https://icoconuts.github.io/2016/05/10/hexo-intr/</link>
       <pubDate>Tue, 10 May 2016 18:29:15 +0800</pubDate>
       
-      <guid>https://icoconuts.github.io/2016/05/10/hexo1/</guid>
+      <guid>https://icoconuts.github.io/2016/05/10/hexo-intr/</guid>
       <description>发表于HEXO 认识Hexo Hexo，快速、简洁且高效的博客框架。官方网站戳这里，支持中文。 特点： 1.</description>
     </item>
     
